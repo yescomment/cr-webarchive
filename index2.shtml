@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/styles-nav.css" />
+<link rel="stylesheet" href="http://cityreliquary.com/style/myfeed.css" media="all">
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+
+<div  style="z-index: 50;">
+<!-- //nav -->
+
+<!--#include virtual="menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+</div>
+<div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
+<div id="butt"> 
+<a href="http://www.cityreliquary.com/friends/archives/000407.shtml"><img src="pics/member_badge.gif"></a>
+
+</div>
+
+
+<div id="bobby">
+<div id="oswald">
+
+<img src="pics/welcome1.gif" alt="welcome" />
+
+<div id="teddy">
+
+<p><br /><a href="#" target="_blank"><img alt="postcard.jpg.jpeg" src="http://cityreliquary.com/pics/poster.png" width="450" height="629" border="0" /></a><br /><br /></p>
+
+
+<!-- rotator
+<a href="http://cityreliquary.com/events/archives/cat_tribute_to_our_city_2006.shtml"><img src="random/rotator.php" alt="welcome" border="0" /></a>
+-->
+
+<!-- Front Page Image!!!!!!!!!!!!!!!!!!!!!
+<a href="http://cityreliquary.com/frontpage/archives/pics/BikeFetishForm.pdf"><img alt="ezflyer_single.jpg" src="http://cityreliquary.com/frontpage/archives/pics/ezflyer_single.jpg" width="520" height="725" border="0" />
+</a>
+-->
+    <br />
+	  </div>
+
+  <a href="http://maps.google.com/maps?q=370+Metropolitan+Ave+Brooklyn+NY+11211" target="_blank"><img src="pics/address1.gif" alt="address" /></a>
+</div>
+
+<div class="side-head">
+LATEST NEWS
+</div>
+
+
+<div id="side-news">
+
+
+
+<script language="JavaScript" src="http://www.cityreliquary.com//feed2js.php?src=http%3A%2F%2Fcityreliquary.com%2Fnews%2Findex.xml&amp;num=7&amp;desc=0" type="text/javascript"></script>
+
+<noscript>
+<a href="http://www.cityreliquary.com//feed2js.php?src=http%3A%2F%2Fcityreliquary.com%2Fnews%2Findex.xml&amp;num=7&amp;desc=0&amp;html=y">View RSS feed</a>
+</noscript>
+
+<p  style="font-family:helvetica, geneva, arial, sans-serif;"><img src="http://cityreliquary.com/pics/arrow2.gif"> <a href="http://cityreliquary.com/news/">Read More News</a></p>
+
+</div>
+
+<br />
+
+</div>
+
+<br class="clear" />
+</div>
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></div>
+<!-- //nav -->
+
+<!--#include virtual="menu_bott_nav.ssi" -->
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>

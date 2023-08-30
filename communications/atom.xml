@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Communications</title>
+  <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/" />
+  <modified>2006-10-26T20:31:43Z</modified>
+  <tagline>Get in touch with us here at the Reliquary directly or through electronic communication.</tagline>
+  <id>tag:cityreliquary.com,2009:/communications/3</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2006, dave</copyright>
+  <entry>
+    <title>CR Museum Telephone Hotline</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000401.shtml" />
+    <modified>2006-10-26T20:31:43Z</modified>
+    <issued>2006-10-26T21:31:43+00:00</issued>
+    <id>tag:cityreliquary.com,2006:/communications/3.401</id>
+    <created>2006-10-26T20:31:43Z</created>
+    <summary type="text/plain">Call us at 718.782.4842, that&apos;s 718-R-U-CIVIC for more information on the City Reliquary Museum &amp; Civic Organization...</summary>
+    <author>
+      <name>dave</name>
+      
+      <email>cityreliquary@dhlabsnyc.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communications/">
+      <![CDATA[Call us at 718.782.4842, 
+that's<strong> 718-R-U-CIVIC</strong>
+for more information on the City Reliquary Museum & Civic Organization]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Sending Us A Package</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000131.shtml" />
+    <modified>2005-06-07T00:11:52Z</modified>
+    <issued>2005-06-07T01:11:52+00:00</issued>
+    <id>tag:cityreliquary.com,2005:/communications/3.131</id>
+    <created>2005-06-07T00:11:52Z</created>
+    <summary type="text/plain">Put a Stamp on It and Send it Along......</summary>
+    <author>
+      <name>archival</name>
+      
+      <email>justmyname@jessejamesarnold.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communications/">
+      <![CDATA[Put a Stamp on It and Send it Along...
+<br><br>]]>
+      <![CDATA[<center>
+The City Reliquary<br>
+PO BOX 110948<br>
+Brooklyn NY 11211<br>
+</center>]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Joining Our Mailing List</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000056.shtml" />
+    <modified>2005-04-03T00:20:21Z</modified>
+    <issued>2005-04-03T00:20:21+00:00</issued>
+    <id>tag:cityreliquary.com,2005:/communications/3.56</id>
+    <created>2005-04-03T00:20:21Z</created>
+    <summary type="text/plain">Join our mailing list to receive updates concerning upcoming collections and other events....</summary>
+    <author>
+      <name>archival</name>
+      
+      <email>justmyname@jessejamesarnold.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communications/">
+      <![CDATA[Join our mailing list to receive updates concerning upcoming collections and other events.<br><br>
+ ]]>
+      <![CDATA[<form action="/cgi-bin/formmail/formmail.pl" method="POST">
+  <input type="hidden" name="recipient" value="civiclist-subscribe@cityreliquary.org">
+  <input type="hidden" name="subject" value="Mailing List">
+  <input type="hidden" name="redirect" value="http://cityreliquary.org/communications/archives/000057.html">
+  <input type="hidden" name="sort_type" value="none">
+  <input type="hidden" name="sort_fields" value="Name, email">
+Name:<br>   
+<input type="text" name="Name" size="20" maxlength="50" ><br>  
+Email: <br>  
+<input type="text" name="email" size="20" maxlength="50" ><br>  
+<input type="submit" name="Submit" value="Submit"> 
+                              </form>]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Sending Us A Message</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000055.shtml" />
+    <modified>2005-04-02T23:59:11Z</modified>
+    <issued>2005-04-02T23:59:11+00:00</issued>
+    <id>tag:cityreliquary.com,2005:/communications/3.55</id>
+    <created>2005-04-02T23:59:11Z</created>
+    <summary type="text/plain">If would like to propose a Community Collections Project, or would simply like to submit a general request or comment please fill out the form below....</summary>
+    <author>
+      <name>archival</name>
+      
+      <email>justmyname@jessejamesarnold.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communications/">
+      <![CDATA[If would like to propose a Community Collections Project, or would simply like to submit a general request or comment please fill out the form below.
+<br><br>]]>
+      <![CDATA[<form action="/cgi-bin/FormMail.pl" method="POST">
+<input type="hidden" name="recipient" value="swap">
+<input type="hidden" name="subject" value="Message Center">
+<input type="hidden" name="redirect" value="http://cityreliquary.org/communications/archives/000058.html">
+Name:<br>
+
+                          <input type="text" name="Name" size="20" maxlength="50" ><br>
+Email:<br>
+
+                          <input type="text" name="email" size="20" maxlength="50" ><br>
+Comments: <br>
+
+                          <textarea name="comment" cols="35" rows="17"></textarea><br>
+                          <input type="submit" value="Send" name="submit"><br>
+
+      </form>]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Message Received</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000058.shtml" />
+    <modified>2001-04-02T23:34:30Z</modified>
+    <issued>2001-04-03T00:34:30+00:00</issued>
+    <id>tag:cityreliquary.com,2001:/communications/3.58</id>
+    <created>2001-04-02T23:34:30Z</created>
+    <summary type="text/plain">Thank you for your input. We&apos;ll review your comments and get back to you as soon as possible....</summary>
+    <author>
+      <name>archival</name>
+      
+      <email>justmyname@jessejamesarnold.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communications/">
+      Thank you for your input. We&apos;ll review your comments and get back to you as soon as possible.
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Mailing List Success</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000057.shtml" />
+    <modified>2001-04-02T23:33:46Z</modified>
+    <issued>2001-04-03T00:33:46+00:00</issued>
+    <id>tag:cityreliquary.com,2001:/communications/3.57</id>
+    <created>2001-04-02T23:33:46Z</created>
+    <summary type="text/plain">Thanks for joining. Check your email address for confirmation....</summary>
+    <author>
+      <name>archival</name>
+      
+      <email>justmyname@jessejamesarnold.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communications/">
+      Thanks for joining.  Check your email address for confirmation.
+      
+    </content>
+  </entry>
+
+</feed>

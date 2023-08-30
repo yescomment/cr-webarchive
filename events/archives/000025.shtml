@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | Special Events | Collector Portrait 001</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/events//styles-nav.css" />
+
+<link rel="stylesheet" href="http://cityreliquary.com/events//styles-site.css" type="text/css" />
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+<!-- //nav -->
+  
+<!--#include virtual="../../menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+<div id="bann"><a href="#" class="default"><img src="http://cityreliquary.com/pics/head_back.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+
+<div id="jackie"> 
+<div class="subhead">
+Collectors Night: Collector Portrait 001</div>  
+<div id="menu">
+
+ <a href="http://cityreliquary.com/events/archives/000026.shtml">PREVIOUS</a> |
+
+<a href="http://cityreliquary.com/events/archives/cat_collectors_night.shtml">EVENT HOME</a>
+
+
+<br>
+</div>
+ <br>
+<div class="blog">
+
+<div id="content"> 
+<img src="http://cityreliquary.org/events/archives/collectors/collector_014.jpg" alt="Collector Portrait 001">
+<br><br>
+</div>
+</div>
+</div>
+<div id="marylin"> 
+
+<div class="blogcap">
+<div class="blogbody">
+Ervin Mendez is a quintessential collector.  When V.P. of Collections, Bill Scanga and I visited his home, we were amazed to see over 300 bobbleheads stacked from floor to ceiling.  His favorite brand is "Funko" who makes an extensive array of old and new styles.  Ervin also puts a great deal of effort into preservation and display of his collections.  The specially designed boxes make for great stacking material and protect the contents as well.  If you were in attendance, you may have also noticed his bright LED sign welcoming everyone to Collectors' Night.  Normally, this sign welcomes visitors to the collections in the back room of his apartment.  Quite a site!    
+</MTEntryBody>
+</div>
+</div>
+
+
+  <div id="menu2">
+ <a href="http://cityreliquary.com/events/archives/000026.shtml">PREVIOUS</a> |
+
+<a href="http://cityreliquary.com/events/archives/cat_collectors_night.shtml">HOME</a>
+
+</div>
+</div>
+
+
+<div id="foot"><a href="#" class="default"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></a></div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/wcrm"><img src="http://cityreliquary.com/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/communitybeutification"><img src="http://cityreliquary.com/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/civicriders/archives/cat_events.html"><img src="http://cityreliquary.com/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/collections"><img src="http://cityreliquary.com/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+
+</div>
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+</div>
+</body>
+</html>

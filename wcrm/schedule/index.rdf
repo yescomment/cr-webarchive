@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://cityreliquary.org/wcrm/schedule/">
+<title>WCRM Schedule</title>
+<link>http://cityreliquary.org/wcrm/schedule/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-11-13T22:57:30+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000289.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000288.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000287.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000286.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000285.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000284.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000283.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000282.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000277.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000276.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000275.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000265.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000270.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000269.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.org/wcrm/schedule/archives/000268.shtml" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000289.shtml">
+<title>Anonymous Mashup</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000289.shtml</link>
+<description>CD&apos;s Found in the Reliquary Gardens These CD&apos;s were donated by an anonymous party and left in the Reliquary Gardens on Havemeyer. We are unsure who the DJ is who compiled these tracks is, but are ready to credit him...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T22:57:30+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000288.shtml">
+<title>Truckers Atlas</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000288.shtml</link>
+<description>A Compilation Taken from The Road Tapes of Two Art Handlers Dave Herman, President and Jesse James Arnold, Web and Music Tech, spent six months traveling across this fine country of ours delivering famous, heavier than you would believe artworks,...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T22:29:13+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000287.shtml">
+<title>Cover Story</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000287.shtml</link>
+<description>An Ongoing WCRM Covers Show 11.12.05. Stranger and/or Stronger Its just no fun when a musician covers a song and it sounds too much like the original. The magic only seems to happen when a new artist appies his/her own...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T22:23:41+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000286.shtml">
+<title>40 Shuffled Songs</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000286.shtml</link>
+<description>Try at Home and Amaze Your Friends! Step One : Select Party Shuffle in Your MP3 Music Player. Step Two : Shuffle Settings / 50 Songs Per Shuffle Step Three : Select At Leact One Song from Each Random Collection...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T22:15:27+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000285.shtml">
+<title>One Night Only</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000285.shtml</link>
+<description>A Rotating Playlist A collection of songs from the bands that are the soundtrack to our events. All of the following bands donated their time and sounds to the City Reliquary and WCRM. We&apos;d like to thank them by dedicating...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T22:08:29+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000284.shtml">
+<title>An Incomplete Collection : The History of Hip Hop</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000284.shtml</link>
+<description>A Ongoing Show by Bill Scanga A collection that strives for completion but remains relatively content with the search and the exploration of the topic at hand. Volume One 1, Mean Machine Chant / The Last Poets 1971 2.Scorpio/ Grandmaster...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T22:03:53+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000283.shtml">
+<title>Indie Hip Hop : A Sampler</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000283.shtml</link>
+<description>A Playlist Curated by Josh Whynot 1) Odd Nosdam - Track 1 (from No Wig for Ohio) 2) Buck 65 - Wicked And Weird 3) Busdriver - Imaginary Places 4) Adlib - June Gloom (Feat. Subtitle) 5) Themselves - Terror...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-13T21:51:23+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000282.shtml">
+<title>Updates: November 12-19 2005</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000282.shtml</link>
+<description>New This Week: Indie Hip Hop: A Sampler : A Playlist by Josh Whynot Anonymous Mashup : CD&apos;s Found in the Reliquary Gardens One Night Only : A Homage to Bands that Played Reliquary Events An Incomplete Collection : The...</description>
+<dc:subject>days</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-11-12T23:17:08+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000277.shtml">
+<title>40 Songs</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000277.shtml</link>
+<description> Includes songs from: Sufjan Stevens Wolf Parade Islands Television Gorillaz Kanye West Death from Above 1979 Radiohead Bob Dylan T. Rex The Jam Modest Mouse Alec Ounsworth The Beach Boys The Buzzcocks Clap Your Hands, Say Yeah The Replacements...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-26T01:13:42+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000276.shtml">
+<title>Searchin for a Truer Sound</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000276.shtml</link>
+<description> Includes songs from: Ugly Cassanova My Morning Jacket Uncle Tupleo John Prine Alec Ounsworth Whiskeytown Bob Schneider Bob Dylan Emmylou Harris Dire Straits Beth Orton Iron and Wine Lucinda Williams Modest Mouse Dinosaur Jr Bright Eyes Lambchop The Replacements...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-26T01:07:08+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000275.shtml">
+<title>Dawn of Punk : NYC 1970-1980</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000275.shtml</link>
+<description>This list serves as somewhat of a soundtrack to the book: Please Kill Me: A Oral History of Punk. Rooted essenitially in NYC, the book provides a detailed account of the scene and the music. Soon to follow will be:...</description>
+<dc:subject>shows</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-26T00:54:10+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000265.shtml">
+<title>Sunday</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000265.shtml</link>
+<description> 4:00 AM - 6:00 AM : NYC Morning Mix 6:00 AM - 8:00 AM : &quot;Live&quot; Themed Music Mix 8:00 AM - 10:00 AM : Past Show: The Live Show : October 2005 10:00 AM - 12:00 PM :...</description>
+<dc:subject>days</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-14T02:58:06+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000270.shtml">
+<title>Monday</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000270.shtml</link>
+<description> 4:00 AM - 6:00 AM : NYC Morning Mix 6:00 AM - 8:00 AM : &quot;Coffee&quot; Themed Music Mix 8:00 AM - 10:00 AM : Past Show: The Coffee Show : November 2005 10:00 AM - 12:00 PM :...</description>
+<dc:subject>days</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-13T03:19:22+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000269.shtml">
+<title>Tuesday</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000269.shtml</link>
+<description> 4:00 AM - 6:00 AM : NYC Morning Mix 6:00 AM - 8:00 AM : &quot;Gardening&quot; Themed Music Mix 8:00 AM - 10:00 AM : Past Show: The Gardening Show : June 2005 10:00 AM - 12:00 PM :...</description>
+<dc:subject>days</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-13T03:15:26+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.org/wcrm/schedule/archives/000268.shtml">
+<title>Wednesday</title>
+<link>http://cityreliquary.org/wcrm/schedule/archives/000268.shtml</link>
+<description> 4:00 AM - 6:00 AM : NYC Morning Mix 6:00 AM - 8:00 AM : &quot;BBQ&quot; Themed Music Mix 8:00 AM - 10:00 AM : Past Show: The BBQ Show : July 2005 10:00 AM - 12:00 PM :...</description>
+<dc:subject>days</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-13T03:13:47+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>

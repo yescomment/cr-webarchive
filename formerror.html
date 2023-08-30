@@ -1,0 +1,144 @@
+
+<HTML>
+<head>
+<%TITLE%>
+
+</HEAD>
+<body marginheight="0" topmargin="0" link="0000ff" vlink="0000ff" alink="0000ff">
+
+ 
+
+<%ERROR%>
+
+
+
+<!-------------------------start main content  -------> 
+
+
+<!--- ALL OPTIONAL FIELDS HAVE BEEN COMENTED OUT. To use un-comment and set there value ----->                                                                                                                                          
+<form action="/cgi-bin/bizmail.cgi" method="POST" name="Subscribe">                                                                              
+
+<input type="hidden" name="sendreply" value="<%sendreply%>"> 
+
+<input type="hidden" name="reply_subject" value="<%reply_subject%>">
+<input type="hidden" name="subject" value="<%subject%>">
+
+<input type="hidden" name="success_page" value="<%success_page%>">
+<input type="hidden" name="send_to" value="<%send_to%>">
+
+
+<input type="hidden" name="data_format" value="<%data_format%>"> 
+<input type="hidden" name="text_qualifier" value="<%text_qualifier%>"> 
+<input type="hidden" name="message_format" value="<%message_format%>"> 
+<BR><BR>
+
+
+<table><tr><td>
+<p align="right"><font color="#000000"><%B%firstname%>First Name:<%EB%firstname%> </font></td>
+<td bgcolor="#FFFFFF"><input type="text" size="21"  name="firstname" value="<%firstname%>" maxlength="55"<%REQ%firstname%>></td>
+</tr>
+
+<tr><td><p align="right"><font color="#000000"><%B%lastname%>Last Name:<%EB%lastname%> </font></td>
+<td><input type="text" size="21"  name="lastname" value="<%lastname%>" maxlength="55"<%REQ%lastname%>></td>
+</tr>
+
+<tr><td><p align="right"><font color="#000000">
+<%B%phone%>Phone:<%EB%phone%> </font></td>
+<td bgcolor="#FFFFFF"><input type="text" size="21" name="phone" value="<%phone%>" maxlength="25"<%REQ%phone%>><font color="#ff0000" face="Verdana" size="1">(with area code) </font></td>
+</tr>
+
+<tr><td><p align="right"><font color="#000000">
+<%B%work_phone%>Alt. Phone:<%EB%work_phone%> </font></td>
+<td><input type="text" size="21" name="work_phone" value="<%work_phone%>" maxlength="25"<%REQ%work_phone%>><font color="#ff0000" face="Verdana" size="1">(with area code)</font></td>
+</tr>
+
+
+<tr><td><p align="right"><font color="#000000">
+<%B%alt_phone%>Work Phone:<%EB%alt_phone%> </font></td>
+<td><input type="text" size="21" name="alt_phone" value="<%alt_phone%>" maxlength="25"<%REQ%alt_phone%>><font color="#ff0000" face="Verdana" size="1">(with area code)</font></td>
+</tr>
+
+<tr><td><p align="right"><font color="#000000"><%B%email%>Email Address:<%EB%email%> </font> </td>
+<td><input type="text" name="email" value="<%email%>" size="21"<%REQ%email%>></td>
+</tr>
+
+<tr><td BGCOLOR="#FFFFFF"><p align="right"><font color="#000000"> Country of Origin:</font></td>
+<td BGCOLOR="#FFFFFF"><SELECT NAME="country"> 
+<OPTION VALUE="Argentina"<%SEL%country {Argentina}%>>Argentina
+<OPTION VALUE="Australia"<%SEL%country {Australia}%>>Australia
+<OPTION VALUE="Austria"<%SEL%country {Austria}%>>Austria
+<OPTION VALUE="Belgium"<%SEL%country {Belgium}%>>Belgium
+<OPTION VALUE="Brazil"<%SEL%country {Brazil}%>>Brazil
+<OPTION VALUE="Canada"<%SEL%country {Canada}%>>Canada
+<OPTION VALUE="Caribbean Islands"<%SEL%country {Caribbean Islands}%>>Caribbean Islands
+<OPTION VALUE="Chile"<%SEL%country {Chile}%>>Chile
+<OPTION VALUE="China"<%SEL%country {China}%>>China
+<OPTION VALUE="Colombia"<%SEL%country {Colombia}%>>Colombia
+<OPTION VALUE="Denmark"<%SEL%country {Denmark}%>>Denmark
+<OPTION VALUE="Ecuador"<%SEL%country {Ecuador}%>>Ecuador
+<OPTION VALUE="Egypt"<%SEL%country {Egypt}%>>Egypt
+<OPTION VALUE="Finland"<%SEL%country {Finland}%>>Finland
+<OPTION VALUE="France"<%SEL%country {France}%>>France
+<OPTION VALUE="Germany"<%SEL%country {Germany}%>>Germany
+<OPTION VALUE="Greece"<%SEL%country {Greece}%>>Greece
+<OPTION VALUE="Greenland"<%SEL%country {Greenland}%>>Greenland
+<OPTION VALUE="Hong Kong"<%SEL%country {Hong Kong}%>>Hong Kong
+<OPTION VALUE="Iceland"<%SEL%country {Iceland}%>>Iceland
+<OPTION VALUE="India"<%SEL%country {India}%>>India
+<OPTION VALUE="Indonesia"<%SEL%country {Indonesia}%>>Indonesia
+<OPTION VALUE="Ireland"<%SEL%country {Ireland}%>>Ireland
+<OPTION VALUE="Israel"<%SEL%country {Israel}%>>Israel
+<OPTION VALUE="Italy"<%SEL%country {Italy}%>>Italy
+<OPTION VALUE="Japan"<%SEL%country {Japan}%>>Japan
+<OPTION VALUE="Korea"<%SEL%country {Korea}%>>Republic of Korea
+<OPTION VALUE="Luxembourg"<%SEL%country {Luxembourg}%>>Luxembourg
+<OPTION VALUE="Malaysia"<%SEL%country {Malaysia}%>>Malaysia
+<OPTION VALUE="Mexico"<%SEL%country {Mexico}%>>Mexico
+<OPTION VALUE="Netherlands"<%SEL%country {Netherlands}%>>Netherlands
+<OPTION VALUE="New Zealand"<%SEL%country {New Zealand}%>>New Zealand
+<OPTION VALUE="Norway"<%SEL%country {Norway}%>>Norway
+<OPTION VALUE="Philippines"<%SEL%country {Philippines}%>>Philippines
+<OPTION VALUE="Portugal"<%SEL%country {Portugal}%>>Portugal
+<OPTION VALUE="Russian"<%SEL%country {Russian}%>>Russian Federation
+<OPTION VALUE="Saudi Arabia"<%SEL%country {Saudi Arabia}%>>Saudi Arabia
+<OPTION VALUE="Singapore"<%SEL%country {Singapore}%>>Singapore
+<OPTION VALUE="South Africa"<%SEL%country {South Africa}%>>South Africa
+<OPTION VALUE="Spain"<%SEL%country {Spain}%>>Spain
+<OPTION VALUE="Sweden"<%SEL%country {Sweden}%>>Sweden
+<OPTION VALUE="Switzerland"<%SEL%country {Switzerland}%>>Switzerland
+<OPTION VALUE="China"<%SEL%country {China}%>>Province Of China Taiwan 
+<OPTION VALUE="Thailand"<%SEL%country {Thailand}%>>Thailand
+<OPTION VALUE="Turkey"<%SEL%country {Turkey}%>>Turkey
+<OPTION VALUE="United Kingdom"<%SEL%country {United Kingdom}%>>United Kingdom
+<OPTION VALUE="US"<%SEL%country {US}%>>United States
+<OPTION VALUE="Venezuela"<%SEL%country {Venezuela}%>>Venezuela
+<OPTION VALUE="Viet Nam"<%SEL%country {Viet Nam}%>>Viet Nam
+<OPTION VALUE="N/A"<%SEL%country {N/A}%>>Not listed
+</SELECT><br>
+</td></tr>
+
+
+<tr><td align="right"><input type="checkbox" name="newsletter"<%CK%newsletter%>></td>
+<td><p align="left"><font color="#000000">Subscribe to Newsletter? </font></td>
+</tr>
+
+
+<tr><td></td><td BGCOLOR="#FFFFFF">
+<p><input type="submit" value=" &nbsp; &nbsp; Submit &nbsp; &nbsp; ">  </p>
+</td></form> 
+</td></tr></table>
+
+
+
+
+
+
+</center><br><br>
+</center></div>
+<br><br><br><br><br><br>
+
+</BODY>
+</html>
+
+
+

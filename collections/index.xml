@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Community Collections</title>
+<link>http://cityreliquary.org/collections/</link>
+<description>The City Reliquary presents displays of all types by local collectors in the Community Collections window.</description>
+<dc:language>en-us</dc:language>
+<dc:creator>justmyname@jessejamesarnold.com</dc:creator>
+<dc:date>2005-07-12T02:39:38+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>Jabiel 05</title>
+<link>http://cityreliquary.org/collections/archives/000218.shtml</link>
+<description>http://cityreliquary.com/collections/archives/Jabiel/nypdfdny</description>
+<guid isPermaLink="false">218@http://cityreliquary.org/collections/</guid>
+<dc:subject>January 2004 - Jabiel Jimenez</dc:subject>
+<dc:date>2005-07-12T02:39:38+00:00</dc:date>
+</item>
+<item>
+<title>Jabiel 07</title>
+<link>http://cityreliquary.org/collections/archives/000220.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jabiel/chrysler</description>
+<guid isPermaLink="false">220@http://cityreliquary.org/collections/</guid>
+<dc:subject>January 2004 - Jabiel Jimenez</dc:subject>
+<dc:date>2005-07-12T01:42:37+00:00</dc:date>
+</item>
+<item>
+<title>Jabiel 04</title>
+<link>http://cityreliquary.org/collections/archives/000217.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jabiel/window</description>
+<guid isPermaLink="false">217@http://cityreliquary.org/collections/</guid>
+<dc:subject>January 2004 - Jabiel Jimenez</dc:subject>
+<dc:date>2005-07-12T01:38:56+00:00</dc:date>
+</item>
+<item>
+<title>Jabiel 03</title>
+<link>http://cityreliquary.org/collections/archives/000216.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jabiel/label</description>
+<guid isPermaLink="false">216@http://cityreliquary.org/collections/</guid>
+<dc:subject>January 2004 - Jabiel Jimenez</dc:subject>
+<dc:date>2005-07-12T01:38:17+00:00</dc:date>
+</item>
+<item>
+<title>Jabiel 02</title>
+<link>http://cityreliquary.org/collections/archives/000215.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jabiel/plane</description>
+<guid isPermaLink="false">215@http://cityreliquary.org/collections/</guid>
+<dc:subject>January 2004 - Jabiel Jimenez</dc:subject>
+<dc:date>2005-07-12T01:37:30+00:00</dc:date>
+</item>
+<item>
+<title>Jabiel 01</title>
+<link>http://cityreliquary.org/collections/archives/000214.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jabiel/outside</description>
+<guid isPermaLink="false">214@http://cityreliquary.org/collections/</guid>
+<dc:subject>January 2004 - Jabiel Jimenez</dc:subject>
+<dc:date>2005-07-12T01:36:44+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 07</title>
+<link>http://cityreliquary.org/collections/archives/000213.shtml</link>
+<description>http://cityreliquary.com/collections/archives/Jesse/overall</description>
+<guid isPermaLink="false">213@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:34:31+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 06</title>
+<link>http://cityreliquary.org/collections/archives/000212.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jesse/minivac</description>
+<guid isPermaLink="false">212@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:33:44+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 05</title>
+<link>http://cityreliquary.org/collections/archives/000211.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jesse/astronaut</description>
+<guid isPermaLink="false">211@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:32:50+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 04</title>
+<link>http://cityreliquary.org/collections/archives/000210.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jesse/asroglide</description>
+<guid isPermaLink="false">210@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:31:11+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 03</title>
+<link>http://cityreliquary.org/collections/archives/000209.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jesse/tang gang</description>
+<guid isPermaLink="false">209@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:30:14+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 02</title>
+<link>http://cityreliquary.org/collections/archives/000208.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jesse/soaker sign</description>
+<guid isPermaLink="false">208@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:29:26+00:00</dc:date>
+</item>
+<item>
+<title>Jesse 01</title>
+<link>http://cityreliquary.org/collections/archives/000207.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Jesse/lunar lander</description>
+<guid isPermaLink="false">207@http://cityreliquary.org/collections/</guid>
+<dc:subject>March 2004 - Jesse James Arnold</dc:subject>
+<dc:date>2005-07-12T01:28:43+00:00</dc:date>
+</item>
+<item>
+<title>Harley 05</title>
+<link>http://cityreliquary.org/collections/archives/000206.shtml</link>
+<description>http://cityreliquary.com/collections/archives/Harley/harleycake</description>
+<guid isPermaLink="false">206@http://cityreliquary.org/collections/</guid>
+<dc:subject>October 2004 - Harley Spiller</dc:subject>
+<dc:date>2005-07-12T01:23:40+00:00</dc:date>
+</item>
+<item>
+<title>Harley 04</title>
+<link>http://cityreliquary.org/collections/archives/000205.shtml</link>
+<description>http://cityreliquary.org/collections/archives/Harley/mandolin</description>
+<guid isPermaLink="false">205@http://cityreliquary.org/collections/</guid>
+<dc:subject>October 2004 - Harley Spiller</dc:subject>
+<dc:date>2005-07-12T01:22:52+00:00</dc:date>
+</item>
+
+
+</channel>
+</rss>

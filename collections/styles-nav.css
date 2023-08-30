@@ -1,0 +1,537 @@
+body {
+    margin: 0;
+    padding: 0;
+    font: 12px Helvetica, san-serif;
+}
+
+#mother{		
+width: 820px;
+padding: 0;
+margin-right:auto;
+margin-left:auto;
+}
+
+#danzig {
+	width: 810px;
+       background-image: url("http://cityreliquary.com/pics/back_back.gif") repeat;
+	background: url(http://cityreliquary.com/pics/back_back.gif);
+	padding: 0;
+	margin-right:auto;
+	margin-left:auto;
+       float:left;
+}
+
+#jonny {
+		width: 425px;
+	 padding-left:40px;
+                                padding-right:20px;
+                                padding-top:30px;
+                                padding-bottom:20px;
+		float: left;
+		background: #eee;
+		}
+
+html>body #jonny {
+		width: 425px;
+		 padding-left:40px;
+                                padding-right:20px;
+                                padding-top:30px;
+                                padding-bottom:20px;
+		float: left;
+		background: #eee;
+		}
+
+#bobby {
+		width: 731px;
+		margin-left: 18px;
+		float: left;
+              background: #eee;
+		}
+
+html>body #bobby {
+		width: 731px;
+		margin-left: 35px;
+		float: left;
+		background: #eee;
+		}
+
+#jackie {
+		width: 731px;
+		padding: 0px;
+		margin-left: 18px;
+		float: left;
+		background: #eee;
+		}
+
+
+html>body #jackie {
+		width: 731px;
+		padding: 0px;
+		margin-left: 35px;
+		float: left;
+		background: #eee;
+		}
+
+#danzig2 {
+	width: 800px;
+       background: #EEDDBB;
+       padding: 20px;
+       margin-right:auto;
+	margin-left:auto;
+       float:left;
+}
+		
+#bobby2 {
+		width: 650px;
+		margin-left: 35px;
+		float: left;
+                                background: #EEDDBB;
+		}
+
+html>body #bobby2 {
+		width: 700px;
+		margin-left: 55px;
+	margin-bottom:7px;
+		float: left;
+		background: #EEDDBB;
+		}
+
+
+#teddy {
+		width: 685px;
+		padding: 20px;
+		float: left;
+		background: #eee;
+		}
+
+html>body #teddy {
+		width: 685px;
+		padding: 20px;
+		float: left;
+		background: #eee;
+		}
+
+#marylin {
+		width: 730px;
+		padding: 0px;
+		margin-left: 18px;
+		float: left;
+		background: #eee;
+		}
+
+html>body #marylin {
+		width: 730px;
+		padding: 0px;
+		margin-left: 35px;
+		float: left;
+		background: #eee;
+		}
+
+
+#thumbox {
+		width: 520px;
+		margin-left: 50px;
+              margin-bottom:20px;
+		float: left;
+              background: #EEEEEE;
+		}
+
+html>body #thumbox  {
+		width: 520px;
+		margin-left: 100px;
+	       margin-bottom:20px;
+		float: left;
+		background: #EEEEEE;
+		}
+
+
+#bann {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+#nav {
+    width:810px;
+    margin: 0;
+    padding: 0;
+    float:left;
+}	
+#contentright {
+		width:205px;
+		 padding-left:0px;
+                                padding-right:40px;
+                                padding-top:15px;
+                                padding-bottom:20px;
+		float:left;
+		background:#EEEEEE;
+		}
+
+#contentheader {
+		background:#fff
+		}
+
+a {  
+    color: #663300;
+	text-decoration: none;
+}
+
+a.two {
+                border: solid 1px #000000;
+                margin: 2px;
+}
+
+a:link {
+	color: #663300;
+}
+
+a:visited {
+	color: #996633;
+}
+
+a:active {
+	color: red;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: hand;
+}
+
+a img {
+                border: 0px;
+}
+
+a.four: {text-decoration:none; color:#663300;}
+a.four:link {text-decoration:none; color:#663300;}
+a.four:visited {text-decoration:none;color:#663300;} 
+a.four:hover {text-decoration:underline; color:#663300; background-color:#EEDDBB;}
+
+
+
+h1 {
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+
+h2  {               font-family: geneva, arial, sans-serif;
+	                         color:#666666;
+		                  font-size:12px;
+                                font-weight:bold;
+  		                  padding:2px;
+                                padding-left:5px;
+                                margin-top: 0px;
+                                margin-left: 0px;	
+                                margin-right: 0px;			
+  		                  background:#EAEAEA;
+	
+}
+
+h3 {
+	 color: #660000;
+}
+
+h4  {              font-family: geneva, arial, sans-serif;
+	                         color: #669966;
+		                  font-size: 10px;
+font-weight:normal;
+  		                  padding:8px;		
+  		                  background: #DDFFDD;
+}
+
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+#nav a {
+	font-weight: bold;
+	color: #000000;
+}
+
+
+#nav a {
+	text-decoration: none;
+}
+
+#nav li li a {
+	display: block;
+	font-weight: normal;
+	padding: 3px;
+}
+
+
+#nav li li a:hover {
+    background: #EEEEEE;
+    color: #663300;
+}
+
+
+li {
+	float: left;
+	position: relative;
+	width: 160px;
+	text-align: center;
+	background-color: #EEDDBB;
+	cursor: hand;
+}
+
+
+li#sub {
+    float: left;
+	position: relative;
+	width: 200px;
+	text-align: center;
+	background-color: #EEDDBB;
+	cursor: hand;
+
+}
+
+li#last {
+}
+
+
+li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	font-weight: normal;
+	background-color: #EEDDBB;
+	padding: 0 0 0 0;
+	border-right: solid 1px #7d6340;
+	border-left: solid 1px #7d6340;
+	border-bottom: solid 1px #7d6340;
+}
+
+li>ul {
+	top: auto;
+	left: auto;
+}
+
+li li {
+	display: block;
+	float: none;
+	background-color: transparent;
+	border: 0;
+}
+
+li:hover ul, li.over ul {
+	display: block;
+}
+
+hr {
+	display: none;
+}
+
+p {
+	clear: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+
+div.albumthumb {
+	border: 2px solid #FFFFFF;
+	float: left;
+	margin: 1px;
+	padding: 0px;
+}
+
+div.accent {
+	float: left;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+
+center{
+	text-align: center;
+}
+
+div.clear{
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
+cssbutton {
+	padding: 1px;
+	margin: 0;
+	border: 1px solid #dddddd;
+	background: #ffffff;
+	font: small-caps 10px Verdana,Arial,Helvetica;
+}
+
+img {
+                border: 0;
+}
+
+#foot {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+
+p.blogd {
+font-family: geneva, arial, sans-serif;
+	           color:#000000;
+		    font-size:12px;
+}
+
+div.blogd {
+font-family: geneva, arial, sans-serif;
+	           color:#000000;
+		    font-size:12px;
+}
+
+div.thumb{
+	border: 1px solid #ffffff;
+       float: none;
+	margin: 1px;
+	padding: 0px;
+}
+
+#foot2 {
+       width:800px;
+       padding:20px;
+       margin-top: 20px;
+	margin-left:60px;
+       margin-bottom: 30px;
+	float:left;
+       background-color: #EEDDBB;
+}
+
+div.foott {
+       font-family: helvetica, geneva, arial, sans-serif;
+       color:#663300;
+       font-size:11px;
+       background-color: #EEDDBB;
+      
+}
+
+div.subhead  {           font-family: gill sans, geneva, arial, sans-serif;
+	                         text-transform: uppercase;
+letter-spacing: 2px;
+                                color:#FFFFFF;
+		                  font-size:12px;
+                                font-weight:bold;
+                                padding-left:12px;
+                                padding-right:10px;
+                                padding-top:16px;
+                                padding-bottom:7px;
+                                margin-top: 0px;
+                                margin-left: 0px;	
+                                margin-right: 0px;			
+  		                  background:#AA8855;
+                                border: #764F23; 
+                                border-style: solid; 
+                                border-top-width: 0px; 
+                                border-right-width: 0px; 
+                                border-bottom-width: 1px; 
+                                border-left-width: 0px;
+}
+
+div.subhead2  {         font-family: helvetica, geneva, arial, sans-serif;
+	                         color:#663300;
+		                  font-size:14px;
+                                font-weight:bold;
+  		                  padding:2px;
+                                padding-left:0px;
+                                margin-top: 0px;
+                                margin-left: 0px;	
+                                margin-right: 0px;
+                                background: #ddddaa;			
+                                border: #663300; 
+                                border-style: solid; 
+                                border-top-width: 0px; 
+                                border-right-width: 0px; 
+                                border-bottom-width: 0px; 
+                                border-left-width: 0px;
+              line-height:150%;
+}
+
+
+#blogpic {                  
+                                padding: 10px; 
+                                 background: #FFFFFF;
+                                 border: solid 5px #FFFFFF;
+
+                          }
+
+div.blogentry {
+		font-family: helvetica, arial, sans-serif;
+		font-size: 12px;
+              font-weight:normal;
+  		padding-left : 15px; 
+              padding-right : 15px; 
+              padding-top : 15px;	
+              padding-bottom : 10px;
+  		background: #FFFFFF;
+              border-top: solid 1px #7d6340;
+	       border-bottom: solid 1px #7d6340;
+              line-height:150%;
+  		
+		}
+
+div.blogcap {
+		font-family: helvetica, arial, sans-serif;
+		font-size: 12px;
+              font-weight:normal;
+  		padding-left : 15px; 
+              padding-right : 15px; 
+              padding-top : 15px;	
+              padding-bottom : 10px;
+ margin-top: 10px;
+ margin-bottom: 20px;
+                                margin-left: 100px;	
+                                margin-right: 100px;
+
+  		background: #FFFFFF;
+              border-top: solid 1px #7d6340;
+	       border-bottom: solid 1px #7d6340;
+              line-height:150%;
+  		
+		}
+
+div.blogcap2 {
+		font-family: helvetica, arial, sans-serif;
+		font-size: 12px;
+              font-weight:normal;
+  		padding-left : 15px; 
+              padding-right : 15px; 
+              padding-top : 15px;	
+              padding-bottom : 10px;
+              margin-top: 10px;
+              margin-bottom: 20px;
+              margin-left: 20px;	
+              margin-right: 20px;
+              background: #FFFFFF;
+              border-top: solid 1px #7d6340;
+	       border-bottom: solid 1px #7d6340;
+              line-height:150%;
+  		
+		}
+
+
+div.blogbody {            color : #000000; 
+                                 font-size : 12px; 
+                                 font-weight : normal; 
+                                 line-height:150%;
+                                 padding-left : 10px; 
+                                 padding-right : 0px; 
+                                 padding-top : 0px; 
+}
+
+div.quicktags input {
+    background: #f4f4f4;
+    border: 1px solid #b2b2b2;
+    color: #000;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin: 1px;
+    padding: 3px;
+}

@@ -1,0 +1,948 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PageFlip 0.3.5\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: FlippingBook WP team <pageflip@pageflipgallery.com>\n"
+"Language-Team: FlippingBook WP team <pageflip@pageflipgallery.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#: pageFlip.php:21
+msgid "Wordpress PageFlip"
+msgstr ""
+
+#: pageFlip.php:23
+msgid "PageFlip"
+msgstr ""
+
+#: pageFlip.class.php:109
+#: pageFlip.class.php:110
+msgid "Main"
+msgstr "Главная"
+
+#: pageFlip.class.php:112
+#: pageFlip.class.php:113
+#: pageFlip.class.php:114
+#: pageFlip.class.php:285
+msgid "Manage books and pages"
+msgstr "Менеджер книг и страниц"
+
+#: pageFlip.class.php:115
+#: pageFlip.class.php:116
+#: pageFlip.class.php:315
+msgid "Images"
+msgstr "Изображения"
+
+#: pageFlip.class.php:118
+#: pageFlip.class.php:119
+#: pageFlip.class.php:224
+msgid "Help"
+msgstr "Помощь"
+
+#: pageFlip.class.php:482
+msgid "unnamed"
+msgstr "Без имени"
+
+#: pageFlip.class.php:512
+msgid "Adding book error! Please setup permission to the books/ , images/ , sounds/ folders and include files to &quot;777&quot;"
+msgstr "Ошибка сохранения настроек книги! Пожалуйста, выставите права доступа &quot;777&quot; на каталоги  books/ , images/ , sounds/ и файлы в них"
+
+#: pageFlip.class.php:539
+msgid "Save file error! Please setup permission to the books/ , images/ , sounds/ folders and include files to &quot;777&quot;"
+msgstr "Ошибка сохранения файла! Пожалуйста, выставите права доступа &quot;777&quot; на каталоги  books/ , images/ , sounds/ и файлы в них"
+
+#: pageFlip.class.php:559
+#: pageFlip.class.php:591
+#: pageFlip.class.php:646
+#: pageFlip.class.php:683
+#: pageFlip.class.php:691
+msgid "Error"
+msgstr "Ошибка"
+
+#: pageFlip.class.php:559
+msgid "Incorrect url"
+msgstr "Некорректный url"
+
+#: pageFlip.class.php:591
+msgid "This is not a zip file"
+msgstr "Загруженный файл не является zip-архивом"
+
+#: pageFlip.class.php:610
+msgid "Extracting Error"
+msgstr "Ошибра извлечения фалов"
+
+#: pageFlip.class.php:646
+#: pageFlip.class.php:911
+msgid "This file is too big"
+msgstr "Слишком большой размер файла"
+
+#: pageFlip.class.php:683
+#: pageFlip.class.php:691
+#: pageFlip.class.php:767
+msgid "Write file error! Please setup permission to the books/ , images/ , sounds/ folders and include files to &quot;777&quot;"
+msgstr "Ошибка записи файла! Пожалуйста, выставите права доступа &quot;777&quot; на каталоги  books/ , images/ , sounds/ и файлы в них"
+
+#: pageFlip.class.php:842
+#: pageFlip.class.php:884
+#: pageFlip.class.php:914
+msgid "No images"
+msgstr "Нет изображений"
+
+#: pageFlip.class.php:914
+#: pageFlip.class.php:940
+msgid "Wrong file type"
+msgstr "Неверный тип файла"
+
+#: pageFlip.class.php:1023
+#: pageFlip.class.php:1024
+msgid "Add Book"
+msgstr "Добавить книгу"
+
+#: pageFlip.class.php:1035
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: pageFlip.class.php:1036
+msgid "Book properties"
+msgstr "Свойства книги"
+
+#: pageFlip.class.php:1021
+msgid "No sound"
+msgstr "Без звука"
+
+#: pageFlip.class.php:1044
+msgid "No Background"
+msgstr "Без фона"
+
+#: pageFlip.class.php:1053
+msgid "default"
+msgstr "по умолчанию"
+
+#: functions.class.php:117
+msgid "No image"
+msgstr "Нет изображений"
+
+#: functions.class.php:211
+msgid "Attention! It's required to have Memory Limit 16 Mb or higher for roper work of PageFlip plugin."
+msgstr "Внимание! Для корректной работы плагина необходимо чтобы параметр Memory Limit был установлен 16 Mb или выше."
+
+#: functions.class.php:220
+msgid "Attention! Safe mode is on. Please setup permission to the books/ , images/ , sounds/ folders and include files to &quot;777&quot;."
+msgstr "Внимание! Включён safe mode. Пожалуйста, установите права доступа &quot;777&quot; на каталоги books/ , images/ , sounds/ и вложенные файлы."
+
+#: htmlPart.class.php:16
+msgid "You can add only one book on page"
+msgstr "Вы можете добавлять только одну книгу на страницу"
+
+#: htmlPart.class.php:19
+msgid "Download Adobe Flash Player."
+msgstr "Загрузить Adobe Flash Player."
+
+#: htmlPart.class.php:170
+#: htmlPart.class.php:410
+msgid "Press to open pages list"
+msgstr "Нажмите чтобы открыть список страниц"
+
+#: htmlPart.class.php:171
+#: htmlPart.class.php:412
+msgid "Press  &quot;+ &quot; to open pages list"
+msgstr "Нажмите  &quot;+ &quot; чтобы открыть список страниц"
+
+#: htmlPart.class.php:172
+msgid "Press to close pages list"
+msgstr "Нажмите чтобы закрыть список страниц"
+
+#: htmlPart.class.php:173
+msgid "Press  &quot;- &quot; to close pages list"
+msgstr "Нажмите &quot;- &quot; чтобы закрыть список страниц"
+
+#: htmlPart.class.php:340
+msgid "ID"
+msgstr "Id"
+
+#: htmlPart.class.php:341
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: htmlPart.class.php:342
+msgid "Book Name"
+msgstr "Название книги"
+
+#: htmlPart.class.php:343
+msgid "Creation Date"
+msgstr "Дата создания"
+
+#: htmlPart.class.php:344
+#: htmlPart.class.php:522
+#: htmlPart.class.php:689
+msgid "Operation"
+msgstr "Операции"
+
+#: htmlPart.class.php:367
+msgid "Add New Book"
+msgstr "Добавить новую книгу"
+
+#: htmlPart.class.php:384
+msgid "No books"
+msgstr "Нет книг"
+
+#: htmlPart.class.php:397
+msgid "Bookfile is not found"
+msgstr "Файл книги не найден"
+
+#: htmlPart.class.php:409
+msgid "Delete this book?"
+msgstr "Удалить эту книгу?"
+
+#: htmlPart.class.php:411
+msgid "Pages List"
+msgstr "Список страниц"
+
+#: htmlPart.class.php:413
+msgid "No Pages"
+msgstr "Нет страниц"
+
+#: htmlPart.class.php:519
+#: htmlPart.class.php:779
+#: htmlPart.class.php:819
+#: htmlPart.class.php:951
+msgid "Image"
+msgstr "Изображение"
+
+#: htmlPart.class.php:520
+#: htmlPart.class.php:817
+#: htmlPart.class.php:949
+#: htmlPart.class.php:1001
+msgid "Name"
+msgstr "Имя"
+
+#: htmlPart.class.php:521
+msgid "Upload Date"
+msgstr "Дата загрузки"
+
+#: htmlPart.class.php:556
+msgid "Upload New Images"
+msgstr "Загрузить изобаражения"
+
+#: htmlPart.class.php:291
+msgid "Delete this Image?"
+msgstr "Удалить изображение?"
+
+#: htmlPart.class.php:292
+msgid "Delete this Images?"
+msgstr "Удалить эти изображения?"
+
+#: htmlPart.class.php:589
+msgid "Delete Selected"
+msgstr "Удалить отмеченные"
+
+#: htmlPart.class.php:590
+msgid "Assign Selected Images to Page"
+msgstr "Добавить отмеченные в книгу"
+
+#: htmlPart.class.php:641
+#: htmlPart.class.php:723
+#: htmlPart.class.php:1171
+msgid "Delete"
+msgstr "Удалить"
+
+#: htmlPart.class.php:642
+msgid "Assign Image to Page"
+msgstr "Добавить в книгу"
+
+#: htmlPart.class.php:687
+msgid "Page"
+msgstr "Страница"
+
+#: htmlPart.class.php:688
+#: htmlPart.class.php:780
+msgid "Page Name"
+msgstr "Название страницы"
+
+#: htmlPart.class.php:711
+msgid "No pages"
+msgstr "Нет страниц"
+
+#: htmlPart.class.php:731
+msgid "Up"
+msgstr "Вверх"
+
+#: htmlPart.class.php:732
+msgid "Down"
+msgstr "Вниз"
+
+#: htmlPart.class.php:781
+msgid "Enter page name (You can leave that page empty)"
+msgstr "Введите название страницы (Вы можете оставить это поле пустым)"
+
+#: htmlPart.class.php:782
+msgid "Add Page"
+msgstr "Добавить страницу"
+
+#: htmlPart.class.php:818
+#: htmlPart.class.php:950
+#: htmlPart.class.php:1002
+msgid "Image name"
+msgstr "Название изображения"
+
+#: htmlPart.class.php:820
+#: htmlPart.class.php:952
+msgid "Image must be jpg, png, gif or swf file"
+msgstr "Изображение должно быть jpg, png, gif или swf файл"
+
+#: htmlPart.class.php:821
+msgid "Upload"
+msgstr "Загрузить"
+
+#: htmlPart.class.php:822
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: htmlPart.class.php:933
+msgid "Upload Image From Computer"
+msgstr "Загрузить с компьютера"
+
+#: htmlPart.class.php:934
+msgid "Upload Archive"
+msgstr "Загрузить архив"
+
+#: htmlPart.class.php:935
+msgid "Add From Url"
+msgstr "Добавить url"
+
+#: htmlPart.class.php:853
+msgid "Upload one more image"
+msgstr "Загрузить ещё изображение"
+
+#: htmlPart.class.php:980
+msgid "Archive"
+msgstr "Архив"
+
+#: htmlPart.class.php:981
+msgid "Archive must be zip file"
+msgstr "Архив должен быть zip-файлом"
+
+#: htmlPart.class.php:1003
+msgid "Url"
+msgstr "Url"
+
+#: htmlPart.class.php:1004
+msgid "Image url"
+msgstr "Url изображения"
+
+#: htmlPart.class.php:1075
+msgid "Book name"
+msgstr "Название книги"
+
+#: htmlPart.class.php:1076
+msgid "The name is how the book appears on admin panel."
+msgstr "Название будет отображаться в админ панели"
+
+#: htmlPart.class.php:1077
+msgid "Stage Width"
+msgstr "Ширина компонента"
+
+#: htmlPart.class.php:1078
+msgid "Defines the width of the book background area in pixels or percents (%)."
+msgstr "Определяет ширину области фона книги в пикселях или процентах (%)."
+
+#: htmlPart.class.php:1079
+msgid "Stage Height"
+msgstr "Высота компонента"
+
+#: htmlPart.class.php:1080
+msgid "Defines the height of the book background area in pixels."
+msgstr "Определяет высоту области фона книги в пикселях."
+
+#: htmlPart.class.php:1081
+msgid "Width"
+msgstr "Ширина"
+
+#: htmlPart.class.php:1082
+msgid "Defines the book width in pixels."
+msgstr "Определяет ширину книги в пикселях"
+
+#: htmlPart.class.php:1083
+msgid "Height"
+msgstr "Высота"
+
+#: htmlPart.class.php:1084
+msgid "Defines the book height in pixels."
+msgstr "Определяет высоту книги в пикселях"
+
+#: htmlPart.class.php:1085
+msgid "Scale Content"
+msgstr ""
+
+#: htmlPart.class.php:1086
+msgid "Defines the page content scaling method. If the parameter is set to Yes the loaded files will be automatically scaled to the page size. If the parameter is set to No the page content will be clipped to the page borders."
+msgstr ""
+
+#: htmlPart.class.php:1087
+msgid "yes"
+msgstr "да"
+
+#: htmlPart.class.php:1088
+msgid "no"
+msgstr "нет"
+
+#: htmlPart.class.php:1089
+msgid "Center Content"
+msgstr "Отцентровать контент"
+
+#: htmlPart.class.php:1090
+msgid "Defines the page centering method. If the parameter is set to Yes the loaded files will be automatically centered within the page boundaries. If the parameter is set to No then the page content will be placed at the top left page corner."
+msgstr ""
+
+#: htmlPart.class.php:1091
+msgid "Preserve Proportions"
+msgstr "Сохранять пропорции"
+
+#: htmlPart.class.php:1092
+msgid "Defines the page content scaling rules. If the parameter is set to Yes the loaded files will be scaled this keeping original content proportions. If the parameter is set to No then the page content scaled without respect to the original proportions."
+msgstr ""
+
+#: htmlPart.class.php:1093
+msgid "Hardcover"
+msgstr ""
+
+#: htmlPart.class.php:1094
+msgid "Turn the book hardcover on / off."
+msgstr ""
+
+#: htmlPart.class.php:1095
+msgid "Hardcover Thickness"
+msgstr ""
+
+#: htmlPart.class.php:1096
+msgid "Defines the thickness of a rigid book page in pixels. Pages look more realistic for users."
+msgstr ""
+
+#: htmlPart.class.php:1097
+msgid "Frame Width"
+msgstr ""
+
+#: htmlPart.class.php:1098
+msgid "Defines the width of the book frame in pixels."
+msgstr ""
+
+#: htmlPart.class.php:1099
+msgid "Frame Color"
+msgstr ""
+
+#: htmlPart.class.php:1100
+msgid "Defines the color of the book frame. The color should be set in RGB in the following format: 0xNNNNNN, where N is hexadecimal number (0-F)."
+msgstr ""
+
+#: htmlPart.class.php:1101
+msgid "Frame Alpha"
+msgstr ""
+
+#: htmlPart.class.php:1102
+msgid "Defines the transparency of the book frame."
+msgstr ""
+
+#: htmlPart.class.php:1103
+msgid "First Page"
+msgstr "Первая страница"
+
+#: htmlPart.class.php:1104
+msgid "Number of the page from which the book will be opened upon the start of playing the movie. Page numbering starts from #0."
+msgstr ""
+
+#: htmlPart.class.php:1105
+msgid "Flip on Click"
+msgstr "Перелистывать по клику"
+
+#: htmlPart.class.php:1106
+msgid "This parameter determines whether flipping will be started by mouse clicking a page. If set No, flipping will not start."
+msgstr ""
+
+#: htmlPart.class.php:1107
+msgid "Hand Over Corner"
+msgstr ""
+
+#: htmlPart.class.php:1108
+msgid "Defines the style of the mouse pointer over page corners. Setting this parameter to Yes turns the pointer to the finger when dragging mouse over page corner."
+msgstr ""
+
+#: htmlPart.class.php:1109
+msgid "Hand Over Page"
+msgstr ""
+
+#: htmlPart.class.php:1110
+msgid "Defines the style of the mouse pointer over page area (excepting corners). Setting this parameter to Yes turns the pointer to the finger when dragging mouse over page."
+msgstr ""
+
+#: htmlPart.class.php:1111
+msgid "Always Opened"
+msgstr "Всегда открыта"
+
+#: htmlPart.class.php:1112
+msgid "This parameter determines the appearance of the book. If its value is Yes, the book is always opened, if No, you may add the front and rear cover pages and make your book open and close."
+msgstr ""
+
+#: htmlPart.class.php:1113
+msgid "Static Shadow Type"
+msgstr ""
+
+#: htmlPart.class.php:1114
+msgid "Defines the look of the book center shadow."
+msgstr ""
+
+#: htmlPart.class.php:1115
+msgid "Asymmetric"
+msgstr ""
+
+#: htmlPart.class.php:1116
+msgid "Symmetric"
+msgstr ""
+
+#: htmlPart.class.php:1117
+msgid "Default"
+msgstr "Умолчания"
+
+#: htmlPart.class.php:1118
+msgid "Static Shadows Depth"
+msgstr ""
+
+#: htmlPart.class.php:1119
+msgid "Shadow intensity in the middle of the book. These shadow imitate fixed page curvature."
+msgstr ""
+
+#: htmlPart.class.php:1120
+msgid "Rigid Page Speed"
+msgstr ""
+
+#: htmlPart.class.php:1121
+msgid "The speed of a rigid page movement."
+msgstr ""
+
+#: htmlPart.class.php:1122
+msgid "Flip Sound"
+msgstr ""
+
+#: htmlPart.class.php:1123
+msgid "This parameter is the flip sound source file"
+msgstr ""
+
+#: htmlPart.class.php:1124
+msgid "Upload Sound"
+msgstr ""
+
+#: htmlPart.class.php:1125
+msgid "You can upload your own sound. Sound must be mp3 file (&lt; 100 Kb)."
+msgstr ""
+
+#: htmlPart.class.php:1126
+msgid "Preloader Type"
+msgstr ""
+
+#: htmlPart.class.php:1127
+msgid "The type of preloader in use."
+msgstr ""
+
+#: htmlPart.class.php:1128
+msgid "Progress Bar"
+msgstr "Прогресс"
+
+#: htmlPart.class.php:1129
+msgid "Round"
+msgstr "Круговой"
+
+#: htmlPart.class.php:1130
+msgid "None"
+msgstr "Нет"
+
+#: htmlPart.class.php:1131
+msgid "Page Back"
+msgstr "Фон страницы"
+
+#: htmlPart.class.php:1132
+msgid "This parameter determines the page background color. The color will be displayed when loading pages and used as color for empty pages. The color should be set in RGB in the following format: 0xNNNNNN, where N is hexadecimal number (0-F)."
+msgstr ""
+
+#: htmlPart.class.php:1133
+msgid "Rigid Pages"
+msgstr ""
+
+#: htmlPart.class.php:1134
+msgid "Setting this parameter to Yes makes all book pages rigid."
+msgstr ""
+
+#: htmlPart.class.php:1135
+msgid "Zoom Enabled"
+msgstr "Зум включён"
+
+#: htmlPart.class.php:1136
+msgid "Controls the zooming function. When set to Yes, zooming is enabled (by double clicking and zoom button). When set to No, zooming is disabled."
+msgstr ""
+
+#: htmlPart.class.php:1137
+msgid "Zoom Image Width"
+msgstr ""
+
+#: htmlPart.class.php:1138
+msgid "Defines the width of large page in pixels."
+msgstr ""
+
+#: htmlPart.class.php:1139
+msgid "Zoom Image Height"
+msgstr ""
+
+#: htmlPart.class.php:1140
+msgid "Defines the height of large page in pixels."
+msgstr ""
+
+#: htmlPart.class.php:1141
+msgid "Zoom On Click"
+msgstr ""
+
+#: htmlPart.class.php:1142
+msgid "Turns zooming on double click on / off."
+msgstr ""
+
+#: htmlPart.class.php:1143
+msgid "Zoom Hint"
+msgstr ""
+
+#: htmlPart.class.php:1144
+msgid "Defines the caption text of the &quot;Double click for zooming&quot; hint window."
+msgstr ""
+
+#: htmlPart.class.php:1145
+msgid "Center Book"
+msgstr "Отцентровать книгу"
+
+#: htmlPart.class.php:1146
+msgid "Setting this parameter to Yes centers the book within book area."
+msgstr ""
+
+#: htmlPart.class.php:1147
+msgid "Use Custom Cursors"
+msgstr ""
+
+#: htmlPart.class.php:1148
+msgid "Setting this parameter to Yes enables custom mouse pointer for dragging and zooming."
+msgstr ""
+
+#: htmlPart.class.php:1149
+msgid "Drop Shadow Enabled"
+msgstr ""
+
+#: htmlPart.class.php:1150
+msgid "Setting this parameter to Yes enables drop shadow around the book."
+msgstr ""
+
+#: htmlPart.class.php:1151
+msgid "Drop Shadow Hide When Flipping"
+msgstr ""
+
+#: htmlPart.class.php:1152
+msgid "Setting this parameter to Yes forces the book drop shadow to hide when flipping pages. This allows to save CPU resources and speed up page flipping animation."
+msgstr ""
+
+#: htmlPart.class.php:1153
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: htmlPart.class.php:1154
+msgid "Defines the color of application background. Users see this color while the background image is loading. The color should be set in RGB in the following format: 0xNNNNNN, where N is hexadecimal number (0-F)."
+msgstr ""
+
+#: htmlPart.class.php:1155
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: htmlPart.class.php:1156
+msgid "This parameter is the background of flipping book."
+msgstr ""
+
+#: htmlPart.class.php:1157
+msgid "Upload Background Image"
+msgstr "Загрузить фоновое изображение"
+
+#: htmlPart.class.php:1158
+msgid "You can upload your own background image. Image must be jpg or png file"
+msgstr ""
+
+#: htmlPart.class.php:1159
+msgid "Background Image Placement"
+msgstr ""
+
+#: htmlPart.class.php:1160
+msgid "Defines the position of the application background image."
+msgstr ""
+
+#: htmlPart.class.php:1161
+msgid "top left"
+msgstr ""
+
+#: htmlPart.class.php:1162
+msgid "center"
+msgstr ""
+
+#: htmlPart.class.php:1163
+msgid "fit"
+msgstr ""
+
+#: htmlPart.class.php:1164
+msgid "Print Enabled"
+msgstr ""
+
+#: htmlPart.class.php:1165
+msgid "Controls the printing function. When set to Yes, printing is enabled. When set to No, printing is disabled."
+msgstr ""
+
+#: htmlPart.class.php:1166
+msgid "Print Title"
+msgstr ""
+
+#: htmlPart.class.php:1167
+msgid "Defines the caption text of the print window."
+msgstr ""
+
+#: htmlPart.class.php:1168
+msgid "Navigation Bar"
+msgstr ""
+
+#: htmlPart.class.php:1169
+msgid "Controls the navigation bar. When set to Yes, navigation bar is enabled. When set to No, navigation bar is disabled."
+msgstr ""
+
+#: htmlPart.class.php:1497
+msgid "Plugin Files"
+msgstr "Файлы плагина:"
+
+#: htmlPart.class.php:1499
+msgid "Path/File: /page-flip-image-gallery/flippingBook.swf - SWF book"
+msgstr "Путь/файл: /page-flip-image-gallery/flippingBook.swf - SWF книга"
+
+#: htmlPart.class.php:1500
+msgid "Path/File: /page-flip-image-gallery/pageFlip.class.php - Plugin class"
+msgstr "Путь/Файл: /page-flip-image-gallery/pageFlip.class.php - класс плагина"
+
+#: htmlPart.class.php:1501
+msgid "Path/File: /page-flip-image-gallery/pageFlip.php - Preferences list"
+msgstr "Путь/Файл:  /page-flip-image-gallery/pageFlip.php - файл настроек"
+
+#: htmlPart.class.php:1502
+msgid "Path/Folder: /page-flip-image-gallery/books/- XML files for your books"
+msgstr "Путь/Директория: /page-flip-image-gallery/books/- XML файлы для ваших книг"
+
+#: htmlPart.class.php:1503
+msgid "Path/Folder: /page-flip-image-gallery/images/ - Downloaded images"
+msgstr "Путь/Директория: /page-flip-image-gallery/images/ - Загруженные изображения"
+
+#: htmlPart.class.php:1504
+msgid "Path/Folder: /page-flip-image-gallery/sounds/ - Your sounds"
+msgstr "Путь/Директория: /page-flip-image-gallery/sounds/ - Ваши звуки"
+
+#: htmlPart.class.php:1507
+msgid "Form Plugin Installation"
+msgstr ""
+
+#: htmlPart.class.php:1508
+msgid "This flipping book plugin is simple to install and can be done in a matter of minutes. The following steps will guide you through the process:"
+msgstr ""
+
+#: htmlPart.class.php:1509
+msgid "1. Unpack the *.zip file and extract the /page-flip-image-gallery/ folder."
+msgstr ""
+
+#: htmlPart.class.php:1510
+msgid "2. Using an FTP program, upload the /page-flip-image-gallery/ folder to your WordPress plugins directory (Example: /wp-content/plugins/)."
+msgstr ""
+
+#: htmlPart.class.php:1511
+msgid "3. Open your WordPress Admin panel and go to the &quot;Plugins&quot; page. Locate the &quot;FlippingBook gallery&quot; plugin and click on the &quot;Activate&quot; link."
+msgstr ""
+
+#: htmlPart.class.php:1512
+msgid "<strong>Note:</strong> If you have troubles with plugin activation, please setup permission to the <strong>books/ , images/ , sounds/</strong> folders to &quot;777&quot;."
+msgstr ""
+
+#: htmlPart.class.php:1514
+msgid "4. Once activated, go to the &quot;FlippingBook&quot; page and select the &quot;Configuration&quot; link on the sub-menu. If you need help, review the &quot;FAQ&quot;."
+msgstr ""
+
+#: htmlPart.class.php:1515
+msgid "5. Go to the &quot;Books&quot; page and click the &quot;Add New Book&quot;"
+msgstr ""
+
+#: htmlPart.class.php:1516
+msgid "6. Setup the parameters of the book. (for more information review the &quot;<a href=\"http://pageflipgallery.com/faq-and-tutorials/\" title=\"FlippingBook Wordpress Gallery FAQ\">FAQs</a>&quot;)"
+msgstr ""
+
+#: htmlPart.class.php:1517
+msgid "7. Now add page to the book.  Click &quot;Add page&quot; button"
+msgstr ""
+
+#: htmlPart.class.php:1518
+msgid "8. Now upload some image to assign it to the new page"
+msgstr ""
+
+#: htmlPart.class.php:1519
+msgid "To add the flipping book add this code o the text area."
+msgstr ""
+
+#: htmlPart.class.php:1522
+msgid "Where <strong>book id='' </strong>- it's id of your book. &quot;Save&quot; the page."
+msgstr ""
+
+#: htmlPart.class.php:1523
+msgid "That's it, you're about done. The FlippingBook will be on the new page you created."
+msgstr ""
+
+#: htmlPart.class.php:1524
+msgid "Test your FlippingBook."
+msgstr ""
+
+#: htmlPart.class.php:1525
+msgid "If you encounter problems, review the &quot;<a href=\"http://pageflipgallery.com/faq-and-tutorials/\" title=\"FlippingBook Wordpress Gallery FAQ\">FAQs</a>&quot; or contact via <a href=\"mailto:pageflip@pageflipgallery.com\">e-mail</a>."
+msgstr ""
+
+#: htmlPart.class.php:1535
+msgid "On"
+msgstr "Включён"
+
+#: htmlPart.class.php:1536
+msgid "Off"
+msgstr "Выключен"
+
+#: htmlPart.class.php:1539
+#: htmlPart.class.php:1542
+#: htmlPart.class.php:1545
+#: htmlPart.class.php:1548
+#: htmlPart.class.php:1551
+msgid "N/A"
+msgstr ""
+
+#: htmlPart.class.php:1550
+msgid " MByte"
+msgstr "Мбайт"
+
+#: htmlPart.class.php:1564
+msgid "Operating System"
+msgstr "Операцинная система"
+
+#: htmlPart.class.php:1565
+msgid "Server"
+msgstr "Сервер"
+
+#: htmlPart.class.php:1566
+msgid "Memory usage"
+msgstr ""
+
+#: htmlPart.class.php:1567
+msgid "MySQL Version"
+msgstr "Версия MySQL"
+
+#: htmlPart.class.php:1568
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: htmlPart.class.php:1569
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: htmlPart.class.php:1570
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: htmlPart.class.php:1571
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: htmlPart.class.php:1572
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: htmlPart.class.php:1573
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: htmlPart.class.php:1582
+msgid "PageFlip Images"
+msgstr "Изображения PageFlip"
+
+#: htmlPart.class.php:1583
+msgid "Assign from WP Media"
+msgstr "Добавить из WP Media"
+
+#: htmlPart.class.php:1584
+msgid "Assign from NextGEN Gallery"
+msgstr "Добавить из NextGEN Gallery"
+
+#: pageFlip.class.php:46
+msgid "25 per page"
+msgstr "25 на странице"
+
+#: pageFlip.class.php:47
+msgid "50 per page"
+msgstr "50 на странице"
+
+#: pageFlip.class.php:48
+msgid "200 per page"
+msgstr "200 на странице"
+
+#: pageFlip.class.php:49
+msgid "all"
+msgstr "все"
+
+#: pageFlip.class.php:912
+msgid "No galleries"
+msgstr ""
+
+#: functions.class.php:20
+#: functions.class.php:33
+msgid "Directory"
+msgstr ""
+
+#: functions.class.php:20
+msgid "didn't exist. Please create directory with permission 777 manually!"
+msgstr ""
+
+#: functions.class.php:31
+msgid "Please create "
+msgstr ""
+
+#: functions.class.php:31
+msgid "Please create "
+msgstr "directory with permission 777 manually."
+
+#: functions.class.php:34
+msgid "is not writeable! Please set 777 permission."
+msgstr ""
+
+#: functions.class.php:988
+msgid "Import from folder"
+msgstr ""
+
+#: htmlPart.class.php:1085
+msgid "Folder"
+msgstr ""
+
+#: htmlPart.class.php:1086
+msgid "Folder with images"
+msgstr ""
+
+#: pageFlip.class.php:228
+msgid "JavaScript is disabled. Please, enable JavaScript for correctly work."
+msgstr ""
+
+#: htmlPart.class.php:581
+msgid "Preview"
+msgstr ""
+
+#: htmlPart.class.php:582
+msgid "Gallery Name"
+msgstr ""
+
+#: htmlPart.class.php:583
+msgid "Creation Date"
+msgstr ""

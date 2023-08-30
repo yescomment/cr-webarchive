@@ -1,0 +1,135 @@
+/* CSS Document */
+
+
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: verdana, arial, helvetica, sans-serif;
+	color: #ccc;
+	background-color: #FFF;
+	text-align: center;
+	}
+	
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color:  #ccc;
+	outline: none;
+	}
+	
+a:visited {
+	color:  #ccc;
+	}
+	
+a:active {
+	color:  #ccc;
+	}
+	
+a:hover {
+	color: #ccc;
+	text-decoration: underline;
+	}
+	
+.ahem {
+	display: none;
+	}
+	
+strong, b {
+	font-weight: bold;
+	}
+	
+p {
+	font-size: 12px;
+	line-height: 22px;
+	margin-top: 20px;
+	margin-bottom: 10px; 
+	}
+
+h1 {
+	font-size: 24px;
+	line-height: 44px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h2 {
+	font-size: 18px;
+	line-height: 40px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h3 {
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h4 {
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h5 {
+	font-size: 12px;
+	line-height: 22px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h6 {
+	font-size: 10px;
+	line-height: 18px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+img {
+	border: 0;
+	}
+
+	
+#content {
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #FFF;
+	border: 0px solid #000;
+	text-align: center; 
+	width: 500px; 
+
+	}
+
+#left {
+float: left;
+align: left;
+margin-left: 20px;
+	left: 0px;
+	padding: 10px;
+	border: 0px solid #000;
+	background: #FFF;
+	width: 150px; /* ie5win fudge begins */
+	}
+	
+	
+#right {
+float: right;
+align: right;
+margin-right: 20px;
+	left: 0px;
+	padding: 10px;
+	border: 0px solid #000;
+	background: #FFF;
+	width: 150px; /* ie5win fudge begins */
+	}
+
+
+

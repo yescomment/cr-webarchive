@@ -1,0 +1,51 @@
+.rss-box {
+text-align: left;
+z-index: -1;
+
+}
+
+.rss-title {
+text-align: left;
+font-family: helvetica, geneva, arial, sans-serif;
+color:#663300;
+font-size:14px;
+
+
+}
+
+.rss-items{
+text-align: left;
+background-color: #fff;
+z-index: -1;
+}
+
+.rss-item {
+font-family: helvetica, geneva, arial, sans-serif;
+text-align: left;
+background-color: #fff;
+width: 140px;
+padding: 0 0 10px 0;
+font-size:12px;
+
+}
+
+.rss-item a: {
+text-align: left;
+font-family: helvetica, geneva, arial, sans-serif;
+color:#663300;
+font-size:11px;
+
+}
+
+.rss-item a {
+text-align: left;
+font-family: helvetica, geneva, arial, sans-serif;
+color:#663300;
+font-size:11px;
+
+}
+
+.rss-date {
+text-align: left;
+}
+

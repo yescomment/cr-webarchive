@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | Civic Riders | Events</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/civicriders//styles-nav.css" />
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+</head>
+<body bgcolor="#EEDDBB">
+
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../../menu_top_nav.ssi" --> 
+
+<!-- //content -->
+ 
+ 
+<div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+
+<div id="bobby"> 
+<div class="subhead">
+Civic Riders | Events
+</div>
+
+<div id="suban">
+<img alt="bike_bann1.jpg" src="http://cityreliquary.com/civicriders/archives/civicriders/bike_bann1.jpg" width="690" border="0" />
+</div>
+<br>
+<br>
+<br>
+
+<div id="jonny">
+
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Bicycle Fetish Day - July 1, 2006</div>
+
+<div class="blogentry">
+<div class="blogbody">
+This year we will be hosting the second annual New York City  Bicycle Fetish Day will be held July 1, 2006  at the new City Reliquary!  This event is open to everyone who wants to come show off their ride. Local vendors will also set up booths offering bicycle repair, massages, food, contests and prizes. Check out the <a href="http://cityreliquary.com/events/archives/cat_bicycle_fetish_day.html">photos from last year</a> to get inspired.
+
+Start shining your hub!
+<blockquote>
+2nd Annual Bicycle Fetish Day
+on July 1st 2006 
+from noon until 5 PM
+Havemeyer between Grand & Metropolitan</blockquote>
+</div>
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Bicycle Fetish Day 2006 Vendors' Form</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<b>We need you!!</b>
+Calling all bike shop owners, club leaders, food vendors, musicians, etc.
+We are looking for you to participate in Bicycle Fetish Day 2006.  For more information please download the Vendors' Form. We'll have a new form up soon, but for now you can use last years' form:
+<br>
+<br>
+<a href="http://cityreliquary.org/civicriders/archives/forms/vendor_form.pdf">Download File</a>
+</div>
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Brooklyn Bridge Birthday Bike Ride</div>
+
+<div class="blogentry">
+<div class="blogbody">
+Here are some photos from the annual 2004 Brooklyn Bridge Birthday ride on May 24th.  Every year, we ride to the top of the bridge and are met with birthday cake for all.  Join us this year for the bridge’s 122nd birthday bash.  As always, on May 24th!<br><br><center>
+<img alt="brooklynbikers.jpg" src="http://cityreliquary.com/civicriders/archives/civicriders/brooklynbikers.jpg" width="580" border="0" /></center><br>
+<center><h4>Here's the crew at the Brooklyn anchorage with cake for the bridge's 121st birthday.</h4></center><br><br><center>
+<img alt="underwillieb.jpg" src="http://cityreliquary.com/civicriders/archives/civicriders/underwillieb.jpg" width="580" border="0" />
+</center> 
+
+<br><center><h4>A brief pause to avoid getting rain spots on all that chrome.  El Presidente from the PRSC is the first to pull out his chamois.</h4></center>
+</div>
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">The Bronx is Up and the Battery's Down</div>
+
+<div class="blogentry">
+<div class="blogbody">
+Last year was also the 100th anniversary of the subway system which was celebrated by a ride of the entire length of the 1-9 lines.  First below ground, then above riding Broadway from the Bronx to the Battery. <br><br>
+<center><img alt="broadwayride.jpg" src="http://cityreliquary.com/civicriders/archives/civicriders/broadwayride.jpg" width="580" border="0" /></center><br><center>
+<h4>Five riders stop to represent the five boroughs at the "Crossroads of the World."  Times Square was once known as Longacre Square before the famous newspaper moved its headquarters to this neighborhood from lower Manhattan.  Times Square also celebrated its 100th birthday in 2004.  Mayor McClellen was honored to operate the first subway train from City Hall and rename Times Square in the same year, 1904. </h4></center>
+
+</div>
+
+
+</div>
+<br><br>
+
+</div>
+</div>
+
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></div>
+
+<!-- //nav -->
+ 
+<!--#include virtual="../../menu_bott_nav.ssi" -->
+
+</div>
+
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+
+</div>
+</body>
+</html>

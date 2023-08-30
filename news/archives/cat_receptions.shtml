@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | News | Receptions</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../../menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+<div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+
+<div id="bobby"> 
+<div class="subhead">
+Receptions
+</div><br><br>
+
+
+<div id="jonny">
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">5/10/07 Reception for Johnny Coast, Taliah Lempert, and Dave Perry</div>
+
+<div class="blogentry">
+<a name="000426"></a>
+
+<div class="blogbody">
+<p>Join Us Thursday May 10th from 7-10 PM for the <br />
+unveiling of two new exhibits:  <br />
+<br>The Bicycle Paintings of Taliah Lempert in our new Exhibition Hall<br />
+<br>The Bicycle Builders' Collection of Johnny Coast and Dave Perry in our Community Collections Window.</p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Judah S. Harris Photography</div>
+
+<div class="blogentry">
+<a name="000422"></a>
+
+<div class="blogbody">
+<p>March 22nd through May 7th - "City Stories" NYC photographs by Judah S. Harris<br />
+<a href="http://cityreliquary.org/news/archives/CIty Reliqary exhibit promo 2.shtml" onclick="window.open('http://cityreliquary.org/news/archives/CIty Reliqary exhibit promo 2.shtml','popup','width=700,height=550,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View image</a></p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Sunday April 1: Come Celebrate Our 1st Birthday!</div>
+
+<div class="blogentry">
+<a name="000421"></a>
+
+<div class="blogbody">
+<p>Come out on Sunday April 1st from 12-6 PM to The City Reliquary Museum!  That's right, we've officially been here 1 year...and we're still going strong.  Come meet members of the board, play games, and hang out in our new back room!</p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Friday 3/23 Sidewalk Reception:  Chris Millstein's Flashlight Collection</div>
+
+<div class="blogentry">
+<a name="000420"></a>
+
+<div class="blogbody">
+<p>Come hang out on the sidewalk with us in celebration of Chris Millstein's Illuminating Flashlight Collection! The Museum will be open as well...refreshments, artifacts, and other civic splendor. 7 - 10 PM.</p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Sat. 3/24 Don't DEMO Domino Bake Sale and Q & A</div>
+
+<div class="blogentry">
+<a name="000419"></a>
+
+<div class="blogbody">
+<p>     Join the Waterfront Preservation Alliance at the City Reliquary on Saturday, March 24th from 7 – 9pm for an informal chat over cookies, cakes and other delectables baked with Brooklyn’s own Domino Sugar. WPA is a neighborhood-based organization that has been working for the past year to identify and designate historic structures in Greenpoint & Williamsburg, which are undergoing major changes that will dramatically change the face of our neighborhoods. As we move forward into the future of Greenpoint & Williamsburg, our aim is to ensure that vital connections to the past are retained through the preservation, reuse and rehabilitation of the historic buildings that define the character of our neighborhood. Members of the WPA will give short informal yet informative talks on the future of the Domino Sugar Factory and answer community questions. Tea, coffee and baked goods will be available for purchase at affordable prices. </p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Dec. 11 - Fundraising Dinner to Benefit the City Reliquary</div>
+
+<div class="blogentry">
+<a name="000405"></a>
+
+<div class="blogbody">
+<p>Folks, be sure and save the date.  <a href="http://www.lodgenyc.com/">The Lodge</a> is generously hosting us for our first ever fund-raising dinner.  It promises to be a fabulous evening, with fine food, outstanding company and excellent conversation.  Our guest of honor, Philip Lopate <a href="http://www.gothamist.com/archives/2004/03/17/waterfront_by_philip_lopate.php">(author of <u>Waterfront: A Journey Around Manhattan</u>)</a> will be joining us for dinner and no doubt dazzling us with his love and knowledge of New York.  Dinner is from 6:00 - 9:00 at the Lodge (318 Grand St. at Havemeyer.)  Tickets are $100.00 per person with proceeds to directly benefit the City Reliquary.  With our modest 50 cent admission fee to the museum, events like these are how we keep our doors open.  Click on the Make a Donation button below, and reserve your tickets for dinner.  Thanks!</p>
+
+<table width="599" border="0" cellspacing="0" cellpadding="5" class="line">
+  <tr>
+    <td><strong>Get a Seat Now Using A Credit Card:</strong></td>
+    <td align="right"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="messages@cityreliquary.org">
+<input type="hidden" name="item_name" value="Single Plate for Benefit Dinner">
+<input type="hidden" name="amount" value="100.00">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="return" value="http://cityreliquary.org/">
+<input type="hidden" name="cancel_return" value="http://cityreliquary.org/">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="bn" value="PP-DonationsBF">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></td>
+  </tr>
+</table>
+<br />
+<table width="600" border="0" cellspacing="0" cellpadding="5" class="line">
+  <tr>
+    <td><strong>RESERVED Table(s) for six:</strong> $2000 each</td>
+    <td  align="right"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="messages@cityreliquary.org">
+<input type="hidden" name="item_name" value="Reserved Benefit Table for Six">
+<input type="hidden" name="amount" value="2000.00">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="return" value="http://cityreliquary.org/">
+<input type="hidden" name="cancel_return" value="http://cityreliquary.org/">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="bn" value="PP-DonationsBF">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></td>
+  </tr>
+</table>
+<br />
+<table width="600" border="0" cellspacing="0" cellpadding="5" class="line">
+  <tr>
+    <td>If you cannot attend but still wish to make a donation, </td>
+    <td  align="right"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="messages@cityreliquary.org">
+<input type="hidden" name="item_name" value="General Benefit Dontation">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="return" value="http://cityreliquary.org/">
+<input type="hidden" name="cancel_return" value="http://cityreliquary.org/">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="bn" value="PP-DonationsBF">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></td>
+  </tr>
+</table>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Turning Point Opening May 20, 2006</div>
+
+<div class="blogentry">
+<a name="000296"></a>
+
+<div class="blogbody">
+<p><a href="http://www.amybolger.com/">Amy Bolger</a>  and The City Reliquary present <b>Turning Point: a celebration of cycling and art</b>. A photographic exhibition at:<br />
+<blockquote><br />
+The City Reliquary Museum<br />
+370 Metropolitan Ave @ Havemeyer<br />
+Opening: Saturday, May 20th 2006 at noon </blockquote></p>
+
+<p><img alt="turning point" src="http://cityreliquary.org/news/archives/amybolger2006.jpg/turningpoint.jpg" width="612" height="471" border="0" /></p>	
+
+</div>
+</div>
+
+<br><br>
+
+</div>
+</div>
+
+
+
+
+
+<!-- //foot -->
+
+<div id="foot"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/wcrm"><img src="http://cityreliquary.com/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/communitybeutification"><img src="http://cityreliquary.com/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/civicriders/archives/cat_events.html"><img src="http://cityreliquary.com/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/collections"><img src="http://cityreliquary.com/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+
+</div>
+
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</div>
+</body>
+</html>

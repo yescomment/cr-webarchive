@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://cityreliquary.com/aboutus/">
+<title>About Us</title>
+<link>http://cityreliquary.com/aboutus/</link>
+<description>Learn more about the City Reliquary; our history and our goals.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2007-07-03T22:52:24+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://cityreliquary.com/aboutus/archives/000439.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/aboutus/archives/000409.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/aboutus/archives/000062.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/aboutus/archives/000061.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/aboutus/archives/000132.shtml" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://cityreliquary.com/aboutus/archives/000439.shtml">
+<title>2007-2008 Board of Directors</title>
+<link>http://cityreliquary.com/aboutus/archives/000439.shtml</link>
+<description><![CDATA[<br>
+<img alt="dave.jpg" src="http://cityreliquary.com/aboutus/archives/dave.jpg" width="185" height="185" border="0" />
+
+<br><br><img alt="george_web.jpg" src="http://cityreliquary.com/aboutus/archives/george_web.jpg" width="185" height="185" border="0" />
+
+<br><br>
+<img alt="bill_web.jpg" src="http://cityreliquary.com/aboutus/archives/bill_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="nik_web.jpg" src="http://cityreliquary.com/aboutus/archives/nik_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="leah_web.jpg" src="http://cityreliquary.com/aboutus/archives/leah_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="noah_web.jpg" src="http://cityreliquary.com/aboutus/archives/noah_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="lulu_headshot.jpg" src="http://cityreliquary.com/aboutus/archives/lulu_headshot.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="joy.jpg" src="http://cityreliquary.com/aboutus/archives/joy.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="jay.jpg" src="http://cityreliquary.com/aboutus/archives/jay.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="MattLevy.jpg" src="http://cityreliquary.com/aboutus/archives/MattLevy.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="kyle.jpg" src="http://cityreliquary.com/aboutus/archives/kyle.jpg" width="185" height="185" border="0" />
+<br><br><br><img alt="Hii" src="http://cityreliquary.com/aboutus/archives/Hii" width="185" height="185" border="0" />
+]]></description>
+<dc:subject>Board Members</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-03T22:52:24+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/aboutus/archives/000409.shtml">
+<title>Visit the Museum</title>
+<link>http://cityreliquary.com/aboutus/archives/000409.shtml</link>
+<description><![CDATA[<a href="http://cityreliquary.com/aboutus/archives/bvisit/reliquary2.shtml" onclick="window.open('http://cityreliquary.com/aboutus/archives/bvisit/reliquary2.shtml','popup','width=400,height=300,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/bvisit/reliquary2-thumb.jpg" width="180" height="135" border="0" /></a>
+<br>A Sidewalk View of The Reliquary]]></description>
+<dc:subject>Visit</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2006-11-01T00:59:58+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/aboutus/archives/000062.shtml">
+<title>The City Reliquary</title>
+<link>http://cityreliquary.com/aboutus/archives/000062.shtml</link>
+<description><![CDATA[click to enlarge<br><br>
+<a href="http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street.html" onclick="window.open('http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street.html','popup','width=520,height=343,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street-thumb.jpg" width="185" border="0" /></a>
+<br><br>
+<h4>Our original location on the corner of Havemeyer & Grand Sts. in beautiful Williamsburgh, Brooklyn N.Y.C.</h4><br>]]></description>
+<dc:subject>Overview</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-10T00:03:25+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/aboutus/archives/000061.shtml">
+<title>A Brief Synopsis of the City Reliquary&apos;s Original Location</title>
+<link>http://cityreliquary.com/aboutus/archives/000061.shtml</link>
+<description><![CDATA[<a href="http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis.html" onclick="window.open('http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis.html','popup','width=520,height=343,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis-thumb.jpg" width="185" border="0" /></a>
+<br><br>
+<h4>VP of Operations George Ferrandi with her Pez Collection.
+<br> Write her a letter to george@cityreliquary.com</h4>]]></description>
+<dc:subject>Overview</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-09T23:24:18+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/aboutus/archives/000132.shtml">
+<title>2005-2006 Board of Directors</title>
+<link>http://cityreliquary.com/aboutus/archives/000132.shtml</link>
+<description><![CDATA[<br>
+<img alt="dave_web2.jpg" src="http://cityreliquary.org/aboutus/archives/dave_web2.jpg" width="185" height="185" border="0" />
+
+
+
+<br><br><img alt="george_web.jpg" src="http://cityreliquary.org/aboutus/archives/george_web.jpg" width="185" height="185" border="0" />
+
+<br><br>
+<img alt="bill_web.jpg" src="http://cityreliquary.org/aboutus/archives/bill_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="nik_web.jpg" src="http://cityreliquary.org/aboutus/archives/nik_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="harley_web.jpg" src="http://cityreliquary.org/aboutus/archives/harley_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="leah_web.jpg" src="http://cityreliquary.org/aboutus/archives/leah_web.jpg" width="185" height="185" border="0" />
+
+<br><br>
+<img alt="noah_web.jpg" src="http://cityreliquary.org/aboutus/archives/noah_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="jesse_web.jpg" src="http://cityreliquary.org/aboutus/archives/jesse_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="mindy_web.jpg" src="http://cityreliquary.org/aboutus/archives/mindy_web.jpg" width="185" height="185" border="0" />
+<br><br>
+
+
+<img alt="cal_web.jpg" src="http://cityreliquary.org/aboutus/archives/cal_web.jpg" width="185" height="185" border="0" />
+<br><br>
+<img alt="will_web.JPG" src="http://cityreliquary.org/aboutus/archives/will_web.JPG" width="185" height="185" border="0" />
+<br><br>
+<img alt="scout_web.jpg" src="http://cityreliquary.org/aboutus/archives/scout_web.jpg" width="185" height="185" border="0" />]]></description>
+<dc:subject>Board Members</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2004-06-07T01:31:54+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>

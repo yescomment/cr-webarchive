@@ -1,0 +1,77 @@
+{HEADER}
+<div id="anyfont-upload-messages" class="updated"  style="display:none" ></div>
+<div id="anyfont-settings">
+	<div id="anyfont-autoreplace" class="anyfont-options-block">
+		<form id="autoreplace_form" class="anyfont-settings-block">
+		<h2>{REPLACE_H2}</h2>
+		<div class="anyfont-settings-content">
+			<p>{HELP_MSG}</p>
+			<p class="anyfont-note">{SEO_NOTE}</p>
+
+			<input type="hidden" name="option[0]" value="anyfont_post_title" />
+			<div style="float:left;" class="anyfont_checkbox{POST_ON_CLASS}"><label for="#">post titles</label><input class="settings" type="checkbox" name="result[anyfont_post_title]" id="replace_posts" {POST_CHECKED} onchange="AnyFont.toggleDisabled(this);"/></div>
+			<select id="style" name="style[anyfont_post_title]" {POST_DISABLED}><option value="false">Select Style...</option>{POST_TITLE_STYLES}</select><br /><br />
+
+			<input type="hidden" name="option[1]" value="anyfont_page_title" />
+			<div style="float:left;" class="anyfont_checkbox{PAGE_ON_CLASS}"><label for="#">page titles</label><input class="settings" type="checkbox" name="result[anyfont_page_title]" id="replace_pages" {PAGE_CHECKED} onchange="AnyFont.toggleDisabled(this);"/></div>
+			<select id="style" name="style[anyfont_page_title]" {PAGE_DISABLED}><option value="false">Select Style...</option>{PAGE_TITLE_STYLES}</select><br /><br />
+
+			<input type="hidden" name="option[2]" value="anyfont_tag_title" />
+			<div style="float:left;" class="anyfont_checkbox{TAG_ON_CLASS}"><label for="#">tag titles</label><input class="settings" type="checkbox" name="result[anyfont_tag_title]" id="replace_tags" {TAG_CHECKED} onchange="AnyFont.toggleDisabled(this);"/></div>
+			<select id="style" name="style[anyfont_tag_title]" {TAG_DISABLED}><option value="false">Select Style...</option>{TAG_TITLE_STYLES}</select><br /><br />
+
+			<input type="hidden" name="option[3]" value="anyfont_cat_title" />
+			<div style="float:left;" class="anyfont_checkbox{CAT_ON_CLASS}"><label for="#">cat titles</label><input class="settings" type="checkbox" name="result[anyfont_cat_title]" id="replace_cats" {CAT_CHECKED} onchange="AnyFont.toggleDisabled(this);"/></div>
+			<select id="style" name="style[anyfont_cat_title]" {CAT_DISABLED}><option value="false">Select Style...</option>{CAT_TITLE_STYLES}</select><br /><br />
+
+			<input type="hidden" name="option[4]" value="anyfont_widget_title" />
+			<div style="float:left;" class="anyfont_checkbox{WIDGET_ON_CLASS}"><label for="#">widget titles</label><input class="settings" type="checkbox" name="result[anyfont_widget_title]" id="replace_widget_title" {WIDGET_CHECKED} onchange="AnyFont.toggleDisabled(this);"/></div>
+			<select id="style" name="style[anyfont_widget_title]" {WIDGET_DISABLED}><option value="false">Select Style...</option>{WIDGET_TITLE_STYLES}</select><br /><br />
+
+			<input type="hidden" name="option[5]" value="anyfont_blog_title" />
+			<div style="float:left;" class="anyfont_checkbox{BLOG_TITLE_ON_CLASS}"><label for="#">blog name</label><input class="settings" type="checkbox" name="result[anyfont_blog_title]" id="anyfont_blog_title" {BLOG_TITLE_CHECKED} onchange="AnyFont.toggleDisabled(this);"/></div>
+			<select id="style" name="style[anyfont_blog_title]" {BLOG_TITLE_DISABLED}><option value="false">Select Style...</option>{BLOG_TITLE_STYLES}</select><br /><br />
+
+			<input type="hidden" name="option[6]" value="anyfont_blog_desc" />
+			<div style="float:left;" class="anyfont_checkbox{BLOG_DESC_ON_CLASS}">
+				<label for="#">blog description</label>
+				<input class="settings" type="checkbox" name="result[anyfont_blog_desc]" id="anyfont_blog_desc" {BLOG_DESC_CHECKED} onchange="AnyFont.toggleDisabled(this);" />
+			</div>
+			<select id="style" name="style[anyfont_blog_desc]" {BLOG_DESC_DISABLED}><option value="false">Select Style...</option>{BLOG_DESC_STYLES}</select><br /><br />
+
+			<p class="anyfont-note">{DISCLAIMER}<br />{DISCLAIMER_CONT}</p>
+			<input type="button" class="button-primary" onclick="AnyFont.updateOptions('autoreplace_form');" value="Save Settings" />
+		</div>
+		</form>
+	</div>
+	<div id="anyfont-cache" class="anyfont-settings-block">
+		<h2>{IMAGE_H2}</h2>
+		<div class="anyfont-settings-content">
+			<p>There {ISARE}  <strong><span id="image_count">{IMAGE_COUNT}</span></strong> stored in cache.</p>
+			<p>Total Disk Usage: <strong><span id="image_size">{TOTAL_SIZE}</span></strong></p>
+			<input type="button" class="button-primary" onclick="AnyFont.clearCache();" value="Clear the Cache" />
+  </div>
+	</div>
+	<div id="anyfont-autoreplace" class="anyfont-options-block">
+		<form id="advanced_form" class="anyfont-settings-block">
+		<h2>{ADVANCED_H2}</h2>
+		<div class="anyfont-settings-content">
+			<p>{ADVANCED_MSG}</p>
+
+			<input type="hidden" name="option[0]" value="anyfont_image_module" />
+			<label for="anyfont_image_module">php image module</label>
+			<select id="anyfont_image_module" name="anyfont_image_module">{IMAGE_MODULE_OPTIONS}</select><br /><br />
+
+			<input type="hidden" name="option[1]" value="anyfont_disable_hotlinking" />
+			<div style="float:left;" class="anyfont_checkbox{DISABLE_HOTLINKING_ON_CLASS}">
+				<label for="#">disable hotlinking</label>
+				<input id="anyfont_disable_hotlinking" class="anyfont_chk_only" name="result[anyfont_disable_hotlinking]" type="checkbox" {DISABLE_HOTLINKING_CHECKED} /><br /><br />
+			</div>
+			<input type="button" class="button-primary" onclick="AnyFont.updateOptions('advanced_form');" value="Save Settings" />
+		</div>
+
+		</form>
+	</div>
+</div>
+
+{FOOTER}

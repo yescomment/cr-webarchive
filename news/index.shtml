@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | News</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="styles-nav.css" />
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+<div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+<div id="bobby"> 
+
+<div class="subhead">
+News
+</div><br><br>
+
+<div id="jonny">
+
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Brooklyn Bridge 126th Birthday Bike Ride</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p><b>Join us this SUNDAY!!!</b><br /><br />
+<b>Brooklyn Bridge 126th Birthday Bike Ride</b><br /><br />
+sponsored by the City Reliquary Museum & Civic Organization<br /><br />
+10-mile roundtrip ride with a celebration destination! There will be birthday cake, beverages, and music for everyone!  Easy pace so you can bring the whole family!  A lively historical lecture by NYC tour guide Matt Levy upon arrival at the Brooklyn anchorage!    Meet at the museum, 370 Metropolitan Ave near Havemeyer St. at 12:00 noon on Sunday, May 24th, 2009!!! Bring your Bike and Birthday hat!  Suggested donation is $5.00, <br />
+ </p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">5/16 The Candela Structures: A New York City History Mystery Opens</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p><img alt="postcard.jpg.jpeg" src="http://cityreliquary.com/frontpage/archives/postcard.jpg.jpeg" width="450" height="629" border="0" /><br /><br />
+Have you seen  <a href="http://farm4.static.flickr.com/3384/3433613278_471029e272_o.png">these prefab structures</a>? Aren't they cool?<br /><br />
+They're located on the Flushing Bay Promenade in Queens, a few hundred yards from the Mets' new stadium. Millions of people have seen them over the past 45 years, but almost nobody knows anything about them.<br /><br />
+The Candela Structures: A New York City History Mystery, a new exhibition at the City Reliquary, tells the story of these underappreciated fiberglass formations and the surprising culture of mystery and misinformation surrounding them, from their origins as  <a href="http://farm4.static.flickr.com/3645/3411717373_3c36719a47_b.jpg">exhibit spaces</a> during the   <a href="http://farm4.static.flickr.com/3626/3430305916_cc788b59d5_o.jpg">1964 World's Fair</a> to their current status as neglected but enduring landmarks on the Queens waterfront.<br /><br />
+The exhibit has been produced by journalist Paul Lukas and architect Kirsten Hively, who developed a crush on the Candela Structures last year and decided to investigate their backstory. What began as a quick research project turned into an eight-month odyssey of dead ends, wrong turns, and architectural obsession. The resulting exhibit should give these underrated structures the attention they've long deserved.<br /><br />
+The exhibit will kick off with an opening reception on May 16th, 7pm, at the City Reliquary. Arts and crafts materials will be provided, so guests can sculpt their own Candela Structures, and the Reliquary will also provide "Save the Candelas" letters and envelopes, so guests can petition city officials to provide the Candelas with sorely needed repairs. Beer and other refreshments will be provided, and DJ Stacher will kick out the jams with mid-1960s pop-garage, psychedelia and Shea Stadium live concert hits.<br /><br />
+The Candela Structures: A New York City History Mystery will remain on view at the Reliquary through June 28th.<br /></p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">5/9 5th Annual Bicycle Fetish Day</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p><b>Saturday May 9th, 12noon – 6pm</b><br /><br />
+<b>Havemeyer between Hope and Grand streets<br /></b><br />
+<b>6 – 10pm, Afterparty in the City Reliquary’s spacious backyard.<br /></b><br />
+It’s a block party for your bicycle! Come and celebrate at our fifth annual Bicycle Fetish Day, with Bike related events including, but not limited to, awards and celebrations of bicycle culture, bike artwork, bicycle rides, and bicycle beautification stations to spiff up your wheels. Burgers, & Dogs of the meat and veggie kind will be on sale at the grill, and Brooklyn Beer will be purchasable at the Museum. Local bike-related organizations will be on-hand to share pro-cycling gear and information, including but not limited to: The Pablo Legal Defense Fund, Outlier Tailored Performance, Taliah Lempert, Transportation Alternatives, and many more. Afterparty at the City Reliquary’s spacious backyard to follow, featuring funky bike and cycle soul with DJ Barney Iller.</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Photos from Museum2Museum Bike Ride: From the City Reliquary to the QMA!</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>Sunday April 26th</p>
+
+<p><a href="http://www.flickr.com/photos/cityreliquary/sets/72157617679868120/">Check out the photos of our awesome ride!!</a></p>
+
+<p>Join the most civic cyclists in town for a fun, free and leisurely bicycle ride from Museum2Museum – Brooklyn to Queens. We will depart the City Reliquary at 2pm, wind our way through Williamsburg and East Williamsburg, into Long Island City, Elmhurst, Corona, and finally Flushing-Meadows Corona Park, for the QMA’s Queens International 4 closing party. Total miles: 6.5. <br />
+</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">5/16 Dead Horse Bay Bike Ride</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>Saturday May 16th 1:30 - 5pm<br />
+Meet at 1:30pm, leave 2pm, return 6pm.<br />
+Join the most civic cyclists in town for a fun, free, leisurely and historical bicycle ride from North to South Brooklyn and back. Travel along America's first urban bicycle lane, traverse various "deep Brooklyn 'hoods" and end at Dead Horse Bay, aka Bottle Beach. After a rest, we'll return the way we came. End at the City Reliquary for the official opening of the Candela Structures: A New York City History Mystery! Total miles: 21.<br />
+</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">6/6 Civic Bike Ride to the LIC Bike Parade Celebrating the 100th Anniversary of the Queensboro Bridge!</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>Saturday June 6th, 1145 - 3pm<br />
+Meet at 11:45am, depart at 12noon. Arrive at Queensboro bridge at 12:45pm, depart at 1pm, Arrive at Socrates Sculpture Park at 2pm.<br />
+Join the most civic cyclists in town for a celebratory bike ride over the best bridge to Queens. From the City Reliquary we will head to the Queensboro bridge via Manhattan. As we ride across the Queensboro Bridge we'll also learn its history, then continue to the Socrates Sculpture Park. Upon arriving we'll kickstart the 2nd Annual LIC Bike Parade at 2. Total miles: 8</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Over Spilt Milk Ending on May 10th</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p><strong>Over Spilt Milk: The Fight for Fair Price and Fair Profit in Depression Era New York.</strong><br /><br /><strong>January 30th - May 3rd 2009</strong><br><br>Consumer-Farmer Milk Cooperative pamphlets and broadsides, vintage milk cartons, and miniature dioramas on display.<br /><br />The show will feature documents and artifacts from the 1930s, when immigrant Meyer Parodneck and a handful of anti-poverty activists founded the Consumer-Farmer Milk Cooperative to ensure farmers received a fair price, and consumers paid a fair price, for milk. The Co-op played a pivotal role opening the market controlled by milk distribution giants. With their own processing plants and distribution stations, the Consumer-Farmer Co-op sold milk to consumers at the lowest possible price, and paid farmers the highest possible return, for nearly fifty years. Overcoming a mountain of obstacles, this organization made a difference to hundreds of struggling farmers and to the children of low-income New Yorkers.<br /><br />The exhibition includes period Co-op newsletters and advertising campaigns, vintage paper milk containers, and cooperative movement propaganda. Pivotal moments in the Co-op's story are illustrated with miniature dioramas.<br /><br /></p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">2/27 BROTHER CAN YOU SPARE SOME RENT?</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>Modern Day Depression-Era Fundraiser!<br />
+Friday February 27th 7-11pm<br><br>Times are tough all around – rollercoaster stock markets, job losses by the hundreds of thousands, bipartisan bickering with no relief in sight. It’s even tougher for 501 (c) (3) non-profit Community Museums. So the City Reliquary is hosting a fundraiser to raise some of (last month’s!) rent. BROTHER CAN YOU SPARE SOME RENT? is a Modern Day Depression-Era Fundraiser held in our backroom and backyard. For a minimum $10 tax-deductible donation at the door, you can come and participate in scores of historical diversions and entertainments circa 1935.<br><br>The City Reliquary is proud to present:<br><br><strong>Pie the Landlord! That’s right</strong>: the City Reliquary will have our very own cigar-chomping, unshaven, smelly Landlord demanding our rent! Tell him where to shove it with a whipped cream pie in his face!<br /><br /><strong>Madame LuLu LoLo, Fortune Teller Extraordinaire</strong>: She Sees All and Knows All and Your Fortune Might Help Pay Our Rent!<br /><br /><strong>Hobo Photos a Go-G</strong>o: Take your picture in our hand painted carnival sign.  Remember the Recession of ’09 with a photographic keepsake!<br /><br /><strong>Depression-era movies</strong>: shown on the projector in the backyard. Laugh it up with Mae West, the Marx Brothers and James Cagney.<br /><br /><strong>Oil drum fires</strong>: (and more modern propane heaters) to keep you warm while you chill in the cold. All fires will be regulated carefully by official FDNY supervision! <br /><br /><strong>DIY Fingerless Gloves Table!</strong> Because nothing says Depression-chic than rockin’ a pair of fingerless gloves!<br /><br /><strong>Prohibition-era Beer</strong> provided by the Brooklyn Brewery and Depression-era “Rum” Punch provided by the City Reliquary at contemporary-recession era prices.<br /><br /><strong>DJ Stacher</strong> playing hits from the economically challenged 1930s (Harlem Jazz) and 1970s (early Rap); as well as Big Money tracks from the 1980s (disco) and 2000s (electro). Get down!<br /><br /><p>All entertainments and diversions will be priced at the Depression-friendly rates of $2-5 a pop. All proceeds go to help the City Reliquary pay (last month’s, and this one’s) rent. </p><br /><br /></p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">7/31 First Ever Summer Benefit Party</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>Announcing the City Reliquary's first Summer Benefit Party! <br />
+We hope you will join us for this delightful evening benefiting everyone's <br />
+favorite community museum on <strong>July 31</strong> at <strong>7:00pm</strong>. <br />
+Please email cityreliquary@gmail.com to reserve your tickets<br />
+as soon as possible! Tickets are $50 (civic level) or $100<br />
+(metropolitan level -- includes a Reliquary membership!).</p>
+
+<p>In addition to enjoying drinks, snacks, and music while exploring the<br />
+Reliquary and its grounds, the evening will include a silent auction<br />
+featuring swag from Crest Hardware and Transportation Alternatives, a<br />
+personalized NYC tour from The Levy's Unique New York!, original<br />
+artwork, and more. We'll also offer you the once-in-a-lifetime<br />
+opportunity to "Win-a-Date with a Reliquarian."</p>
+
+<p>You can pay for your tickets by mailing a check to the Reliquary at PO<br />
+BOX 110948, Brooklyn, NY 11211 or by cash or check night-of the party.</p>
+
+<p>Thanks for your support and see you on July 31!</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Harbor Tours of the Brooklyn Bridge</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>May 22nd, 23rd, 24th & 25th:<br />
+in association with the City Reliquary,<br />
+The Levys' Unique New York, NY's First Family of Tour Guides presents:</p>
+
+<p><strong>Harbor Tours of the Brooklyn Bridge with the Roebling Family!</strong></p>
+
+<p>Take an hour-long New York Harbor cruise aboard the NY Water Taxi with The Levys' Unique New York!  NY's First Family of Tour Guides portraying the family that built the Brooklyn Bridge – John, Washington and Emily Roebling. Tour will include a first person narrative of the history, drama, tragedy and triumph of the building of The Great Bridge by one of the Roeblings or a caisson worker.  Cruise beneath its majestic Gothic arches and sail past Lady Liberty and Ellis Island.</p>
+
+<p>Tours depart from South Street Seaport on May 22nd, 23rd, 24th, and 25th at 10:30 am, 12noon and 1pm.</p>
+
+<p>Tours are $25. To purchase tickets or book this tour as a charter contact Mark@levysuniqueny.com<br />
+or call 877 NYC LUNY (877 692 5869)<br />
+</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">5/24 Brooklyn Bridge Birthday Bike Ride</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>May 24th aka BRIDGE DAY!<br />
+The City Reliquary Museum presents our annual,<br />
+<strong>Brooklyn Bridge Birthday Bike Ride!</strong><br />
+This year celebrating 125 years since opening day May 24th, 1883.<br />
+Meet at the City Reliquary Museum<br />
+370 Metropolitan Ave. near Havemeyer St.<br />
+in Williamsburgh, Brooklyn<br />
+on Saturday May 24th at 12:00 noon<br />
+The bicycle ride will depart from the Museum and culminate on the Brooklyn anchorage of the Brooklyn Bridge, approximately 10 miles roundtrip. We will be met with Birthday cake, beverages, and a lively presentation of the bridge's illustrious history. Souvenir t-shirts will be on sale at the CR giftshop. Suggested donation $5; or free with purchase of t-shirt.<br />
+</p>
+</div>
+
+
+
+</div>
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">5/23 Brooklyn Bridge Art Show Reception</div>
+
+<div class="blogentry">
+<div class="blogbody">
+<p>May 23rd 7:00 - 10:00 PM Reception:<br />
+<strong><br />
+The Brooklyn Bridge: 125 Years of Inspiration</strong><br />
+The exhibit will feature the artwork of NYC-based students as inspired by the majestic towers of the Brooklyn Bridge and iconography that surrounds it. Kindergarten through college tudents in public and private schools have submitted artistic projects that show historic research and/or visual exploration of the bridge.<br />
+Artists' reception will be held;</p>
+
+<p>The exhibition runs through June 15h, 2008<br />
+Regular museum hours: Saturday & Sunday 12-6 pm<br />
+or weekdays by appointment or chance. Admission: "Pay what you wish."</p>
+</div>
+
+
+
+</div>
+<br><br>
+
+</div>
+</div>
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/wcrm"><img src="http://cityreliquary.com/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/communitybeautification"><img src="http://cityreliquary.com/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/civicriders/archives/cat_events.html"><img src="http://cityreliquary.com/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/collections"><img src="http://cityreliquary.com/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+</div>
+
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+  
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+<title>The City Reliquary | WCRM Radio | Coffee: November 3. 2005</title>
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/wcrm//styles-nav.css" />
+
+<link rel="start" href="http://cityreliquary.com/wcrm/" title="Home" />
+<link rel="prev" href="http://cityreliquary.com/wcrm/archives/000263.shtml" title="WCRM 24/7 Broadcast" />
+
+<link rel="next" href="http://cityreliquary.com/wcrm/archives/000279.shtml" title="Submit Content" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'cityreliquary.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+
+
+
+
+</head>
+
+<body>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+
+<div id="danzig">
+
+<!-- //nav -->
+
+ <ul id="nav">
+    <li id="first"> 
+      <div><a href="http://cityreliquary.org/news/archives/cat_calendar.html"><img src="http://cityreliquary.org/pics/sub_news.gif" /></a></div>
+        <ul>
+          <li><a href="http://cityreliquary.org/news/archives/cat_calendar.html">Calendar</a></li>
+          <li><a href="http://cityreliquary.org/news/archives/cat_press_coverage.html">Press 
+            Coverage</a></li>
+          <li><a href="#">Press Releases</a></li>
+        </ul>
+    </li>
+    <li id="top"> 
+      <div><a href="http://cityreliquary.org/events"><img src="http://cityreliquary.org/pics/sub_special.gif" /></a></div>
+        <ul>
+          <li><a href="http://cityreliquary.org/events/archives/cat_we_heart_marty.html">Marty 
+            Day</a></li>
+          <li><a href="http://cityreliquary.org/events/archives/cat_collectors_night.html">Collectors 
+            Night</a></li>
+          <li><a href="http://cityreliquary.org/events/archives/cat_bicycle_fetish_day.html">Bicycle 
+            Fetish Day</a></li>
+        </ul>
+    </li>
+    <li id="top"> 
+      <div><a href="http://cityreliquary.org/aboutus/archives/cat_overview.html"><img src="http://cityreliquary.org/pics/sub_about.gif" /></a></div>
+	  <ul>
+          <li><a href="http://cityreliquary.org/aboutus/archives/cat_overview.html">Overview</a></li>
+          <li><a href="http://cityreliquary.org/aboutus/archives/cat_board_members.html">Board Members</a></li>
+        </ul>
+    </li>
+    <li id="top"> 
+      <div><a href="http://cityreliquary.org/communications"><img src="http://cityreliquary.org/pics/sub_commun.gif" /></a></div>
+        <ul>
+          <li><a href="http://cityreliquary.org/communications/archives/000056.html#more">Join 
+            Our Mailing List</a></li>
+          <li><a href="http://cityreliquary.org/communications/archives/000055.html#more">Send 
+            Us A Message</a></li>
+          <li><a href="http://cityreliquary.org/communications/archives/000131.html#more">Send Us A Package</a></li>
+        </ul>
+  </li>
+  <li id="top">
+      <div><a href="http://cityreliquary.org/friends"><img src="http://cityreliquary.org/pics/sub_friends.gif" /></a></div>
+    </li>
+  </ul>
+
+<!-- //content -->
+<div id="bann"><img src="http://cityreliquary.org/pics/head_back.gif" /></div>
+
+<div id="bobby"> 
+
+<div class="subhead">
+WCRM Radio
+</div>
+
+<div id="bobby3"> 
+<div class="subhead">
+<a href="http://www.cityreliquary.org/wcrm/schedule">SCHEDULE</a>
+</div>
+</div>
+
+<br><br>
+
+<div id="jonny">
+
+<div class="accent"><img src="http://cityreliquary.org/pics/corner1.gif"></div><div class="subhead2">Coffee: November 3. 2005</div>
+<div class="blogentry">
+<div class="blogbody">
+
+The City Reliquary Museum presents: <br>WCRM, The Citizens’ Radio Music Show
+<br>Thursday, November 3, 2005, 8:00 PM-10:00 PM
+<br><br>
+This month, WCRM, The Citizens’ Radio Music Show starts little earlier but is bound to stay up later as the theme this month is COFFEE. We'll have this months collector Rodger Stevens in the studio for a few questions about his Paper Coffee Cup Collection. We've also asked Marshall Brain, creator and chief contributor of <a href="http://howstuffworks.com">HowStuffWorks.com</a>, to explain for us How Coffee Works?<br><br>
+Throughout this broadcast we will be treated to a Selection of Music Curated by Erica Matthews, resident Coffee Coniseur. Erica also brings us movie quotes, literary refrences, and coffee facts as we dig into the cultural effects of the coffee bean.
+<br><br>
+Regular Contributers to the show this month include: Jesse James Arnold, Dave Herman, Mindy Abovitz and George Ferrandi.
+<br>
+<br><b>Don't Wait for the Scheduled Broadcast on Radio 24/7!<br>
+This Show is Available for Immediate Listening Via Our Select Streaming Archives.</b><br><br><img src="http://cityreliquary.org/pics/arrow2.gif"> Launch the Coffee Show: <a href="http://www.cityreliquary.org/avclub/wcrmnovembercoffee_56.m3u"> STREAM NOW!</a>
+<br>
+
+<a name="more"></a>
+
+
+
+<br /></span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/wcrm"><img src="http://cityreliquary.org/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/communitybeutification"><img src="http://cityreliquary.org/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/civicriders/archives/cat_events.html"><img src="http://cityreliquary.org/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/collections"><img src="http://cityreliquary.org/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+</div>
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>

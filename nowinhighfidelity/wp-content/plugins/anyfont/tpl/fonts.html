@@ -1,0 +1,39 @@
+{HEADER}
+<div id="anyfont-page-options">
+	<div class="add-new"><input class="button-secondary" type="button" value="Upload New Font" onclick="AnyFont.toggleNew('anyfont-upload-new');" /></div>
+	<div class="delete-selected"><input class="button-secondary" type="button" value="Delete Selected Fonts" onclick="AnyFont.deleteFont(false);" /></div>
+</div>
+<div id="anyfont-upload-messages" class="updated"  style="display:none" ></div>
+<div id="anyfont-upload-new" style="display:none" >
+	<form class="anyfont-settings-block" id="file_upload_form" method="post" enctype="multipart/form-data" action="{UPLOAD_URL}">
+		<h2>Upload New Font</h2>
+		<div class="anyfont-settings-content">
+			<p id="anyfont-upload-desc">
+				Select a font on your computer to upload.
+			</p>
+			<p>
+			<input name="font" id="font" size="27" type="file" /><br /><br />
+			<input type="submit" name="action" value="Upload Font" class="button-primary" onclick="AnyFont.startUpload();"/>
+			<input type="button" name="cancel" value="Cancel" class="button-secondary" style="float:right;margin-right:5px;" onclick="AnyFont.toggleNew('anyfont-upload-new');"/>
+			<br />
+			</p>
+			<iframe id="upload_target"  name="upload_target" style="width:0;height:0;border:0px solid #fff;display:none"></iframe>
+		</div>
+	</form>
+</div>
+<div  id="anyfont-list">
+	<ul class="list-header">
+		<li class="checkbox"><input type="checkbox" name="selectall_checkbox" onclick="AnyFont.selectAll('anyfont-list', this);" /></li>
+		<li class="font-name">Name</li>
+		<li class="actions">Actions</li>
+	</ul>
+	<ul id="anyfont-fontlist" class="font-list">
+		{FONTS}
+	</ul>
+	<ul class="list-header">
+		<li class="checkbox"></li>
+		<li class="font-name">Name</li>
+		<li class="actions">Actions</li>
+	</ul>
+</div>
+{FOOTER}

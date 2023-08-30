@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://cityreliquary.com/civicriders/">
+<title>Civic Riders</title>
+<link>http://cityreliquary.com/civicriders/</link>
+<description>Home to all news about the Civic Riders Bicycle Club operating out of the City Reliquary.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2006-06-26T02:38:50+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000300.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000071.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000066.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000070.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000064.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000068.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/civicriders/archives/000069.shtml" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000300.shtml">
+<title>Bicyle Fetish Day, July 1st 2006</title>
+<link>http://cityreliquary.com/civicriders/archives/000300.shtml</link>
+<description>The City Reliquary and the Brooklyn Civic Riders are pleased to announce our: 2nd Annual Bicycle Fetish Day on July 1st 2006 from noon until 5 PM. Find the festival on Havemeyer between Grand &amp; Metropolitan. CONTESTS: Best in Show,...</description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2006-06-26T02:38:50+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000071.shtml">
+<title>Contact Us... CIVICRIDERS@cityreliquary.org</title>
+<link>http://cityreliquary.com/civicriders/archives/000071.shtml</link>
+<description></description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-21T03:24:25+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000066.shtml">
+<title>Bicycle Fetish Day - July 1, 2006</title>
+<link>http://cityreliquary.com/civicriders/archives/000066.shtml</link>
+<description>This year we will be hosting the second annual New York City Bicycle Fetish Day will be held July 1, 2006 at the new City Reliquary! This event is open to everyone who wants to come show off their ride....</description>
+<dc:subject>Events</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-20T03:59:40+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000070.shtml">
+<title>Bicycle Fetish Day 2006 Vendors&apos; Form</title>
+<link>http://cityreliquary.com/civicriders/archives/000070.shtml</link>
+<description>We need you!! Calling all bike shop owners, club leaders, food vendors, musicians, etc. We are looking for you to participate in Bicycle Fetish Day 2006. For more information please download the Vendors&apos; Form. We&apos;ll have a new form up...</description>
+<dc:subject>Events</dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-04-20T02:52:15+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000064.shtml">
+<title>GET WELL SOON NOAH!!  WE MISS YOU!!</title>
+<link>http://cityreliquary.com/civicriders/archives/000064.shtml</link>
+<description>The streets are filled with civic nobility.  Noah Budnick (right), Brooklyn&apos;s best bicycle advocate rides shoulder to shoulder with our own Brooklyn Borough President, Marty Markowitz.  </description>
+<dc:subject>About Us</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-19T03:38:53+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000068.shtml">
+<title>Brooklyn Bridge Birthday Bike Ride</title>
+<link>http://cityreliquary.com/civicriders/archives/000068.shtml</link>
+<description>Here are some photos from the annual 2004 Brooklyn Bridge Birthday ride on May 24th. Every year, we ride to the top of the bridge and are met with birthday cake for all. Join us this year for the bridge’s...</description>
+<dc:subject>Events</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-18T04:14:44+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/civicriders/archives/000069.shtml">
+<title>The Bronx is Up and the Battery&apos;s Down</title>
+<link>http://cityreliquary.com/civicriders/archives/000069.shtml</link>
+<description>Last year was also the 100th anniversary of the subway system which was celebrated by a ride of the entire length of the 1-9 lines. First below ground, then above riding Broadway from the Bronx to the Battery. Five riders...</description>
+<dc:subject>Events</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2005-04-17T04:27:28+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>

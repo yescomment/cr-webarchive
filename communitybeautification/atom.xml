@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Community Beautification</title>
+  <link rel="alternate" type="text/html" href="http://cityreliquary.com/communitybeautification/" />
+  <modified>2006-05-18T13:23:04Z</modified>
+  <tagline>Find out information on projects relating to Community Beutification.</tagline>
+  <id>tag:cityreliquary.com,2009:/communitybeautification/8</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2006, abee</copyright>
+  <entry>
+    <title>Our Community Beautification Work</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communitybeautification/archives/000295.html" />
+    <modified>2006-05-18T13:23:04Z</modified>
+    <issued>2006-05-18T14:23:04+00:00</issued>
+    <id>tag:cityreliquary.com,2006:/communitybeautification/8.295</id>
+    <created>2006-05-18T13:23:04Z</created>
+    <summary type="text/plain"></summary>
+    <author>
+      <name>abee</name>
+      
+      <email>amanda@velociraptor.info</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/communitybeautification/">
+      <![CDATA[ <img src="http://cityreliquary.org/aboutus/archives/cr_view_aboutus/garden%20street.jpg" alt="Old Reliquary" />
+ ]]>
+      
+    </content>
+  </entry>
+
+</feed>

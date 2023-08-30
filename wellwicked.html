@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<title>City Reliquary</title>
+
+<meta http-equiv="Content-Language" content="en-gb" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<style type="text/css">
+
+body {
+	margin: 0;
+    padding: 0;
+    background: #EEDDBB;
+    font: 12px Helvetica, san-serif;
+}
+
+#content {
+	width: 802px;
+	background-color: #EEDDBB;
+	background: url(pics/frameback.gif);
+	padding: 0;
+	border: 0px double #663300;
+	margin-right:auto;
+	margin-left:auto;
+}
+#bann {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+	#contentcenter {
+		width:441px;
+		padding:20px;
+		margin-left:52px;
+		float:left;
+		background:#eee;
+		}
+	
+	#contentright {
+		width:175px;
+		padding:20px;
+		float:left;
+		background:#ccc;
+		}
+
+#contentheader {
+		background:#fff
+		}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #080;
+}
+
+a:visited {
+	color: #790;
+}
+
+a:active {
+	color: red;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#nav a {
+	font-weight: bold;
+	color: #000000;
+}
+
+#nav a {
+	text-decoration: none;
+}
+
+#nav li li a {
+	display: block;
+	font-weight: normal;
+	padding: 3px;
+}
+
+#nav li li a:hover {
+    background: #EEEEEE;
+    color: #663300;
+}
+
+li {
+	float: left;
+	position: relative;
+	width: 200px;
+	text-align: center;
+	cursor: default;
+	background-color: #EEDDBB;
+}
+
+li#first {
+}
+
+li#last {
+}
+
+li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	font-weight: normal;
+	background-color: #EEDDBB;
+	padding: 0 0 0 0;
+	border-right: solid 1px #7d6340;
+	border-left: solid 1px #7d6340;
+	border-bottom: solid 1px #7d6340;
+}
+
+li>ul {
+	top: auto;
+	left: auto;
+}
+
+li li {
+	display: block;
+	float: none;
+	background-color: transparent;
+	border: 0;
+}
+
+li:hover ul, li.over ul {
+	display: block;
+}
+
+hr {
+	display: none;
+}
+
+p {
+	clear: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+#foot {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+</style>
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+
+//--><!]]></script>
+
+</head>
+
+<body>
+
+<div id="content">
+  <ul id="nav">
+    <li id="first"> 
+      <div><a href=""><img src="pics/butt_news.gif" /></a></div>
+      <ul>
+        <li><a href="#">Coming Soon</a></li>
+        <li><a href="#">Recent Happenings</a></li>
+      </ul>
+    </li>
+    <li> 
+      <div><a href=""><img src="pics/butt_comm.gif" /></a></div>
+      <ul>
+        <li><a href="#">Join Our Mailing List</a></li>
+        <li><a href="#">Send Us A Message Center</a></li>
+        <li><a href="#">Send Us A Package</a></li>
+      </ul>
+    </li>
+    <li id="last"> 
+      <div><a href=""><img src="pics/butt_archives.gif" /></a></div>
+      <ul>
+        <li><a href="#">Image Archives</a></li>
+        <li><a href="#">Video Archives</a></li>
+        <li><a href="#">Sound Archives</a></li>
+      </ul>
+    </li>
+    <li id="last"> 
+      <div><a href=""><img src="pics/butt_press.gif" /></a></div>
+      <ul>
+        <li><a href="#">Printed Articles</a></li>
+        <li><a href="#">Online Articles</a></li>
+        <li><a href="#">Press Releases</a></li>
+      </ul>
+    </li>
+  </ul>
+  
+  <div id="bann"><img src="pics/head_bann.gif" /></div>
+  <div id="contentcenter"> 
+    <h1>Coming Soon</h1>
+
+		<p>3 columns all with static widths, and contained in a parent DIV wihich remains centered in the window. One rather serious limitation of this particular technique is that if any of the three content DIVs contains an image or a really long word that is longer than the width of the DIV, it totally breaks the layout. Each browser breaks it differently.</p>
+		<p><strong>Scroll down for the source.</strong></p>
+		
+    <p class="greek">Enterprise engenderment accelerates initiative platforms, 
+      reducing staffing components, integration of technical accessibility, resulting 
+      in bottom line pluralisms, benefit-wise. Incidental re-sizing staff requirements 
+      through attrition can be accelerated by paridigm shifts and focusing on 
+      core suitability and cross-training. </p>
+    <p class="greek">&nbsp;</p>
+    <p class="greek">&nbsp;</p>
+    <p class="greek">&nbsp;</p>
+	</div>
+
+	<div id="contentright">
+		
+    <h1>Nav</h1>
+			<p>
+	This page is part of <a href="home.asp">CSS Layout Techniques</a>, a resource for web developers and designers.
+	</p>
+	<p>
+	Other Layout Techniques:<br/>
+		<a href="7.asp">3 columns, the holy grail</a><br/>
+	<a href="9.asp">2 columns, ALA style</a><br/>
+	<a href="8.asp">4 columns, all fluid</a><br/>
+	<a href="2.asp">3 columns, all fluid </a><br/>
+	<a href="3.asp">static width and centered</a><br/>
+	<a href="1.asp">nested float</a><br/>
+	</p>
+	<p>
+	Does it <a href="http://validator.w3.org/check?uri=http://glish.com/css/3.asp?noSRC=true">validate</a>?
+	</p>
+	</div>
+	<br clear="all" /><!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
+  <div id="foot"><img src="pics/foot.gif" width="800" height="124" /></div>
+</div>
+  </div>
+</div>
+
+</body>
+
+</html>

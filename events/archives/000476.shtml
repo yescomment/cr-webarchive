@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | Special Events | Bicycle Fetish Day 2008</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.org/events//styles-nav.css" />
+
+<link rel="stylesheet" href="http://cityreliquary.org/events//styles-site.css" type="text/css" />
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+<!-- //nav -->
+  
+<!--#include virtual="../../menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+<div id="bann"><a href="#" class="default"><img src="http://cityreliquary.org/pics/head_back.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+
+<div id="jackie"> 
+<div class="subhead">
+: Bicycle Fetish Day 2008</div>  
+<div id="menu">
+
+
+<a href="http://cityreliquary.org/events/archives/cat_.shtml">EVENT HOME</a>
+
+
+<br>
+</div>
+ <br>
+<div class="blog">
+
+<div id="content"> 
+<img src="The City Reliquary Presents: The 4th Annual Bicycle Fetish Day Saturday, May 10, 2008 12:00noon – 6:00 PM Havemeyer St. between Grand St. & Metropolitan Ave Afterparty 8pm –latepm at the City Reliquary: 370 Metropolitan Avenue. FREE! A Street fair....jpg" alt="Bicycle Fetish Day 2008">
+<br><br>
+</div>
+</div>
+</div>
+<div id="marylin"> 
+
+<div class="blogcap">
+<div class="blogbody">
+<p>The City Reliquary Presents: <strong>The 4th Annual Bicycle Fetish Day<br />
+</strong></p>
+
+<p>Saturday, May 10, 2008 12:00noon – 6:00 PM</p>
+
+<p>Havemeyer St. between Grand St. & Metropolitan Ave</p>
+
+<p>Afterparty 8pm –latepm at the City Reliquary: 370 Metropolitan Avenue.</p>
+
+<p><strong>FREE!</strong></p>
+
+<p><br />
+A Street fair for your bicycle! Show off your ride and revel in the beauty of all types, styles, and genres of specialized, customized, and personalized bicycles. CONTESTS throughout the day: Best in Show, Best Vintage, Best Hand-made, Best Chopper, Best Small Wheel (includes foldable bikes), Wheelies, BMX tricks, Track bike tricks, Heaviest Bike, Ugliest Bike, and more. Games, Rides, Bike Beautification Station, Merch tables and more!</p>
+
+<p>Live performances by the Rude Mechanical Orchestra, NYC’s finest street-art-protest-radical-marching-band-and-dance-troupe! DJs Stacher and Dirtyfinger from Black Label Bicycle Club laying down the tracks and inducing a dance riot! Burgers & dogs, both carnivorous & herbivorous for sale!  Cheap beer to be enjoyed in the beautiful City Reliquary backyard / veranda! Peruse arts and crafts at local organizational tables. Come and enjoy the springtime and bring yer bike!</p>
+
+<p>Free Afterparty to be held at the City Reliquary, 370 Metropolitan Avenue at Havemeyer, 8-late. Tunes provided by DJs Stacher and DirtyFinger.</p>
+
+<p>Contact:<br />
+The City Reliquary Museum,<br />
+messages@cityreliquary.org<br />
+www.cityreliquary.org,<br />
+718. R.U.CIVIC (718.782.4842)<br />
+Getting there:<br />
+Ride Yer Bike! or<br />
+L train to Lorimer St.; G train to Metropolitan Ave.; J, M, Z train to Marcy Ave.<br />
+</p>
+</MTEntryBody>
+</div>
+</div>
+
+
+  <div id="menu2">
+
+<a href="http://cityreliquary.org/events/archives/cat_.shtml">HOME</a>
+
+</div>
+</div>
+
+
+<div id="foot"><a href="#" class="default"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></a></div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/wcrm"><img src="http://cityreliquary.org/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/communitybeutification"><img src="http://cityreliquary.org/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/civicriders/archives/cat_events.html"><img src="http://cityreliquary.org/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/collections"><img src="http://cityreliquary.org/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+
+</div>
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+</div>
+</body>
+</html>

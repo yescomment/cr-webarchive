@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>About Us</title>
+<link>http://cityreliquary.com/aboutus/</link>
+<description>Learn more about the City Reliquary; our history and our goals.</description>
+<dc:language>en-us</dc:language>
+<dc:creator>cityreliquary@dhlabsnyc.com</dc:creator>
+<dc:date>2007-07-03T22:52:24+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>2007-2008 Board of Directors</title>
+<link>http://cityreliquary.com/aboutus/archives/000439.shtml</link>
+<description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</description>
+<guid isPermaLink="false">439@http://cityreliquary.com/aboutus/</guid>
+<dc:subject>Board Members</dc:subject>
+<dc:date>2007-07-03T22:52:24+00:00</dc:date>
+</item>
+<item>
+<title>Visit the Museum</title>
+<link>http://cityreliquary.com/aboutus/archives/000409.shtml</link>
+<description>
+A Sidewalk View of The Reliquary</description>
+<guid isPermaLink="false">409@http://cityreliquary.com/aboutus/</guid>
+<dc:subject>Visit</dc:subject>
+<dc:date>2006-11-01T00:59:58+00:00</dc:date>
+</item>
+<item>
+<title>The City Reliquary</title>
+<link>http://cityreliquary.com/aboutus/archives/000062.shtml</link>
+<description>click to enlarge
+
+
+Our original location on the corner of Havemeyer &amp; Grand Sts. in beautiful Williamsburgh, Brooklyn N.Y.C.</description>
+<guid isPermaLink="false">62@http://cityreliquary.com/aboutus/</guid>
+<dc:subject>Overview</dc:subject>
+<dc:date>2005-04-10T00:03:25+00:00</dc:date>
+</item>
+<item>
+<title>A Brief Synopsis of the City Reliquary&apos;s Original Location</title>
+<link>http://cityreliquary.com/aboutus/archives/000061.shtml</link>
+<description>
+
+VP of Operations George Ferrandi with her Pez Collection.
+ Write her a letter to george@cityreliquary.com</description>
+<guid isPermaLink="false">61@http://cityreliquary.com/aboutus/</guid>
+<dc:subject>Overview</dc:subject>
+<dc:date>2005-04-09T23:24:18+00:00</dc:date>
+</item>
+<item>
+<title>2005-2006 Board of Directors</title>
+<link>http://cityreliquary.com/aboutus/archives/000132.shtml</link>
+<description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</description>
+<guid isPermaLink="false">132@http://cityreliquary.com/aboutus/</guid>
+<dc:subject>Board Members</dc:subject>
+<dc:date>2004-06-07T01:31:54+00:00</dc:date>
+</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Front Page</title>
+  <link rel="alternate" type="text/html" href="http://cityreliquary.com/" />
+  <modified>2009-05-11T03:17:54Z</modified>
+  <tagline></tagline>
+  <id>tag:cityreliquary.com,2009://12</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2009, dave</copyright>
+  <entry>
+    <title>The Candela Structures: A New York City History Mystery</title>
+    <link rel="alternate" type="text/html" href="http://cityreliquary.com/frontpage/archives/000499.html" />
+    <modified>2009-05-11T03:17:54Z</modified>
+    <issued>2009-05-11T04:17:54+00:00</issued>
+    <id>tag:cityreliquary.com,2009://12.499</id>
+    <created>2009-05-11T03:17:54Z</created>
+    <summary type="text/plain"> The Candela Structures: A New York City History Mystery Opening Saturday, May 16th, 2009 • On view through June...</summary>
+    <author>
+      <name>dave</name>
+      
+      <email>cityreliquary@dhlabsnyc.com</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/">
+      <![CDATA[<p><br /><a href="http://candelastructures.org/info.html" target="_blank"><img alt="postcard.jpg.jpeg" src="http://cityreliquary.com/frontpage/archives/postcard.jpg.jpeg" width="450" height="629" border="0" /></a><br /><br />
+<b>The Candela Structures: A New York City History Mystery</b><br /><br />
+Opening Saturday, May 16th, 2009 • On view through June 28th</p>]]>
+      
+    </content>
+  </entry>
+
+</feed>

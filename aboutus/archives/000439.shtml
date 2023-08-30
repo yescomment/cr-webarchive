@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+<title>The City Reliquary | About Us | 2007-2008 Board of Directors</title>
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/aboutus//styles-nav.css" />
+
+<link rel="start" href="http://cityreliquary.com/aboutus/" title="Home" />
+<link rel="prev" href="http://cityreliquary.com/aboutus/archives/000409.shtml" title="Visit the Museum" />
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'cityreliquary.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+
+
+
+
+</head>
+
+<body>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+
+<div id="danzig">
+
+<!-- //nav -->
+
+  <ul id="nav">
+    <li id="first"> 
+      <div><a href="http://cityreliquary.org/news"><img src="http://cityreliquary.org/pics/sub_news.gif" /></a></div>
+      <ul>
+        <li><a href="#">Calender</a></li>
+        <li><a href="http://cityreliquary.org/news/archives/cat_press_coverage.html">Press Coverage</a></li>
+        <li><a href="#">Press Releases</a></li>
+      </ul>
+    </li>
+    <li> 
+      <div><a href="http://cityreliquary.org/events"><img src="http://cityreliquary.org/pics/sub_special.gif" /></a></div>
+      <ul>
+        <li><a href="http://cityreliquary.org/events/archives/cat_we_heart_marty.html">Marty Day</a></li>
+        <li><a href="http://cityreliquary.org/events/archives/cat_collectors_night.html">Collectors Night</a></li>
+        <li><a href="#">Bike Fetish</a></li>
+      </ul>
+    </li>
+    <li> 
+      <div><a href="http://cityreliquary.org/aboutus"><img src="http://cityreliquary.org/pics/sub_about.gif" /></a></div>
+    </li>
+    <li> 
+      <div><a href="http://cityreliquary.org/communications"><img src="http://cityreliquary.org/pics/sub_commun.gif" /></a></div>
+        <ul>
+       <li><a href="http://cityreliquary.org/communications/archives/000056.html#more">Join Our Mailing List</a></li>
+        <li><a href="http://cityreliquary.org/communications/archives/000055.html#more">Send Us A Message</a></li>
+        <li><a href="#">Send Us A Package</a></li>
+      </ul>
+  </li>
+  <li>
+      <div><a href="http://cityreliquary.org/friends"><img src="http://cityreliquary.org/pics/sub_friends.gif" /></a></div>
+    </li>
+  </ul>
+<!-- //content -->
+<div id="bann"><img src="http://cityreliquary.org/pics/head_bann.gif" /></div>
+<div id="bobby"> 
+<div class="content">
+
+
+<h2>
+Board Members |   <a href="http://cityreliquary.com/aboutus/archives/000409.shtml">PREVIOUS</a> | 
+  
+  <a href="http://cityreliquary.com/aboutus/">HOME</a>
+   | </h2> 
+
+
+<div class="blogbody">
+
+<h3 class="title">2007-2008 Board of Directors</h3>
+
+<br>
+
+<strong>Dave Herman</strong> - "President, Founder of the Museum"  <br>
+
+"I feel that our great city has so many gifts to offer.  It is not only our duty to seek out these gifts for ourselves, but also to offer something in return.  I hope this civic organization can serve as an everlasting gift to the citizens of New York."
+Background; fine arts, experienced museum preparator, NYC tourguide, currently FDNY firefighter with Hook & Ladder Co. 104 South 2nd St. & Bedford Avenue, protecting "The Southside" in Williamsburgh, Brooklyn
+<br><em>dave@cityreliquary.org</em>
+<br><br>
+<strong>George Ferrandi</strong> -  
+"Vice President of Operations Emeritas"<br>
+George is an artist whose work is evidence of her broad talents and knowledge of diverse media.  Her installations and drawings tenderly depict a cast of existential comic heroes.  She was the founder of the Cloud Seeding Circus, a touring collaborative arts group.  She has also applied her knowledge of materials to her own business, "Saints Alive" a statue restoration studio.  George has been at the backbone of the City Reliquary since its inception in 2002.  Her experience as a professor at the University of Florida taught her the ins and outs of academic bureaucracy which she is now putting to even better use at the Reliquary.  To see images of her artwork, go to <a href="http://georgeferrandi.com">georgeferrandi.com. </a> To learn more about her restoration work, go to <a href="http://www.brooklynsaints.info">www.brooklynsaints.info</a> <br><em>george@cityreliquary.org</em><br><br>
+<strong>Bill Scanga</strong> - "Vice President of Collections"<br>
+Bill's collection of E.T. figurines and vintage glassware set a standard in the Community Collections window that has yet to be exceeded.  Bill is a master miniature craftsman, runs a woodshop in Williamsburgh, and is a practicing artist who was featured at the Brooklyn Museum's Grand Re-Opening exhibition in 2005.  His skills also include knitting for taxidermy animals and trees, and restoring vintage bicycles.  Bill is the standing president of the Brooklyn Civic Riders Bicycle Club.  Stop by the Community Collections window anytime to see some of his handiwork.  <br><em>bill@cityreliquary.org</em>
+ <br><br>
+<strong>Nik Sokol</strong> - "Resident Geologist"<br>
+Nik became a friend of the CR after discovering the "New Yorkers' Geology" display.  His first introduction included the donation of several astounding geological specimens.  As a geologist, Nik has worked on the design and excavation for several monumental civil works essential to every New Yorker's daily life.  Additionally, he has proven indispensable in the organization of CR events.  He also has a mysterious history in bronze casting, indie-rock bands, and Slovakian diplomacy. 
+ <br><em>geologist@cityreliquary.org</em><br><br>
+<strong>
+Leah Dilworth</strong> - 
+"Resident Academic"<br>
+Leah is the Chair of the English Department at Long Island University in Brooklyn.  She teaches Anthropology classes which focus on collecting.  She is a published editor whose recent work includes, "Acts of Possession - Collecting in America."  Leah was featured as the moderator of the panel discussion at "Collectors' Night."  Leah is also an active member of the Transportation Alternatives board of directors.  You can read Leah’s article about the Reliquary at the on-line journal, <a href="http://www.glowlab.com/lab2/issue.php?project_id=95&issue_name=4">www.glowlab.com</a>
+<br>
+<br><br>
+<strong>
+Noah Budnick</strong> - 
+"Civic Organizer"<br>
+Noah is a key note speaker for the civic organization "Transportation Alternatives," and serves as their full time Projects Manager.  TA organizes the annual May "Bike Month," the biggest cycling event in the city.  Noah is one of the city’s foremost advocates for cycling.  His most recent achievement has been the removal of the dreaded "bumps" on the Williamsburgh Bridge's pedestrian and bicycle path. 
+<br><br><strong>
+LuLu LoLo </strong> - "Director of Performance"<br>
+LuLu LoLo—actor/playwright/multidisciplinary artist/life long New Yorker—born, raised, and living (on the street named in honor of her father, a beloved community leader) in East Harlem/El Barrio amidst piles of newspapers, obsessive archives, and myriad collections. LuLu has written and performed five acclaimed one-person plays Off-Broadway that deal with the dramatic struggle of women in New York City’s past: the Triangle Shirtwaist Factory Fire, the lesbian lover of murder victim Kitty Genovese, the murder of Helen Jewett, a woman who fought in the Civil War, Mother Cabrini, and her Italian immigrant grandmothers. At the Reliquary LuLu portrayed the story of the Collyer Brothers and collaborated on the Little Egypt installation.  LuLu sees the City Reliquary as a cherished haven preserving New York City’s past as well as celebrating its present and its future which will be highlighted by performances. www.lululolo.com (under construction)<br>
+<br><strong>
+Joy Drury Cox </strong>– "Director Of Affairs" <br>
+New to New York and the Reliquary, Joy is attempting to be Williamsburg's newest Renaissance woman.  Besides balancing the books and juggling affairs at the City Reliquary, most mornings she'll make you a latte at The Verb Cafe on Bedford.  If you are interested in donating New York themed books to the City Reliquary Library or have ideas for our gift shop, please email her.  Joy is also a visual artist to see examples of her work go to, <a href="http://www.joydrurycox.com">www.joydrurycox.com</a>    
+<br><em>joy@cityreliquary.org</em><br>
+<br><br>
+<strong>
+Jason Lombardi </strong>- "Ambassador"<br>
+Jay showed up at the City Reliquary Museum the summer of 2006 and was greeted with a large plate of pasta e fagioli AKA pasta fazoo. Fascinated with this gem of community activism he is always looking for other organisms to join him in its warm bosom. On a sunny weekend you can find him in the CR backyard building rock walls & wooden benches, planting hostas, pumping air into the often-flat tires of his bike and/or chatting off the ear of an unsuspecting 
+stranger. Outside 370 Metropolitan Ave, you may hear him in his beloved neighborhood of Greenpoint whacking a drum set for <a href="http://www.myspace.com/jolielaideband">Jolie Laide</a> or making some sort of art.
+ <br><br><br><strong>
+Matt Levy</strong> -  "Events Coordinator" <br>
+Matt Levy is a born and bred Brooklynite (thump fist to chest twice, raise and REPRESENT!) who is so proud of his home that he makes a living telling people all about it. Along with his father, he runs a business called The Levys' Unique New York! (www.levysuniqueny.com) and they are NY's first full family of licensed tour guides. This means he gets to spend all day long talking about things that he loves to people who want to listen. When he's not guiding tourists around town, he works at the City Reliquary as the Events Coordinator, producing interactive trivia games, entertaining talent nights, Social City @ the Reliquary soirees, and anything that will generate some direly needed income.
+<br><a href="http://www.vintagenytours.com/">Levys' Unique New York</a><br><br>
+<strong>Kyle Supley</strong> - "Ambassador"<br>
+Kyle is a new member of the City Reliquary, and a native New Yorker (via Schenectady) and now a Williamsburg native.. Kyle comes from a lineage of history buffs and now a collector specializing in Mid Century and art deco furnishings. Collecting since the age of 8, Kyle's collection spans many varied items from Toasters and Platform shoes to Clocks, vintage disco shirts, and World's Fair memorabilia. Kyle's other talents include comedy and singing, prop styling and photography. He works in television and assists with documentation and creating various City Reliquary Events. More about Kyle can be found at <a href="http://www.KyleSupley.com/">www.KyleSupley.com</a>
+<br><br>
+<strong>Hi'ilei Dye</strong> - "Coordinator"<br>
+
+Hi'ilei is also new to the City Reliquary--and New York.  She serves on the Events Committee and acts as Volunteer Coordinator.  When she is not at the CR, she is earning her Master's degree at the Bard Graduate Center in Studies in the Decorative Arts, Design, and Culture.  Other special Reliquary projects include ongoing work on a book of the Reliquary's fantastic Statue of Liberty post card collection (the largest in the world!). 
+<br><em>hiilei@cityreliquary.org</em><br><br>
+
+<a name="more"></a>
+
+
+
+<br /></span>
+</div>
+</div>
+</div>
+<br class="clear" />
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></div>
+</div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/wcrm"><img src="http://cityreliquary.org/pics/sub_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/boardmembers"><img src="http://cityreliquary.org/pics/sub_board.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/civicriders"><img src="http://cityreliquary.org/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/collections"><img src="http://cityreliquary.org/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+<div id="foot2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+
+
+</div>
+
+</body>
+</html>

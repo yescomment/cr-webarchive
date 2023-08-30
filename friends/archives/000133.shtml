@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+<title>The City Reliquary | Friends | Links from the Neighborhood</title>
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/friends//styles-nav.css" />
+
+<link rel="start" href="http://cityreliquary.com/friends/" title="Home" />
+<link rel="prev" href="http://cityreliquary.com/friends/archives/000408.shtml" title="Thanks for Your Membership" />
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'cityreliquary.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+
+
+
+
+</head>
+
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../../menu_top_nav.ssi" -->
+<!-- //content -->
+<div id="bann"><img src="http://cityreliquary.org/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+<div id="bobby"> 
+
+<div class="subhead">
+
+</div>
+
+<div id="menu">
+
+
+<a href="http://www.cityreliquary.org" style="text-transform: uppercase";> HOME</a>
+
+
+<br>
+</div>
+
+<br><br>
+
+<div id="jonny">
+
+<div class="accent"><img src="http://cityreliquary.org/pics/corner1.gif"></div><div class="subhead2">Links from the Neighborhood</div>
+<div class="blogentry">
+<div class="blogbody">
+
+Here is a list of some our members' outside projects and some of our frineds from the neighborhood.  We're still under construction here at the virtual Reliquary.  So, please drop us a line if you'd like your link included.<br><br>
+
+
+
+The Lower East Side Tenement Museum<br>http://www.tenement.org/ <br><br>
+The Museum of Jurassic Technology<br>http://www.mjt.org/<br><br>
+Booklyn<br>http://www.booklyn.org/<br><br>
+The Brooklyn Arts Council<br>http://www.brooklynartscouncil.org/<br><br>
+Materials for the Arts<br>http://mfta.org/<br><br>
+The New York Public Library<br>http://www.nypl.org/<br><br>
+Cinders Art Gallery<br>http://www.cindersgallery.com
+<br><br>
+The Desk Set<br>http://www.myspace.com/thedeskset<br><br>
+
+
+
+
+
+
+
+First of all, the City Reliquary web designer, Jesse James Arnold, is certainly not earning his income from this non-profit organization.  He has however started a successful furniture design company with two other friends of ours, Sam Kragiel and Nikki Frazier.  They are proud members of the Brooklyn Chamber of Commerce. <br> http://www.bravespacedesign.com<br>
+You can also see more examples of Jesse's virtual web work at http://www.mistermachine.com<br><br>
+
+V.P. George Ferrandi is also a gifted statue restoration artist.  Check out her site for the best saint salvation in the North Eastern region.  Really.
+http://www.brooklynsaints.info<br> And you can see samples of her work as a fine artist at  http://www.georgeferrandi.com <br><br>
+
+
+
+
+
+
+<a name="more"></a>
+
+
+
+<br /></span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></div>
+
+<!-- //nav -->
+ 
+<!--#include virtual="../../menu_bott_nav.ssi" -->
+
+</div>
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/wcrm">
+      <img src="http://cityreliquary.org/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/communitybeautification">
+      <img src="http://cityreliquary.org/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.org/civicriders/archives/cat_events.shtml">
+      <img src="http://cityreliquary.org/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+     
+      <div><a href="http://cityreliquary.org/collections">
+      <img src="http://cityreliquary.org/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>

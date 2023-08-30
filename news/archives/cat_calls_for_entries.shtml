@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | News | Calls for Entries</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../../menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+<div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+
+<div id="bobby"> 
+<div class="subhead">
+Calls for Entries
+</div><br><br>
+
+
+<div id="jonny">
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">NYC related art and souvenirs</div>
+
+<div class="blogentry">
+<a name="000391"></a>
+
+<div class="blogbody">
+<p>The City Reliquary is looking for New York-related artwork or souvenirs designed by New York artists to sell in our gift shop.  If you know of any work that might be appropriate, please drop us a line: store@cityreliquary.org</p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">NYC related art and souvenirs</div>
+
+<div class="blogentry">
+<a name="000391"></a>
+
+<div class="blogbody">
+<p>The City Reliquary is looking for New York-related artwork or souvenirs designed by New York artists to sell in our gift shop.  If you know of any work that might be appropriate, please drop us a line: store@cityreliquary.org</p>	
+
+</div>
+</div>
+
+<br><br>
+<div class="accent"><img src="http://cityreliquary.com/pics/corner1.gif"></div><div class="subhead2">Call for Entries - The Annual Tribute to Our City Window Display - Deadline 8/31/6</div>
+
+<div class="blogentry">
+<a name="000352"></a>
+
+<div class="blogbody">
+<p>Each year, the City Reliquary presents a special collection gathered from <em>the people</em> to corespond with the <a href="http://cityreliquary.org/events/archives/cat_tribute_to_the_city.shtml">"September Tribute to Our City"</a> event.  This is a <a href="http://cityreliquary.org/collections/archives/cat_september_2004_tribute_to_our_city.shtml">collection of objects</a> that represents the memories of  New York by the people who love to call it home.  This year we are calling on you to submit an object on loan to the NEW & Imroved <a href="http://www.cityreliquary.org/collections/">Community Collections</a> windows during the month of September.  </p>
+
+<p>This year's theme will be:<br />
+<strong>"Remembering New York"</strong><br />
+We would like to ask all of the collectors in New York (and that IS everyone) to look over the objects they hold dear to themselves as reminders of the New York they know and love.  September has become a special time of reflection in New York and we would like to share some of the ways we remember this city.  </p>
+
+<p>Requirements:<br />
+<strong>SIZE:</strong>  Please keep your object(s) within the limits of a 2 foot square.  If you have questions about an object larger than this, please call the museum at 718. 599.0134 (after 8/2/6).  We may be able to accomodate larger pieces on loan in the museum.</p>
+
+<p><strong>RELEVANCE:</strong>  The object can be anything you wish and as obscure, mundane or obviuos as you see fit.  The only requirement is that it is something that reminds you of New York City and why you are proud to call it home.  You can see some <a href="http://cityreliquary.org/collections/archives/cat_september_2004_tribute_to_our_city.shtml">examples</a> on our website. </p>
+
+<p><strong>SUBMIT:</strong>  Bring your objects to the City Reliquary Museum, 370 Metropolitan Av. at Havemeyer St. by THRUSDAY, AUGUST 31st.  Museum hours are Thursday & Friday 6pm-9pm and Weekends 12-8pm.  Or call, 718.599.0134 (after 8/2/6) for special delivery or pick-up options.  Your object will be on display through mid-October.  You will be asked to provide contact information when you drop off the object so that we can contact you for pick-up when the show ends in October.  </p>
+
+<p><strong>SPREAD THE WORD:</strong>  Please invite all of your friends to submit object with you.  Group packages are welcome.  We are looking to display a very diverse collection.  </p>	
+
+</div>
+</div>
+
+<br><br>
+
+</div>
+</div>
+
+
+
+
+
+<!-- //foot -->
+
+<div id="foot"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></div>
+<ul id="nav">
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/wcrm"><img src="http://cityreliquary.com/pics/nav_radio.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/communitybeutification"><img src="http://cityreliquary.com/pics/nav_beut.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/civicriders/archives/cat_events.html"><img src="http://cityreliquary.com/pics/sub_riders.gif" /></a></div>
+    </li>
+    <li id="sub"> 
+      <div><a href="http://cityreliquary.com/collections"><img src="http://cityreliquary.com/pics/sub_collect.gif" /></a></div>
+  </li>
+  </ul>
+
+</div>
+
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</div>
+</body>
+</html>

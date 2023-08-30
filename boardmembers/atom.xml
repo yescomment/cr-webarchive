@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Board Members</title>
+  <link rel="alternate" type="text/html" href="http://cityreliquary.org/boardmembers/" />
+  <modified></modified>
+  <tagline>Find out information on each member of the City Reliquary Board, including outside projects and affiliations.</tagline>
+  <id>tag:cityreliquary.org,2005:/boardmembers/8</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright></copyright>
+
+</feed>

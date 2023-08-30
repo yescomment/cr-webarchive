@@ -1,0 +1,45 @@
+{HEADER}
+<div id="anyfont-page-options">
+	<div class="add-new"><input class="button-secondary" type="button" value="Create New Style" onclick="AnyFont.toggleNew('anyfont-style-new');" /></div>
+	<div class="delete-selected"><input class="button-secondary" type="button" value="Delete Selected Styles" onclick="AnyFont.deleteStyle(false);" /></div>
+</div>
+<div id="anyfont-upload-messages" class="updated"  style="display:none" ></div>
+<div id="anyfont-style-new"  class="anyfont-options-block" >
+	<form id="anyfont-style-new-form" class="anyfont_style_settings anyfont-settings-block">
+		<h2>Create New Style</h2>
+		<div class="anyfont-settings-content">
+			<input type="hidden" name="new-style" id="new-style" value="true" />
+			<label for="update_style">name</label><input type="text" name="update_style" id="update_style" value="" /><br /><br />
+			{NEW_STYLE_FORM}
+		</div>
+	</form>
+</div>
+<div id="anyfont-list">
+	<ul class="list-header">
+		<li class="checkbox"><input type="checkbox" name="selectall_checkbox" onclick="AnyFont.selectAll('anyfont-list', this);" /></li>
+		<li class="name">Name</li>
+		<li class="preview">Preview</li>
+		<li class="actions">Actions</li>
+	</ul>
+	<ul class="style-list">
+		{STYLES}
+	</ul>
+	<ul class="list-footer">
+		<ul class="list-header">
+		<li class="checkbox"></li>
+		<li class="name">Name</li>
+		<li class="preview">Preview</li>
+		<li class="actions">Actions</li>
+	</ul>
+</div>
+{FOOTER}
+<div id="colorWidget" onmousedown="HSVslide('drag','colorWidget',event)" style="top: 267px; left: 753px; z-index: 20; display: none;">
+				<div id="closebtn" onmousedown="Effect.Fade('colorWidget')">close</div><br>
+				<div id="SV" onmousedown="HSVslide('SVslide','colorWidget',event)" title="Saturation + Value">
+				<div id="SVslide" style="top: -4px; left: -4px;"><br /></div>
+				</div>
+				<div id="H" onmousedown="HSVslide('Hslide','colorWidget',event)" title="Hue">
+				<div id="Hslide" style="top: -1px; left: -8px;"><br /></div>
+				<div id="Hmodel"></div>
+				</div>
+				</div>

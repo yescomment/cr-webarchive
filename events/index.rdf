@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://cityreliquary.com/events/">
+<title>Special Events</title>
+<link>http://cityreliquary.com/events/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2008-01-29T00:05:07+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://cityreliquary.com/events/archives/000471.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000461.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000460.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000459.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000457.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000456.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000455.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000454.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000453.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000452.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000446.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000445.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000444.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000443.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/events/archives/000438.shtml" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://cityreliquary.com/events/archives/000471.shtml">
+<title>76 Kisses Opening Reception</title>
+<link>http://cityreliquary.com/events/archives/000471.shtml</link>
+<description>Join us on Friday, February 8, from 7 to 9 pm. Carefully selected from Lori Baker and David E. Brown&apos;s collection of vintage photographs, these snapshots present an intimate and compelling look at the kiss. Just in time for Valentine’s...</description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-01-29T00:05:07+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000461.shtml">
+<title>Tribute to Our City 2007</title>
+<link>http://cityreliquary.com/events/archives/000461.shtml</link>
+<description>Saturday September 8th, 2007 12-6PM The fourth annual Tribue to Our City will be held on Havemeyer Street between Grand &amp; Hope Sts. A neighborhood pot-luck picnic in the streets complete with live music, games, entertainment, free food and good...</description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-09-01T20:14:42+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000460.shtml">
+<title>10</title>
+<link>http://cityreliquary.com/events/archives/000460.shtml</link>
+<description>http://cityreliquary.com/events/archives/bikefetish07/bf02</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:45:56+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000459.shtml">
+<title>11</title>
+<link>http://cityreliquary.com/events/archives/000459.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize6</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:44:21+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000457.shtml">
+<title>09</title>
+<link>http://cityreliquary.com/events/archives/000457.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize8</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:40:11+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000456.shtml">
+<title>08</title>
+<link>http://cityreliquary.com/events/archives/000456.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize1</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:38:27+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000455.shtml">
+<title>07</title>
+<link>http://cityreliquary.com/events/archives/000455.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize5</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:37:08+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000454.shtml">
+<title>06</title>
+<link>http://cityreliquary.com/events/archives/000454.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize4</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:35:56+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000453.shtml">
+<title>05</title>
+<link>http://cityreliquary.com/events/archives/000453.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize3</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:33:35+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000452.shtml">
+<title>04</title>
+<link>http://cityreliquary.com/events/archives/000452.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize2</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:32:07+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000446.shtml">
+<title>03</title>
+<link>http://cityreliquary.com/events/archives/000446.shtml</link>
+<description>http://cityreliquary.org/events/archives/bikefetish07/prize9</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-16T02:09:42+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000445.shtml">
+<title>02</title>
+<link>http://cityreliquary.com/events/archives/000445.shtml</link>
+<description>http://cityreliquary.org/events/archives/nikburgerflip</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-12T22:01:24+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000444.shtml">
+<title>05</title>
+<link>http://cityreliquary.com/events/archives/000444.shtml</link>
+<description>http://cityreliquary.com/events/archives/panorama/Contestants8</description>
+<dc:subject>Panorama Challenge</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-12T21:53:20+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000443.shtml">
+<title>01</title>
+<link>http://cityreliquary.com/events/archives/000443.shtml</link>
+<description>http://cityreliquary.org/events/archives/bc_wheel1</description>
+<dc:subject>Bicycle Fetish Day 2007</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-12T21:38:29+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/events/archives/000438.shtml">
+<title>04</title>
+<link>http://cityreliquary.com/events/archives/000438.shtml</link>
+<description>http://cityreliquary.org/events/archives/crowd3</description>
+<dc:subject>Panorama Challenge</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2007-07-03T22:42:16+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>

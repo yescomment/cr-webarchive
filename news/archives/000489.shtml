@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+<title>The City Reliquary | News | 2/27 BROTHER CAN YOU SPARE SOME RENT?</title>
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+
+<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
+<link rel="prev" href="http://cityreliquary.com/news/archives/000486.shtml" title="7/31 First Ever Summer Benefit Party" />
+
+<link rel="next" href="http://cityreliquary.com/news/archives/000491.shtml" title="Over Spilt Milk Ending on May 10th" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'cityreliquary.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+
+
+
+
+</head>
+
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../../menu_top_nav.ssi" -->
+<!-- //content -->
+<div id="bann"><img src="http://cityreliquary.org/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+<div id="bobby"> 
+
+<div class="subhead">
+Calendar
+</div>
+
+<div id="menu">
+
+ <a href="http://cityreliquary.com/news/archives/000491.shtml">PREVIOUS</a> |
+
+<a href="http://cityreliquary.com/news/archives/cat_calendar.shtml" style="text-transform: uppercase";>Calendar HOME</a>
+| <a href="http://cityreliquary.com/news/archives/000486.shtml">NEXT</a> 
+
+
+<br>
+</div>
+
+<br><br>
+
+<div id="jonny">
+
+<div class="accent"><img src="http://cityreliquary.org/pics/corner1.gif"></div><div class="subhead2">2/27 BROTHER CAN YOU SPARE SOME RENT?</div>
+<div class="blogentry">
+<div class="blogbody">
+
+<p>Modern Day Depression-Era Fundraiser!<br />
+Friday February 27th 7-11pm<br><br>Times are tough all around – rollercoaster stock markets, job losses by the hundreds of thousands, bipartisan bickering with no relief in sight. It’s even tougher for 501 (c) (3) non-profit Community Museums. So the City Reliquary is hosting a fundraiser to raise some of (last month’s!) rent. BROTHER CAN YOU SPARE SOME RENT? is a Modern Day Depression-Era Fundraiser held in our backroom and backyard. For a minimum $10 tax-deductible donation at the door, you can come and participate in scores of historical diversions and entertainments circa 1935.<br><br>The City Reliquary is proud to present:<br><br><strong>Pie the Landlord! That’s right</strong>: the City Reliquary will have our very own cigar-chomping, unshaven, smelly Landlord demanding our rent! Tell him where to shove it with a whipped cream pie in his face!<br /><br /><strong>Madame LuLu LoLo, Fortune Teller Extraordinaire</strong>: She Sees All and Knows All and Your Fortune Might Help Pay Our Rent!<br /><br /><strong>Hobo Photos a Go-G</strong>o: Take your picture in our hand painted carnival sign.  Remember the Recession of ’09 with a photographic keepsake!<br /><br /><strong>Depression-era movies</strong>: shown on the projector in the backyard. Laugh it up with Mae West, the Marx Brothers and James Cagney.<br /><br /><strong>Oil drum fires</strong>: (and more modern propane heaters) to keep you warm while you chill in the cold. All fires will be regulated carefully by official FDNY supervision! <br /><br /><strong>DIY Fingerless Gloves Table!</strong> Because nothing says Depression-chic than rockin’ a pair of fingerless gloves!<br /><br /><strong>Prohibition-era Beer</strong> provided by the Brooklyn Brewery and Depression-era “Rum” Punch provided by the City Reliquary at contemporary-recession era prices.<br /><br /><strong>DJ Stacher</strong> playing hits from the economically challenged 1930s (Harlem Jazz) and 1970s (early Rap); as well as Big Money tracks from the 1980s (disco) and 2000s (electro). Get down!<br /><br /><p>All entertainments and diversions will be priced at the Depression-friendly rates of $2-5 a pop. All proceeds go to help the City Reliquary pay (last month’s, and this one’s) rent. </p><br /><br /></p>
+
+<a name="more"></a>
+
+
+
+<br /></span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></div>
+
+<!-- //nav -->
+ 
+<!--#include virtual="../../menu_bott_nav.ssi" -->
+
+</div>
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>

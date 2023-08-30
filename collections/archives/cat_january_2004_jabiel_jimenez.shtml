@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>The City Reliquary | Community Collections | January 2004 - Jabiel Jimenez</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.org/collections//styles-nav.css" />
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+</head>
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+<div id="danzig">
+
+<!-- //nav -->
+ 
+<!--#include virtual="../../menu_top_nav.ssi" -->
+
+<!-- //content -->
+ 
+<div id="bann"><img src="http://cityreliquary.org/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+
+<div id="jackie">
+<div class="subhead">
+Community Collections | January 2004 - Jabiel Jimenez
+</div>
+
+ <div id="teddy">
+<a name="000218"></a>
+<div class="albumthumb"><a href="http://cityreliquary.org/collections/archives/000218.shtml#000218">
+<img src="http://cityreliquary.com/collections/archives/Jabiel/nypdfdny-thumb.jpg" height="62" alt="Jabiel 05"></a></div>
+<a name="000220"></a>
+<div class="albumthumb"><a href="http://cityreliquary.org/collections/archives/000220.shtml#000220">
+<img src="http://cityreliquary.org/collections/archives/Jabiel/chrysler-thumb.jpg" height="62" alt="Jabiel 07"></a></div>
+<a name="000217"></a>
+<div class="albumthumb"><a href="http://cityreliquary.org/collections/archives/000217.shtml#000217">
+<img src="http://cityreliquary.org/collections/archives/Jabiel/window-thumb.jpg" height="62" alt="Jabiel 04"></a></div>
+<a name="000216"></a>
+<div class="albumthumb"><a href="http://cityreliquary.org/collections/archives/000216.shtml#000216">
+<img src="http://cityreliquary.org/collections/archives/Jabiel/label-thumb.jpg" height="62" alt="Jabiel 03"></a></div>
+<a name="000215"></a>
+<div class="albumthumb"><a href="http://cityreliquary.org/collections/archives/000215.shtml#000215">
+<img src="http://cityreliquary.org/collections/archives/Jabiel/plane-thumb.jpg" height="62" alt="Jabiel 02"></a></div>
+<a name="000214"></a>
+<div class="albumthumb"><a href="http://cityreliquary.org/collections/archives/000214.shtml#000214">
+<img src="http://cityreliquary.org/collections/archives/Jabiel/outside-thumb.jpg" height="62" alt="Jabiel 01"></a></div>
+
+</div></div>
+<br><br>
+<div id="marylin"> 
+<div class="blogcap2">
+<div class="blogbody">
+Collection of drawings for a new WTC.
+</div>
+</div>
+</div>
+
+
+<br class="clear" />
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></div>
+<!-- //nav -->
+ 
+<!--#include virtual="../../menu_bott_nav.ssi" -->
+</div>
+
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</div>
+</body>
+</html>

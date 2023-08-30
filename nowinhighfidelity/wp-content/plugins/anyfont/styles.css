@@ -1,0 +1,260 @@
+ul, li{
+	list-style-image:none;
+	list-style-position:inside;
+	list-style-type:none;
+	background:transparent none repeat scroll 0 0;
+	border:0 none;
+	margin:0;
+	outline-color:-moz-use-text-color;
+	outline-style:none;
+	outline-width:0;
+	padding:0;
+}
+
+.icon-settings{
+	background: transparent url(../wp-content/plugins/anyfont/img/icon-settings.png) no-repeat 0 0;
+}
+
+.icon-fonts{
+	background: transparent url(../wp-content/plugins/anyfont/img/icon-fonts.png) no-repeat 0 0;
+}
+.icon-styles{
+	background: transparent url(../wp-content/plugins/anyfont/img/icon-styles.png) no-repeat 0 0;
+}
+
+#anyfont-list{
+	border:1px solid #DfDfDf;
+	-moz-border-radius:5px;
+	-khtml-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	clear:both;
+}
+
+
+#anyfont-list .list-header{
+	background: #DFDFDF url(../wp-admin/images/gray-grad.png) repeat-x scroll left top;
+	list-style:none;
+	height:25px;
+	overflow:hidden;
+}
+
+#anyfont-list .list-header li{
+	background: #DFDFDF url(../wp-admin/images/gray-grad.png) repeat-x scroll left top;
+	float:left;
+	font-weight:bold;
+	padding-top:4px;
+	text-shadow:0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+#anyfont-list .list-footer{
+	clear:both;
+}
+
+#anyfont-list li.checkbox{
+	background-color:transparent;
+	width:5%;
+	padding:2px 5px;
+}
+
+#anyfont-list li.name{
+	width:50%;
+}
+
+#anyfont-list li.font-name{
+	width:75%;
+}
+
+#anyfont-list li.preview{
+	width:25%;
+}
+
+#anyfont-list li.actions{
+	width:15%;
+	text-align:right;
+}
+
+#anyfont-list li.actions img{
+	margin-top:10px;
+	cursor:pointer;
+}
+
+#anyfont-list ul.style-list-item {
+	overflow:hidden;
+	height:60px;
+}
+
+#anyfont-list ul.style-list-item li{
+	float:left;
+	font-weight:bold;
+	margin:10px 0 0;
+	font-size:15px;
+}
+
+.anyfont-style-block, .anyfont-font-block{
+	border-bottom:1px solid #dfdfdf;
+	margin:0;
+	clear:both;
+}
+
+/*.anyfont-style-block:hover{
+	background:transparent url(../wp-content/plugins/anyfont/img/menu_grad.png) repeat-x scroll 0 -1px;
+}*/
+
+.anyfont-style-block.curOpen{
+	background:transparent url(../wp-content/plugins/anyfont/img/menu_grad.png) repeat-x scroll left top;
+}
+
+.anyfont-style-block h3{
+	float:left;
+}
+
+.anyfont-style-preview{
+	float:left;
+}
+
+.anyfont-options-block{
+	float:left;
+	width:100%
+}
+
+.options-block-contents{
+	border:1px solid #FFFFFF;
+	background:#FFFFFF;
+	cursor:default;
+	padding:20px 20px 40px 6%;
+}
+
+.anyfont-options-block label{
+	float:left;
+	width:150px;
+	font-weight:bold;
+	line-height:20px;
+}
+
+.anyfont-options-block input[type="text"] {
+	float:left;
+	border:1px solid #DDDDDD;
+	height:20px;
+	font-size:9px;
+	vertical-align:top;
+}
+.anyfont-options-block input[type="checkbox"] {
+	vertical-align:middle;
+}
+#anyfont_page .anyfont-options-block select{
+	height:22px;
+	width:159px;
+}
+
+.colorpickerControl {
+	border:1px solid gray;
+	background-color:#EEEEEE;
+	padding:3px;
+	width:150px;
+}
+
+.colorpickerControl input {
+	font-size:8pt;
+}
+
+.colorpickerControl table {
+	width:152px;
+}
+
+#anyfont-page-options{
+	padding: 10px 0;
+	height:30px;
+}
+
+#anyfont-page-options .add-new{
+	float:right;
+}
+
+.anyfont-settings-block{
+	background:#FFFFFF none repeat scroll 0 0;
+	border:1px inset #B2B2B2;
+	margin:10px 0;
+	padding:0 10px 10px;
+	float:left;
+	width:98%;
+	-moz-border-radius:10px;
+	-khtml-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-box-shadow: rgba(0,0,0,0.2) 0px -1px 0px;
+	-khtml-box-shadow: rgba(0,0,0,0.2) 0px -1px 0px;
+	-webkit-box-shadow: rgba(0,0,0,0.2) 0px -1px 0px;
+	box-shadow: rgba(0,0,0,0.2) 0px -1px 0px;
+}
+
+.anyfont-settings-block h2{
+	font-size:16px;
+	font-weight:bold;
+	padding:0;
+}
+
+.anyfont-settings-block .anyfont-settings-content{
+	float:left;
+	padding:0 15px;
+	width:98%;
+}
+
+.anyfont-settings-block .anyfont-settings-content input.button-primary{
+	clear:both;
+	float:right;
+}
+
+.anyfont-style-settings{
+	background-color:#F5F5F5;
+	margin:10px 15px;
+	width:95%
+}
+
+#anyfont-upload-desc{
+	font-weight:bold;
+}
+
+.updated{
+	background-image:url(../wp-content/plugins/anyfont/img/info.png) no-repeat 0 0;
+	padding:20px;
+	font-weight:bold;
+	border-width:2px;
+	color:#333;
+}
+
+.button-save{
+	width:60px !important;
+	outline:none;
+}
+#anyfont-settings .anyfont-note{
+	font-weight:lighter;
+	font-size:11px;
+	font-style:italic;
+}
+
+#colorWidget { BACKGROUND: url(../wp-content/plugins/anyfont/img/colpick/colpbg.png) no-repeat; COLOR: #AAA; DISPLAY: block; FONT-FAMILY: arial; FONT-SIZE: 11px; PADDING: 7px 10px 11px 10px; _PADDING-RIGHT: 0; Z-INDEX: 1; TOP: 0; LEFT: 0; POSITION: absolute; WIDTH: 213px; _width: 210px; _padding-right: 0px; height:228px}
+#colorWidget br { CLEAR: both; MARGIN: 0; PADDING: 0;  }
+#colorWidget select { BORDER: 1px solid #333; BACKGROUND: #FFF; POSITION: relative; TOP: 4px; }
+
+#closebtn { FLOAT: right; cursor: pointer; MARGIN: 0 10px 3px; _MARGIN-RIGHT: 10px; COLOR: #FFF; -moz-user-select: none; -khtml-user-select: none; user-select: none; }
+#closebtn:hover{
+color:#FFBB00;
+}
+
+#SV { background: #FF0000 url(../wp-content/plugins/anyfont/img/colpick/SatVal.png); border:1px solid #000; POSITION: relative; CURSOR: crosshair; FLOAT: left; HEIGHT: 166px; WIDTH: 170px; _WIDTH: 165px; MARGIN-RIGHT: 8px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../wp-content/plugins/anyfont/img/colpick/SatVal.png', sizingMethod='scale'); -moz-user-select: none; -khtml-user-select: none; user-select: none; }
+#SVslide { BACKGROUND: url(../wp-content/plugins/anyfont/img/colpick/slide.png); HEIGHT: 21px; WIDTH: 21px; POSITION: absolute; _font-size: 1px; line-height: 1px; }
+
+#H { BORDER: 1px solid #000; CURSOR: crosshair; FLOAT: left; HEIGHT: 166px; POSITION: relative; WIDTH: 19px; PADDING: 0; TOP: 0px; -moz-user-select: none; -khtml-user-select: none; user-select: none; }
+#Hslide { BACKGROUND: url(../wp-content/plugins/anyfont/img/colpick/slideHue.gif); HEIGHT: 5px; WIDTH: 33px; POSITION: absolute; _font-size: 1px; line-height: 1px; }
+#Hmodel { POSITION: relative; TOP: 0px; }
+#Hmodel div { HEIGHT: 1px; WIDTH: 19px; font-size: 1px; line-height: 1px; MARGIN: 0; PADDING: 0; }
+
+.anyfont_checkbox{
+	cursor:pointer;
+	padding:0;
+	height:19px;
+	margin:0 0 15px;
+	margin-top:3px;
+	width:170px;
+}

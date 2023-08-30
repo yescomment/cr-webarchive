@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>WCRM Radio</title>
+<link>http://cityreliquary.com/wcrm/</link>
+<description>Now every first Thursday of the month of FREE 103.</description>
+<dc:language>en-us</dc:language>
+<dc:creator>justmyname@jessejamesarnold.com</dc:creator>
+<dc:date>2006-07-03T04:16:25+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>WCRM Podcast</title>
+<link>http://cityreliquary.com/wcrm/archives/000345.shtml</link>
+<description>Want to take WCRM on the road, or listen as you pass the time on that morning comute via public transportation: Step One Open iTunes (6.0 or later). If you need it, download it here. Step Two In iTunes, go...</description>
+<guid isPermaLink="false">345@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>archive</dc:subject>
+<dc:date>2006-07-03T04:16:25+00:00</dc:date>
+</item>
+<item>
+<title>Select Streaming Archive : March. aka That Masked Man</title>
+<link>http://cityreliquary.com/wcrm/archives/000344.shtml</link>
+<description>If you missed our live broadcast in March, you can listen to it right now. The following stream is intended for those with DSL and Cable connections. --&gt; Don&apos;t Wait for the Scheduled Broadcast on Radio 24/7! This Show is...</description>
+<guid isPermaLink="false">344@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>archive</dc:subject>
+<dc:date>2006-07-03T03:48:21+00:00</dc:date>
+</item>
+<item>
+<title>Select Streaming Archive : December. The Moving Show</title>
+<link>http://cityreliquary.com/wcrm/archives/000343.shtml</link>
+<description>If you missed our live broadcast in December, you can listen to it right now. The following stream is intended for those with DSL and Cable connections. --&gt; Don&apos;t Wait for the Scheduled Broadcast on Radio 24/7! This Show is...</description>
+<guid isPermaLink="false">343@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>archive</dc:subject>
+<dc:date>2006-07-03T02:24:05+00:00</dc:date>
+</item>
+<item>
+<title>Select Streaming Archive: November. The Coffee Show</title>
+<link>http://cityreliquary.com/wcrm/archives/000281.shtml</link>
+<description>If you missed our live broadcast on November 3rd, you can listen to it right now. The following stream is intended for those with DSL and Cable connections. For all modem users, just use the WCRM Radio 24/7 link and...</description>
+<guid isPermaLink="false">281@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>archive</dc:subject>
+<dc:date>2005-11-05T02:00:09+00:00</dc:date>
+</item>
+<item>
+<title>Submit Content</title>
+<link>http://cityreliquary.com/wcrm/archives/000279.shtml</link>
+<description>The Citiznes Radio Music Station proudly opens its arms to you, the listener and community member to submit content for future broadcast. Now Taking Submissions for Our December 1st Show. Submissions Due By November 24th: Moving Day A Show About...</description>
+<guid isPermaLink="false">279@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>submissions</dc:subject>
+<dc:date>2005-10-30T20:33:13+00:00</dc:date>
+</item>
+<item>
+<title>Coffee: November 3. 2005</title>
+<link>http://cityreliquary.com/wcrm/archives/000278.shtml</link>
+<description>The City Reliquary Museum presents: WCRM, The Citizens’ Radio Music Show Thursday, November 3, 2005, 8:00 PM-10:00 PM This month, WCRM, The Citizens’ Radio Music Show starts little earlier but is bound to stay up later as the theme this...</description>
+<guid isPermaLink="false">278@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>shows</dc:subject>
+<dc:date>2005-10-30T19:08:36+00:00</dc:date>
+</item>
+<item>
+<title>WCRM 24/7 Broadcast</title>
+<link>http://cityreliquary.com/wcrm/archives/000263.shtml</link>
+<description>Off the Air as we prepare new programming. Please take the time to listen to our Select Streaming Archives in the meantime. Don&apos;t just sit there and dodge work by reading email on the clock... become a WCRM listener right...</description>
+<guid isPermaLink="false">263@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>broadcast</dc:subject>
+<dc:date>2005-10-08T20:11:26+00:00</dc:date>
+</item>
+<item>
+<title>Select Streaming Archive : October. The Live Show</title>
+<link>http://cityreliquary.com/wcrm/archives/000262.shtml</link>
+<description>Thanks to everyone who tuned into our live broadcast on October 6 2005. If you were not able to catch us live you can now stream each show from the WCRM Online Archives. The following stream is intended for those...</description>
+<guid isPermaLink="false">262@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>archive</dc:subject>
+<dc:date>2005-10-05T22:30:50+00:00</dc:date>
+</item>
+<item>
+<title>Live: October 6. 2005</title>
+<link>http://cityreliquary.com/wcrm/archives/000261.shtml</link>
+<description>The City Reliquary Museum presents: WCRM, The Citizens’ Radio Music Show Thursday, October 6, 2005, 10:00 PM-12:00 midnight This month, WCRM, The Citizens’ Radio Music Show focuses on being &quot;Live&quot;. As the show and crew debated our own issues of...</description>
+<guid isPermaLink="false">261@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>shows</dc:subject>
+<dc:date>2005-10-03T06:23:27+00:00</dc:date>
+</item>
+<item>
+<title>Brooklyn Barbecue: July 7. 2005</title>
+<link>http://cityreliquary.com/wcrm/archives/000137.shtml</link>
+<description>The City Reliquary Museum presents: WCRM, The Citizens’ Radio Music Show Thursday, July 7, 2005, 10:00 PM-12:00 midnight This month, WCRM, The Citizens’ Radio Music Show celebrates the summertime joys of BBQ in the BK. That’s right folks, two steamy...</description>
+<guid isPermaLink="false">137@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>shows</dc:subject>
+<dc:date>2005-07-07T07:49:17+00:00</dc:date>
+</item>
+<item>
+<title>Gardening: June 2. 2005</title>
+<link>http://cityreliquary.com/wcrm/archives/000129.shtml</link>
+<description>The City Reliquary Museum presents: WCRM, The Citizens’ Radio Music Show Thursday, June 2. 2005 , 10:00 PM-12:00 midnight In this, the fifth installation of WCRM-The Citizens&apos; Radio Music Show, hosts Mindy Abovitz, City Reliquary Vice President George Ferrandi and...</description>
+<guid isPermaLink="false">129@http://cityreliquary.com/wcrm/</guid>
+<dc:subject>shows</dc:subject>
+<dc:date>2005-06-01T03:04:38+00:00</dc:date>
+</item>
+
+
+</channel>
+</rss>

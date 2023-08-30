@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://cityreliquary.com/friends/">
+<title>Friends</title>
+<link>http://cityreliquary.com/friends/</link>
+<description>Links to some our neighbors and friends of the reliquary. To become a Friend of the Reliquary contact us today.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2006-06-07T03:23:20+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://cityreliquary.com/friends/archives/000133.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/friends/archives/000408.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/friends/archives/000407.shtml" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://cityreliquary.com/friends/archives/000133.shtml">
+<title>Links from the Neighborhood</title>
+<link>http://cityreliquary.com/friends/archives/000133.shtml</link>
+<description>Here is a list of some our members&apos; outside projects and some of our frineds from the neighborhood. We&apos;re still under construction here at the virtual Reliquary. So, please drop us a line if you&apos;d like your link included. The...</description>
+<dc:subject></dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2006-06-07T03:23:20+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/friends/archives/000408.shtml">
+<title>Thanks for Your Membership</title>
+<link>http://cityreliquary.com/friends/archives/000408.shtml</link>
+<description> Thank you for becoming a Member at the City Reliquary! Someone will contact you shortly with more details....</description>
+<dc:subject></dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-31T22:57:14+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/friends/archives/000407.shtml">
+<title>Become A Member</title>
+<link>http://cityreliquary.com/friends/archives/000407.shtml</link>
+<description> Become a Member today. All donations are tax deductable to the extent allowed by the law. Please select your level of Membership. CITIZEN $15.00 Email newsletter, occasional snail-mail and a special gift. or Download Form CIVIC $30.00 Official laminated...</description>
+<dc:subject></dc:subject>
+<dc:creator>archival</dc:creator>
+<dc:date>2005-10-31T17:24:15+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>

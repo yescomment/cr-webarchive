@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="dc.language" content="en" />
+	<meta name="author" content="reunion" />
+	<meta name="geo.country" content="us" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="pragmas" content="no-cache" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="googlebot" content="noarchive" />
+	<meta name="robots" content="noimageindex" />
+	<meta name="robots" content="nocache,noarchive" />
+<title>The City Reliquary | News | 2nd Annual City Reliquary Benefit Gala Dec. 10th, 2007</title>
+<link rel="stylesheet" type="text/css" href="http://cityreliquary.org/news//styles-nav.css" />
+
+<link rel="start" href="http://cityreliquary.org/news/" title="Home" />
+<link rel="prev" href="http://cityreliquary.org/news/archives/000465.shtml" title="Rosendale Cement Show" />
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'cityreliquary.org';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
+
+
+
+
+</head>
+
+<body bgcolor="#EEDDBB">
+<!-- //start -->
+<div id="mother">
+
+<div id="danzig">
+
+<!-- //nav -->
+
+<!--#include virtual="../../menu_top_nav.ssi" -->
+<!-- //content -->
+<div id="bann"><img src="http://cityreliquary.org/pics/head_back.gif" /></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.org"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+<div id="bobby"> 
+
+<div class="subhead">
+
+</div>
+
+<div id="menu">
+
+
+<a href="http://cityreliquary.org/news/archives/cat_.shtml" style="text-transform: uppercase";> HOME</a>
+
+
+<br>
+</div>
+
+<br><br>
+
+<div id="jonny">
+
+<div class="accent"><img src="http://cityreliquary.org/pics/corner1.gif"></div><div class="subhead2">2nd Annual City Reliquary Benefit Gala Dec. 10th, 2007</div>
+<div class="blogentry">
+<div class="blogbody">
+
+<p><strong><em>The 2nd Annual City Reliquary Benefit Gala</em></strong><br />
+Will be held on <strong>Monday, December 10th 2007</strong><br />
+Beginning at <strong>7:00 PM</strong><br />
+At the <em>Automotive High School Auditorium</em><br />
+Located in McCarren Park, Williamsburgh, Brooklyn</p></p>
+
+<p><p>Our featured guests will be,<br />
+<strong>Lawrence Weschler</strong><br />
+Author of Mr. Wilson’s Cabinet of Wonder<br />
+Director of the New York Institute for the Humanities at NYU<br />
+ </p>
+
+<p><p><strong>Paul Lukas</strong><br />
+ESPN.com Uni-watch columnist<br />
+And author of Inconspicuous Consumption</p>
+
+<p><br />
+<p>With musical performance by<br />
+<strong>Los Bomberos de Brooklyn</strong><br />
+Multi-generational Puerto Rican bomba, rhythm and dance group<br />
+from Williamsburgh’s Southside</p>
+
+<p><br />
+And excerpts from the unreleased film <br />
+<em><strong>Up on the Roof</strong></em><br />
+A documentary on the rooftop pigeon keepers of Williamsburgh’s Southside<br /><br />
+By <strong>JL Aronson</strong> producer/director of Danielson: A Family Movie</p>
+
+<p><br />
+The presentation will be followed by <em>limousine service</em> <br />
+to a very special dinner beginning at <strong>9:00PM</strong> at,<br />
+<strong>Bamonte’s Restaurant</strong><br />
+Williamsburgh’s most historic Italian restaurant <br />
+Over 100 years in business with countless stories to tell and the finest in Brooklyn cuisine.</p>
+
+<p><br />
+<strong>Tickets</strong>:<br />
+Auditorium and Dinner: $125 (RSVP required)<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display:inline;"><br />
+<input type="hidden" name="cmd" value="_s-xclick"><br />
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" vspace=0></p>
+
+<p><input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----"><br />
+</form><br />
+Auditorium Presentation Only: $30 (at the door) </p>
+
+<p>RSVP by Monday Dec. 3rd 2007:<br />
+By phone to (718) R.U. CIVIC (782.4842)<br />
+Or by email to rsvp@cityreliquary.org</p>
+
+<a name="more"></a>
+
+
+
+<br /></span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- //foot -->
+<div id="foot"><img src="http://cityreliquary.org/pics/tail_back.gif" width="800" /></div>
+
+<!-- //nav -->
+ 
+<!--#include virtual="../../menu_bott_nav.ssi" -->
+
+</div>
+<div id="danzig2">
+<div id="bobby2">
+<div class="foott">
+<a href="http://cityreliquary.org">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>

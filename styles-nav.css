@@ -1,0 +1,438 @@
+body {
+    margin: 0;
+    padding: 0;
+    font: 12px Helvetica, san-serif;
+}
+#mother{		
+width: 810px;
+padding: 0;
+margin-right:auto;
+margin-left:auto;
+}
+#danzig {
+	width: 800px;
+       background-image: url("http://cityreliquary.com/pics/back_back.gif") repeat;
+	background: url(http://cityreliquary.com/pics/back_back.gif);
+	padding: 0;
+	margin-right:auto;
+	margin-left:auto;
+       float:left;
+}
+
+#jonny {
+		width: 441px;
+		padding: 20px;
+		margin-left: 26px;
+		float: left;
+		background: #eee;
+		}
+
+#bobby {
+		width: 710px;
+		padding: 10px;
+		margin-left: 18px;
+		float: left;
+		background: #eee;
+		text-align: center;
+		}
+
+#teddy {
+		width: 520px;
+               margin: 10px 0 0 0;
+		padding: 0;
+		background: #fff;
+		float: left;
+		}
+
+
+html>body #teddy {
+		width: 520px;
+		padding: 10px 0 0 0;
+	margin: 10px 0 0 10px;
+		background: #fff;
+		}
+
+#oswald {
+		width: 540px;
+		padding: 0;
+             background: transparent;
+		float: left;
+		}
+
+#grassy {
+margin: -20px 0 0 0;
+
+}
+
+.side-head {
+font-family: gill sans, geneva, arial, sans-serif;
+	                         text-transform: uppercase;
+font-weight:bold;
+letter-spacing: 2px;
+background:#ddddaa;
+color: #663300;
+width: 140px;
+padding: 4px 10px 4px 10px;
+float: right;
+text-align: left;
+border: #663300;
+                                border-style: solid; 
+                                border-top-width: 0px; 
+                                border-right-width: 0px; 
+                                border-bottom-width: 1px; 
+                                border-left-width: 0px;	
+}
+
+
+#side-news {
+width: 140px;
+padding: 10px;
+margin-left: 10px;
+float: right;
+background: #fff;
+text-align: left;
+border: #663300;
+                                border-style: solid; 
+                                border-top-width: 0px; 
+                                border-right-width: 0px; 
+                                border-bottom-width: 1px; 
+                                border-left-width: 0px;	
+
+}
+
+
+
+
+		
+html>body #bobby {
+		width: 710px;
+		padding: 10px;
+		margin-left: 35px;
+		float: left;
+		background: #eee;
+		}
+
+#side-news a {
+
+color: #663300;
+	text-decoration: none;
+font-weight: bold;
+font-size: 12px;
+padding: 0 0 8px 0;
+
+}
+
+#side-news a:link {
+	color: #663300;
+}
+
+#side-news a:visited {
+	color: #996633;
+}
+
+#side-news a:active {
+	color: red;
+}
+
+#side-news a:hover {
+	text-decoration: underline;
+	cursor: hand;
+}
+
+
+#danzig2 {
+	width: 600px;
+               background: #EEDDBB;
+                padding: 20px;
+       margin-right:auto;
+	margin-left:auto;
+       float:left;
+}
+		
+#bobby2 {
+		width: 550px;
+		margin-left: 65px;
+		float: left;
+                                background: #EEDDBB;
+		}
+
+html>body #bobby2 {
+		width: 550px;
+		margin-left: 125px;
+	margin-bottom:7px;
+		float: left;
+		background: #EEDDBB;
+		}
+
+#bann {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+#navi {
+    width:800px;
+    margin: 0;
+    padding: 0;
+    float:left;
+}	
+#contentright {
+		width:175px;
+		padding:20px;
+		float:left;
+		background:#FFFFFF;
+		}
+
+#contentheader {
+		background:#fff
+		}
+		
+#butt {
+	position:absolute;
+	left:0px;
+	top:150px;
+}	
+
+#home-butt {
+	position:absolute;
+	left:0px;
+	top:0px;
+}	
+
+
+a {  
+    color: #663300;
+	text-decoration: none;
+}
+
+a:link {
+	color: #663300;
+}
+
+a:visited {
+	color: #996633;
+}
+
+a:active {
+	color: red;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: hand;
+}
+
+h1 {
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+
+h2  {               font-family: geneva, arial, sans-serif;
+	                         color:#666666;
+		                  font-size:12px;
+                                font-weight:bold;
+  		                  padding:2px;
+                                padding-left:5px;
+                                margin-top: 0px;
+                                margin-left: 0px;	
+                                margin-right: 0px;			
+  		                  background:#EAEAEA;
+                                border: #CCCCCC; 
+                                border-style: solid; 
+                                border-top-width: 1px; 
+                                border-right-width: 1px; 
+                                border-bottom-width: 1px; 
+                                border-left-width: 1px	
+}
+
+h3 {              	                         color:#ccc;
+		                  font-size: 12px;
+                                font-weight:bold;
+  		                  padding: 0 0 10px 0;
+                                             margin: 0;	
+ font-family: gill sans, geneva, arial, sans-serif;
+	                         text-transform: uppercase;
+letter-spacing: 1px;
+		
+ 
+        	
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+z-index: 50;
+}
+
+#nav a {
+	font-weight: bold;
+	color: #000000;
+z-index: 50;
+}
+
+#nav a {
+	text-decoration: none;
+z-index: 50;
+}
+
+#nav li li a {
+	display: block;
+	font-weight: normal;
+	padding: 3px;
+z-index: 50;
+}
+
+#nav li li a:hover {
+    background: #EEEEEE;
+    color: #663300;
+z-index: 50;
+}
+
+li {
+	float: left;
+	position: relative;
+	width: 160px;
+	text-align: center;
+	background-color: #EEDDBB;
+	cursor: hand;
+z-index: 50;
+}
+
+li#sub {
+    float: left;
+	position: relative;
+	width: 200px;
+	text-align: center;
+	background-color: #EEDDBB;
+	cursor: hand;
+z-index: 50;
+}
+
+li#last {
+}
+
+li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	font-weight: normal;
+	background-color: #EEDDBB;
+	padding: 0 0 0 0;
+	border-right: solid 1px #7d6340;
+	border-left: solid 1px #7d6340;
+	border-bottom: solid 1px #7d6340;
+z-index: 50;
+}
+
+li>ul {
+	top: auto;
+	left: auto;
+}
+
+li li {
+	display: block;
+	float: none;
+	background-color: transparent;
+	border: 0;
+z-index: 50;
+}
+
+li:hover ul, li.over ul {
+	display: block;
+z-index: 50;
+}
+
+hr {
+	display: none;
+}
+
+p {
+	clear: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+img {
+border: 0;
+}
+
+div.subhead  {               font-family: geneva, arial, sans-serif;
+	                         color:#666666;
+		                  font-size:12px;
+                                font-weight:bold;
+  		                  padding:2px;
+                                padding-left:5px;
+                                margin-top: 0px;
+                                margin-left: 0px;	
+                                margin-right: 0px;			
+  		                  background:#EAEAEA;
+                                border: #CCCCCC; 
+                                border-style: solid; 
+                                border-top-width: 1px; 
+                                border-right-width: 1px; 
+                                border-bottom-width: 1px; 
+                                border-left-width: 1px;	
+}
+#foot {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+#foot2 {
+       width:800px;
+       padding:20px;
+       margin-top: 20px;
+	margin-left:100px;
+       margin-bottom: 30px;
+	float:left;
+      background-color: #EEDDBB;
+}
+
+div.foott {
+       font-family: helvetica, geneva, arial, sans-serif;
+       color:#663300;
+       font-size:11px;
+      
+}
+
+
+/* border table for feed news */
+.fd_bordertable { 
+	background-color: #fff; 
+	border-style: solid; border-width: 0px; border-color: #CCCCCC; 
+	padding: 0; 
+	width: 140px;
+}
+
+/* maintable table for feed news */
+.fd_maintable { border-width: 0; background: #fff }
+
+/* header cell with header text and xml button */
+.fd_header { 
+	font-family: arial, sans-serif;
+	padding: 0; 
+	color: #CCC; 
+	font-size: 14px; 
+       font-weight: bold; 
+	text-align: left; 
+       vertical-align: top; 
+       line-height: 26px; 
+       text-transform: uppercase;
+}
+
+/* item description area */
+.fd_itemcell { 
+	padding: 0 0 8px 0; 
+	background: #fff; color: black; 
+	font-family: arial, sans-serif;
+ font-size: 12px; 
+}
+
+/* item link properties, such as text-decoration and etc */
+.fd_itemlink { color: blue; text-decoration: none; }
+.fd_itemlink:visited { color: blue; text-decoration: none }
+.fd_itemlink:hover { color: #336699; text-decoration: none }
+

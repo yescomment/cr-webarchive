@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://cityreliquary.com/news/">
+<title>News</title>
+<link>http://cityreliquary.com/news/</link>
+<description>Here is what&apos;s new at the Reliquary this month...</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2009-05-22T19:25:25+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://cityreliquary.com/news/archives/000500.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000497.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000493.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000494.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000495.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000496.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000491.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000489.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000486.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000483.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000482.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000481.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000479.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000473.shtml" />
+<rdf:li rdf:resource="http://cityreliquary.com/news/archives/000472.shtml" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://cityreliquary.com/news/archives/000500.shtml">
+<title>Brooklyn Bridge 126th Birthday Bike Ride</title>
+<link>http://cityreliquary.com/news/archives/000500.shtml</link>
+<description>Join us this SUNDAY!!! Brooklyn Bridge 126th Birthday Bike Ride...</description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-05-22T19:25:25+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000497.shtml">
+<title>5/16 The Candela Structures: A New York City History Mystery Opens</title>
+<link>http://cityreliquary.com/news/archives/000497.shtml</link>
+<description> Have you seen these prefab structures? Aren&apos;t they cool?...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-04-23T04:10:09+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000493.shtml">
+<title>5/9 5th Annual Bicycle Fetish Day</title>
+<link>http://cityreliquary.com/news/archives/000493.shtml</link>
+<description>Saturday May 9th, 12noon – 6pm Havemeyer between Hope and...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-04-23T04:09:19+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000494.shtml">
+<title>Photos from Museum2Museum Bike Ride: From the City Reliquary to the QMA!</title>
+<link>http://cityreliquary.com/news/archives/000494.shtml</link>
+<description>Sunday April 26th Check out the photos of our awesome...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-04-23T04:08:05+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000495.shtml">
+<title>5/16 Dead Horse Bay Bike Ride</title>
+<link>http://cityreliquary.com/news/archives/000495.shtml</link>
+<description>Saturday May 16th 1:30 - 5pm Meet at 1:30pm, leave...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-04-23T04:06:58+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000496.shtml">
+<title>6/6 Civic Bike Ride to the LIC Bike Parade Celebrating the 100th Anniversary of the Queensboro Bridge!</title>
+<link>http://cityreliquary.com/news/archives/000496.shtml</link>
+<description>Saturday June 6th, 1145 - 3pm Meet at 11:45am, depart...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-04-23T04:05:45+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000491.shtml">
+<title>Over Spilt Milk Ending on May 10th</title>
+<link>http://cityreliquary.com/news/archives/000491.shtml</link>
+<description>Over Spilt Milk: The Fight for Fair Price and Fair...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-03-09T16:04:18+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000489.shtml">
+<title>2/27 BROTHER CAN YOU SPARE SOME RENT?</title>
+<link>http://cityreliquary.com/news/archives/000489.shtml</link>
+<description>Modern Day Depression-Era Fundraiser! Friday February 27th 7-11pmTimes are tough...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2009-02-20T15:19:37+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000486.shtml">
+<title>7/31 First Ever Summer Benefit Party</title>
+<link>http://cityreliquary.com/news/archives/000486.shtml</link>
+<description>Announcing the City Reliquary&apos;s first Summer Benefit Party! We hope...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-07-13T15:57:00+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000483.shtml">
+<title>Harbor Tours of the Brooklyn Bridge</title>
+<link>http://cityreliquary.com/news/archives/000483.shtml</link>
+<description>May 22nd, 23rd, 24th &amp; 25th: in association with the...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-05-19T21:40:16+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000482.shtml">
+<title>5/24 Brooklyn Bridge Birthday Bike Ride</title>
+<link>http://cityreliquary.com/news/archives/000482.shtml</link>
+<description>May 24th aka BRIDGE DAY! The City Reliquary Museum presents...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-05-19T21:38:57+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000481.shtml">
+<title>5/23 Brooklyn Bridge Art Show Reception</title>
+<link>http://cityreliquary.com/news/archives/000481.shtml</link>
+<description>May 23rd 7:00 - 10:00 PM Reception: The Brooklyn Bridge:...</description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-05-19T21:35:55+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000479.shtml">
+<title>Bicycle Fetish Day 2008</title>
+<link>http://cityreliquary.com/news/archives/000479.shtml</link>
+<description>The City Reliquary Presents: The 4th Annual Bicycle Fetish Day...</description>
+<dc:subject>Calendar</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-05-07T04:01:30+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000473.shtml">
+<title>76 Kisses</title>
+<link>http://cityreliquary.com/news/archives/000473.shtml</link>
+<description>76 KISSES: Snapshots from the Collection of Lori Baker and...</description>
+<dc:subject>Press Releases</dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-02-06T23:31:10+00:00</dc:date>
+</item>
+<item rdf:about="http://cityreliquary.com/news/archives/000472.shtml">
+<title>76 Kisses Opening Reception</title>
+<link>http://cityreliquary.com/news/archives/000472.shtml</link>
+<description>76 Kisses Opening Reception Join us on Friday, February 8,...</description>
+<dc:subject></dc:subject>
+<dc:creator>dave</dc:creator>
+<dc:date>2008-01-29T00:07:10+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>

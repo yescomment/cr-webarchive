@@ -1,0 +1,219 @@
+body {
+    margin: 0;
+    padding: 0;
+    font: 12px Helvetica, san-serif;
+}
+#mother{		
+width: 820px;
+padding: 0;
+margin-right:auto;
+margin-left:auto;
+}
+#danzig {
+	width: 810px;
+       background-image: url("http://cityreliquary.org/pics/back_back.gif") repeat;
+	background: url(http://cityreliquary.org/pics/back_back.gif);
+	padding: 0;
+	margin-right:auto;
+	margin-left:auto;
+       float:left;
+}
+#jonny {
+		width: 441px;
+		padding: 20px;
+		margin-left: 26px;
+		float: left;
+		background: #eee;
+		}
+#bobby {
+		width: 692px;
+		padding: 20px;
+		margin-left: 17px;
+		float: left;
+		background: #eee;
+		}
+
+html>body #bobby {
+		width: 692px;
+		padding: 20px;
+		margin-left: 35px;
+		float: left;
+		background: #eee;
+		}
+#teddy {
+		width: 650px;
+		padding: 20px;
+margin-right:auto;
+margin-left:auto;
+		background: #fff;
+		}
+html>body #jonny {
+		width: 441px;
+		padding: 20px;
+		margin-left: 52px;
+		float: left;
+		background: #eee;
+		}
+#bann {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}
+#navi {
+    width:800px;
+    margin: 0;
+    padding: 0;
+    float:left;
+}	
+#contentright {
+		width:175px;
+		padding:20px;
+		float:left;
+		background:#FFFFFF;
+		}
+
+#contentheader {
+		background:#fff
+		}
+
+a {  
+    color: #663300;
+	text-decoration: none;
+}
+
+a:link {
+	color: #663300;
+}
+
+a:visited {
+	color: #996633;
+}
+
+a:active {
+	color: red;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: hand;
+}
+
+h1 {
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#nav a {
+	font-weight: bold;
+	color: #000000;
+}
+
+#nav a {
+	text-decoration: none;
+}
+
+#nav li li a {
+	display: block;
+	font-weight: normal;
+	padding: 3px;
+}
+
+#nav li li a:hover {
+    background: #EEEEEE;
+    color: #663300;
+}
+
+li {
+	float: left;
+	position: relative;
+	width: 160px;
+	text-align: center;
+	background-color: #EEDDBB;
+	cursor: hand;
+}
+
+li#sub {
+    float: left;
+	position: relative;
+	width: 200px;
+	text-align: center;
+	background-color: #EEDDBB;
+	cursor: hand;
+
+}
+
+li#last {
+}
+
+li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	font-weight: normal;
+	background-color: #EEDDBB;
+	padding: 0 0 0 0;
+	border-right: solid 1px #7d6340;
+	border-left: solid 1px #7d6340;
+	border-bottom: solid 1px #7d6340;
+}
+
+li>ul {
+	top: auto;
+	left: auto;
+}
+
+li li {
+	display: block;
+	float: none;
+	background-color: transparent;
+	border: 0;
+}
+
+li:hover ul, li.over ul {
+	display: block;
+}
+
+hr {
+	display: none;
+}
+
+p {
+	clear: center;
+	padding: 0 0 0 0;
+	margin: 0;
+}
+img {
+                 border: 0;
+}
+
+div.subhead  {               font-family: geneva, arial, sans-serif;
+	                         color:#666666;
+		                  font-size:12px;
+                                font-weight:bold;
+  		                  padding:2px;
+                                margin-top: 0px;
+                                margin-left: 0px;	
+                                margin-right: 0px;			
+  		                  background:#EAEAEA;
+                                border: #CCCCCC; 
+                                border-style: solid; 
+                                border-top-width: 1px; 
+                                border-right-width: 1px; 
+                                border-bottom-width: 1px; 
+                                border-left-width: 1px;	
+}
+#foot {
+    width:800px;
+	margin: 0;
+    padding: 0;
+	float:left;
+}

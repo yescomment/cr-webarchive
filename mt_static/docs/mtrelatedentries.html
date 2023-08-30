@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>mt-relatedentries - a plugin for Movable Type that displays
+entries that are related to the current entry.</title>
+<link rel="stylesheet" href="doc-styles.css" type="text/css" />
+<link rev="made" href="mailto:root@hampsten.nonet" />
+</head>
+
+<body>
+
+<p><a name="__index__"></a></p>
+<!-- INDEX BEGIN -->
+
+<ul>
+
+	<li><a href="#name">NAME</a></li>
+	<li><a href="#synopsis">SYNOPSIS</a></li>
+	<li><a href="#description">DESCRIPTION</a></li>
+	<li><a href="#tags">TAGS</a></li>
+	<ul>
+
+		<li><a href="#performance_caveat">PERFORMANCE CAVEAT</a></li>
+	</ul>
+
+	<li><a href="#to_do">TO DO</a></li>
+	<li><a href="#installation">INSTALLATION</a></li>
+	<li><a href="#license">LICENSE</a></li>
+	<li><a href="#author___copyright">AUTHOR &amp; COPYRIGHT</a></li>
+</ul>
+<!-- INDEX END -->
+
+<hr />
+<p>
+</p>
+<h1><a name="name">NAME</a></h1>
+<p>mt-relatedentries - a plugin for Movable Type that displays
+entries that are related to the current entry.</p>
+<p>
+</p>
+<hr />
+<h1><a name="synopsis">SYNOPSIS</a></h1>
+<pre>
+ &lt;MTRelatedEntries lastn=&quot;3&quot; previous=&quot;1&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;&lt;$MTEntryLink$&gt;&quot;&gt;&lt;$MTEntryTitle$&gt;&lt;/a&gt; -
+  &lt;i&gt;&lt;$MTEntryDate format=&quot;%b %d, %Y&quot;$&gt;&lt;/i&gt;&lt;/p&gt;
+ &lt;/MTRelatedEntries&gt;</pre>
+<p>
+</p>
+<hr />
+<h1><a name="description">DESCRIPTION</a></h1>
+<p>Related Entries is a plugin for Movable Type that displays
+entries that are related to the current entry.</p>
+<p>If you place your entries in categories, you can use this
+tag provide your readers with the same sort of ``Related
+Article'' feature that is often found on magazine and news
+sites.</p>
+<p>Prior to version 3.0, the plugin was copyright 2002 Adam
+Kalsey, Kalsey Consulting Group.</p>
+<p>
+</p>
+<hr />
+<h1><a name="tags">TAGS</a></h1>
+<ul>
+<li><strong><a name="item_mtrelatedentries__5blastn_3d_22_22_source_3d_22_22">MTRelatedEntries [lastn=``'' source=``'' previous=``'']</a></strong><br />
+</li>
+This tag is a container and (essentially) specialized
+version of the MTEntries tag. This tag must be used in the
+context of another entry.
+<p>This tag has a few optional arguments. <em>lastn</em> controls the
+number of realted entries similar to the same named argument
+of MTEntries. The default is 25. <em>source</em> must be either
+'keywords' or 'primary_category'. The default is
+'primary_category'. The last is <em>previous</em> which is boolean
+the denotes whether to list related entries previous to the
+one in context (1) rather then the most current (0, the
+default behavior).</p>
+<p></p></ul>
+<p>
+</p>
+<h2><a name="performance_caveat">PERFORMANCE CAVEAT</a></h2>
+<p>Using 'keywords' as your source is quite slow and resource
+intensive. Your rebuild will be slow, very slow. Before you
+implement such a scheme be sure you are willing to make this
+tradeoff.</p>
+<p>
+</p>
+<hr />
+<h1><a name="to_do">TO DO</a></h1>
+<ul>
+<li><strong><a name="item_implement__22source_22_plugins">Implement ``source'' plugins</a></strong><br />
+</li>
+</ul>
+<p>
+</p>
+<hr />
+<h1><a name="installation">INSTALLATION</a></h1>
+<p>To install mt-relatedentries.pl, simply place the
+<em>mt-relatedentries.pl</em> file into your
+<em><em>MovableTypeHome</em>/plugins/</em> directory. Copy the HTML
+documentation file in the docs subdirectory to
+<em><em>MTStaticPath</em>/docs directory</em>.</p>
+<p>
+</p>
+<hr />
+<h1><a name="license">LICENSE</a></h1>
+<p>The software is released under the Artistic License. The
+terms of the Artistic License are described at
+<a href="http://www.perl.com/language/misc/Artistic.html.">http://www.perl.com/language/misc/Artistic.html.</a></p>
+<p>
+</p>
+<hr />
+<h1><a name="author___copyright">AUTHOR &amp; COPYRIGHT</a></h1>
+<p>Except where otherwise noted, mt-relatedentries is
+copyright 2005 Appnel Internet Solutions, Timothy Appnel,
+<a href="mailto:tim@appnel.com.">tim@appnel.com.</a></p>
+
+</body>
+
+</html>
