@@ -18,8 +18,8 @@
 <title>The City Reliquary | Bulletin Board | The Fabulous LuLu LoLo and Italian Superstition</title>
 <link rel="stylesheet" type="text/css" href="http://cityreliquary.org/news/styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/bulletinboard/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/bulletinboard/archives/000469.shtml" title="The 2nd Annual City Reliquary Benefit Gala" />
+<link rel="start" href="/bulletinboard/" title="Home" />
+<link rel="prev" href="/bulletinboard/archives/000469.shtml" title="The 2nd Annual City Reliquary Benefit Gala" />
 
 
 
@@ -137,7 +137,7 @@ Bulletin Board
 <div id="menu">
 
 
-<a href="http://cityreliquary.com/bulletinboard/archives/cat_.shtml">NEWS HOME</a>
+<a href="/bulletinboard/archives/cat_.shtml">NEWS HOME</a>
 
 
 <br>

@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/wcrm//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/wcrm//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {

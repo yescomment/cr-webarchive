@@ -17,8 +17,8 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/styles-nav.css" />
-<link rel="stylesheet" href="http://cityreliquary.com/style/myfeed.css" media="all">
+<link rel="stylesheet" type="text/css" href="/styles-nav.css" />
+<link rel="stylesheet" href="/style/myfeed.css" media="all">
 
 <script type="text/javascript">
 startList = function() {
@@ -55,7 +55,7 @@ window.onload=startList;
 </div>
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
 <div id="butt"> 
-<a href="http://www.cityreliquary.com/friends/archives/000407.shtml"><img src="pics/member_badge.gif"></a>
+<a href="/friends/archives/000407.shtml"><img src="pics/member_badge.gif"></a>
 
 </div>
 
@@ -71,11 +71,11 @@ window.onload=startList;
 
 
 <!-- rotator
-<a href="http://cityreliquary.com/events/archives/cat_tribute_to_our_city_2006.shtml"><img src="random/rotator.php" alt="welcome" border="0" /></a>
+<a href="/events/archives/cat_tribute_to_our_city_2006.shtml"><img src="random/rotator.php" alt="welcome" border="0" /></a>
 -->
 
 <!-- Front Page Image!!!!!!!!!!!!!!!!!!!!!
-<a href="http://cityreliquary.com/frontpage/archives/pics/BikeFetishForm.pdf"><img alt="ezflyer_single.jpg" src="http://cityreliquary.com/frontpage/archives/pics/ezflyer_single.jpg" width="520" height="725" border="0" />
+<a href="/frontpage/archives/pics/BikeFetishForm.pdf"><img alt="ezflyer_single.jpg" src="http://cityreliquary.com/frontpage/archives/pics/ezflyer_single.jpg" width="520" height="725" border="0" />
 </a>
 -->
     <br />
@@ -96,10 +96,10 @@ LATEST NEWS
 <script language="JavaScript" src="http://www.cityreliquary.com//feed2js.php?src=http%3A%2F%2Fcityreliquary.com%2Fnews%2Findex.xml&amp;num=7&amp;desc=0" type="text/javascript"></script>
 
 <noscript>
-<a href="http://www.cityreliquary.com//feed2js.php?src=http%3A%2F%2Fcityreliquary.com%2Fnews%2Findex.xml&amp;num=7&amp;desc=0&amp;html=y">View RSS feed</a>
+<a href="//feed2js.php?src=http%3A%2F%2Fcityreliquary.com%2Fnews%2Findex.xml&amp;num=7&amp;desc=0&amp;html=y">View RSS feed</a>
 </noscript>
 
-<p  style="font-family:helvetica, geneva, arial, sans-serif;"><img src="http://cityreliquary.com/pics/arrow2.gif"> <a href="http://cityreliquary.com/news/">Read More News</a></p>
+<p  style="font-family:helvetica, geneva, arial, sans-serif;"><img src="http://cityreliquary.com/pics/arrow2.gif"> <a href="/news/">Read More News</a></p>
 
 </div>
 

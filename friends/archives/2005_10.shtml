@@ -6,11 +6,11 @@
 
 <title>Friends: October 2005 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/friends/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/friends/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/friends/" title="Home" />
+<link rel="stylesheet" href="/friends/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/friends/index.rdf" />
+<link rel="start" href="/friends/" title="Home" />
 
-<link rel="next" href="http://cityreliquary.com/friends/archives/2006_06.shtml" title="June 2006" />
+<link rel="next" href="/friends/archives/2006_06.shtml" title="June 2006" />
 
 
 <script language="javascript" type="text/javascript">
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/friends/" accesskey="1">Friends</a></h1>
+<h1><a href="/friends/" accesskey="1">Friends</a></h1>
 <span class="description">Links to some our neighbors and friends of the reliquary. To become a Friend of the Reliquary contact us today.</span>
 </div>
 
@@ -42,8 +42,8 @@ function OpenTrackback (c) {
 
 <div id="menu">
 
-<a href="http://cityreliquary.com/friends/">Main</a>
-| <a href="http://cityreliquary.com/friends/archives/2006_06.shtml">June 2006 &raquo;</a>
+<a href="/friends/">Main</a>
+| <a href="/friends/archives/2006_06.shtml">June 2006 &raquo;</a>
 
 </div>
 
@@ -76,7 +76,7 @@ function OpenTrackback (c) {
 
 
 <div class="posted">
-	Posted by archival at <a href="http://cityreliquary.com/friends/archives/000408.shtml">10:57 PM</a>
+	Posted by archival at <a href="/friends/archives/000408.shtml">10:57 PM</a>
 	
 	
 </div>
@@ -233,7 +233,7 @@ Discounted or free admission to CR events.</div></td>
 
 
 <div class="posted">
-	Posted by archival at <a href="http://cityreliquary.com/friends/archives/000407.shtml">05:24 PM</a>
+	Posted by archival at <a href="/friends/archives/000407.shtml">05:24 PM</a>
 	
 	
 </div>

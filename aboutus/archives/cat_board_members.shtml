@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/aboutus//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/aboutus//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {
@@ -52,7 +52,7 @@ window.onload=startList;
 <!-- //content -->
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
 
 
 
@@ -258,16 +258,16 @@ As an independant and unbiased agent, Scout is an integral part of all important
 <div id="foot"><img src="http://cityreliquary.com/pics/tail_back.gif" width="800" /></div>
 <ul id="nav">
     <li id="sub"> 
-      <div><a href="http://cityreliquary.com/wcrm"><img src="http://cityreliquary.com/pics/nav_radio.gif" /></a></div>
+      <div><a href="/wcrm"><img src="http://cityreliquary.com/pics/nav_radio.gif" /></a></div>
     </li>
     <li id="sub"> 
-      <div><a href="http://cityreliquary.com/communitybeutification"><img src="http://cityreliquary.com/pics/nav_beut.gif" /></a></div>
+      <div><a href="/communitybeutification"><img src="http://cityreliquary.com/pics/nav_beut.gif" /></a></div>
     </li>
     <li id="sub"> 
-      <div><a href="http://cityreliquary.com/civicriders/archives/cat_events.html"><img src="http://cityreliquary.com/pics/sub_riders.gif" /></a></div>
+      <div><a href="/civicriders/archives/cat_events.html"><img src="http://cityreliquary.com/pics/sub_riders.gif" /></a></div>
     </li>
     <li id="sub"> 
-      <div><a href="http://cityreliquary.com/collections"><img src="http://cityreliquary.com/pics/sub_collect.gif" /></a></div>
+      <div><a href="/collections"><img src="http://cityreliquary.com/pics/sub_collect.gif" /></a></div>
   </li>
   </ul>
 </div>
@@ -276,7 +276,7 @@ As an independant and unbiased agent, Scout is an integral part of all important
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

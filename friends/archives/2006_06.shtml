@@ -6,10 +6,10 @@
 
 <title>Friends: June 2006 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/friends/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/friends/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/friends/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/friends/archives/2005_10.shtml" title="October 2005" />
+<link rel="stylesheet" href="/friends/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/friends/index.rdf" />
+<link rel="start" href="/friends/" title="Home" />
+<link rel="prev" href="/friends/archives/2005_10.shtml" title="October 2005" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/friends/" accesskey="1">Friends</a></h1>
+<h1><a href="/friends/" accesskey="1">Friends</a></h1>
 <span class="description">Links to some our neighbors and friends of the reliquary. To become a Friend of the Reliquary contact us today.</span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/friends/archives/2005_10.shtml">&laquo; October 2005</a> |
+<a href="/friends/archives/2005_10.shtml">&laquo; October 2005</a> |
 
-<a href="http://cityreliquary.com/friends/">Main</a>
+<a href="/friends/">Main</a>
 
 </div>
 
@@ -93,7 +93,7 @@ http://www.brooklynsaints.info<br> And you can see samples of her work as a fine
 
 
 <div class="posted">
-	Posted by archival at <a href="http://cityreliquary.com/friends/archives/000133.shtml">03:23 AM</a>
+	Posted by archival at <a href="/friends/archives/000133.shtml">03:23 AM</a>
 	
 	
 </div>

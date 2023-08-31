@@ -16,11 +16,11 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | About Us | 2005-2006 Board of Directors</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/aboutus//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/aboutus//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/aboutus/" title="Home" />
+<link rel="start" href="/aboutus/" title="Home" />
 
-<link rel="next" href="http://cityreliquary.com/aboutus/archives/000061.shtml" title="A Brief Synopsis of the City Reliquary&#39;s Original Location" />
+<link rel="next" href="/aboutus/archives/000061.shtml" title="A Brief Synopsis of the City Reliquary&#39;s Original Location" />
 
 
 <script type="text/javascript" language="javascript">
@@ -166,8 +166,8 @@ window.onload=startList;
 
 <h2>
 Board Members | 
-  <a href="http://cityreliquary.com/aboutus/">HOME</a>
-    | <a href="http://cityreliquary.com/aboutus/archives/000061.shtml">NEXT</a>
+  <a href="/aboutus/">HOME</a>
+    | <a href="/aboutus/archives/000061.shtml">NEXT</a>
    | </h2> 
 
 

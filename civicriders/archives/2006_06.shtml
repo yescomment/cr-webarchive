@@ -6,10 +6,10 @@
 
 <title>Civic Riders: June 2006 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/civicriders/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/civicriders/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/civicriders/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/civicriders/archives/2005_04.shtml" title="April 2005" />
+<link rel="stylesheet" href="/civicriders/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/civicriders/index.rdf" />
+<link rel="start" href="/civicriders/" title="Home" />
+<link rel="prev" href="/civicriders/archives/2005_04.shtml" title="April 2005" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/civicriders/" accesskey="1">Civic Riders</a></h1>
+<h1><a href="/civicriders/" accesskey="1">Civic Riders</a></h1>
 <span class="description">Home to all news about the Civic Riders Bicycle Club operating out of the City Reliquary.</span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/civicriders/archives/2005_04.shtml">&laquo; April 2005</a> |
+<a href="/civicriders/archives/2005_04.shtml">&laquo; April 2005</a> |
 
-<a href="http://cityreliquary.com/civicriders/">Main</a>
+<a href="/civicriders/">Main</a>
 
 </div>
 
@@ -73,7 +73,7 @@ An INCREDIBLE DAY AND NIGHT for you and YOUR BIKE!!!
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/civicriders/archives/000300.shtml">02:38 AM</a>
+	Posted by dave at <a href="/civicriders/archives/000300.shtml">02:38 AM</a>
 	
 	
 </div>

@@ -16,12 +16,12 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | News | CR on TV</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/news//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/000389.shtml" title="Sept. 20-26 CR Featured in the Village Voice" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/000389.shtml" title="Sept. 20-26 CR Featured in the Village Voice" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/000398.shtml" title="The CR on NPR...LISTEN" />
+<link rel="next" href="/news/archives/000398.shtml" title="The CR on NPR...LISTEN" />
 
 
 <script type="text/javascript" language="javascript">
@@ -137,10 +137,10 @@ Calendar
 
 <div id="menu">
 
- <a href="http://cityreliquary.com/news/archives/000402.shtml">PREVIOUS</a> |
+ <a href="/news/archives/000402.shtml">PREVIOUS</a> |
 
-<a href="http://cityreliquary.com/news/archives/cat_calendar.shtml" style="text-transform: uppercase";>Calendar HOME</a>
-| <a href="http://cityreliquary.com/news/archives/000389.shtml">NEXT</a> 
+<a href="/news/archives/cat_calendar.shtml" style="text-transform: uppercase";>Calendar HOME</a>
+| <a href="/news/archives/000389.shtml">NEXT</a> 
 
 
 <br>

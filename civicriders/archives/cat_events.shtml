@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/civicriders//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/civicriders//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {
@@ -52,7 +52,7 @@ window.onload=startList;
  
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
 
 <div id="bobby"> 
 <div class="subhead">
@@ -72,7 +72,7 @@ Civic Riders | Events
 
 <div class="blogentry">
 <div class="blogbody">
-This year we will be hosting the second annual New York City  Bicycle Fetish Day will be held July 1, 2006  at the new City Reliquary!  This event is open to everyone who wants to come show off their ride. Local vendors will also set up booths offering bicycle repair, massages, food, contests and prizes. Check out the <a href="http://cityreliquary.com/events/archives/cat_bicycle_fetish_day.html">photos from last year</a> to get inspired.
+This year we will be hosting the second annual New York City  Bicycle Fetish Day will be held July 1, 2006  at the new City Reliquary!  This event is open to everyone who wants to come show off their ride. Local vendors will also set up booths offering bicycle repair, massages, food, contests and prizes. Check out the <a href="/events/archives/cat_bicycle_fetish_day.html">photos from last year</a> to get inspired.
 
 Start shining your hub!
 <blockquote>
@@ -146,7 +146,7 @@ Last year was also the 100th anniversary of the subway system which was celebrat
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

@@ -6,10 +6,10 @@
 
 <title>Special Events: January 2008 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/events/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/events/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/events/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/events/archives/2007_09.shtml" title="September 2007" />
+<link rel="stylesheet" href="/events/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/events/index.rdf" />
+<link rel="start" href="/events/" title="Home" />
+<link rel="prev" href="/events/archives/2007_09.shtml" title="September 2007" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/events/" accesskey="1">Special Events</a></h1>
+<h1><a href="/events/" accesskey="1">Special Events</a></h1>
 <span class="description"></span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/events/archives/2007_09.shtml">&laquo; September 2007</a> |
+<a href="/events/archives/2007_09.shtml">&laquo; September 2007</a> |
 
-<a href="http://cityreliquary.com/events/">Main</a>
+<a href="/events/">Main</a>
 
 </div>
 
@@ -68,7 +68,7 @@ The City Reliquary is open Saturdays and Sundays from 12 pm to 6 pm and by appoi
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/events/archives/000471.shtml">12:05 AM</a>
+	Posted by dave at <a href="/events/archives/000471.shtml">12:05 AM</a>
 	
 	
 </div>

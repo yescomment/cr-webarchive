@@ -6,12 +6,12 @@
 
 <title>News: July 2007 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/news/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/news/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/2007_05.shtml" title="May 2007" />
+<link rel="stylesheet" href="/news/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rdf" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/2007_05.shtml" title="May 2007" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/2007_09.shtml" title="September 2007" />
+<link rel="next" href="/news/archives/2007_09.shtml" title="September 2007" />
 
 
 <script language="javascript" type="text/javascript">
@@ -33,7 +33,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/news/" accesskey="1">News</a></h1>
+<h1><a href="/news/" accesskey="1">News</a></h1>
 <span class="description">Here is what's new at the Reliquary this month...</span>
 </div>
 
@@ -42,10 +42,10 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/news/archives/2007_05.shtml">&laquo; May 2007</a> |
+<a href="/news/archives/2007_05.shtml">&laquo; May 2007</a> |
 
-<a href="http://cityreliquary.com/news/">Main</a>
-| <a href="http://cityreliquary.com/news/archives/2007_09.shtml">September 2007 &raquo;</a>
+<a href="/news/">Main</a>
+| <a href="/news/archives/2007_09.shtml">September 2007 &raquo;</a>
 
 </div>
 
@@ -77,7 +77,7 @@ The first production of this play was performed in Williamsburgh at the Leonard 
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000441.shtml">09:02 PM</a>
+	Posted by dave at <a href="/news/archives/000441.shtml">09:02 PM</a>
 	
 	
 </div>
@@ -115,7 +115,7 @@ A one-woman show written and performed by LuLu LoLo</p>
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000440.shtml">08:57 PM</a>
+	Posted by dave at <a href="/news/archives/000440.shtml">08:57 PM</a>
 	
 	
 </div>

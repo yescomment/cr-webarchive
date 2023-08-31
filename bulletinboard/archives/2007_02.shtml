@@ -6,12 +6,12 @@
 
 <title>Bulletin Board: February 2007 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/bulletinboard/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/bulletinboard/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/bulletinboard/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/bulletinboard/archives/2007_01.shtml" title="January 2007" />
+<link rel="stylesheet" href="/bulletinboard/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/bulletinboard/index.rdf" />
+<link rel="start" href="/bulletinboard/" title="Home" />
+<link rel="prev" href="/bulletinboard/archives/2007_01.shtml" title="January 2007" />
 
-<link rel="next" href="http://cityreliquary.com/bulletinboard/archives/2007_11.shtml" title="November 2007" />
+<link rel="next" href="/bulletinboard/archives/2007_11.shtml" title="November 2007" />
 
 
 <script language="javascript" type="text/javascript">
@@ -33,7 +33,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/bulletinboard/" accesskey="1">Bulletin Board</a></h1>
+<h1><a href="/bulletinboard/" accesskey="1">Bulletin Board</a></h1>
 <span class="description"></span>
 </div>
 
@@ -42,10 +42,10 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/bulletinboard/archives/2007_01.shtml">&laquo; January 2007</a> |
+<a href="/bulletinboard/archives/2007_01.shtml">&laquo; January 2007</a> |
 
-<a href="http://cityreliquary.com/bulletinboard/">Main</a>
-| <a href="http://cityreliquary.com/bulletinboard/archives/2007_11.shtml">November 2007 &raquo;</a>
+<a href="/bulletinboard/">Main</a>
+| <a href="/bulletinboard/archives/2007_11.shtml">November 2007 &raquo;</a>
 
 </div>
 
@@ -71,8 +71,8 @@ Call 631.632.7444 for more information </p>
 
 
 <div class="posted">
-	Posted by lulu at <a href="http://cityreliquary.com/bulletinboard/archives/000415.shtml">01:05 PM</a>
-		| <a href="http://cityreliquary.com/cgi-bin/mt/mt-comments.cgi?entry_id=415" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	Posted by lulu at <a href="/bulletinboard/archives/000415.shtml">01:05 PM</a>
+		| <a href="/cgi-bin/mt/mt-comments.cgi?entry_id=415" onclick="OpenComments(this.href); return false">Comments (0)</a>
 	
 	
 </div>

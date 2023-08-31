@@ -16,10 +16,10 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | News | Brooklyn Bridge 126th Birthday Bike Ride</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/news//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/000497.shtml" title="5/16 The Candela Structures: A New York City History Mystery Opens" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/000497.shtml" title="5/16 The Candela Structures: A New York City History Mystery Opens" />
 
 
 
@@ -137,7 +137,7 @@ window.onload=startList;
 <div id="menu">
 
 
-<a href="http://cityreliquary.com/news/archives/cat_.shtml" style="text-transform: uppercase";> HOME</a>
+<a href="/news/archives/cat_.shtml" style="text-transform: uppercase";> HOME</a>
 
 
 <br>

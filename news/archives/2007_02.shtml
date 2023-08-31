@@ -6,12 +6,12 @@
 
 <title>News: February 2007 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/news/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/news/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/2006_11.shtml" title="November 2006" />
+<link rel="stylesheet" href="/news/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rdf" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/2006_11.shtml" title="November 2006" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/2007_03.shtml" title="March 2007" />
+<link rel="next" href="/news/archives/2007_03.shtml" title="March 2007" />
 
 
 <script language="javascript" type="text/javascript">
@@ -33,7 +33,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/news/" accesskey="1">News</a></h1>
+<h1><a href="/news/" accesskey="1">News</a></h1>
 <span class="description">Here is what's new at the Reliquary this month...</span>
 </div>
 
@@ -42,10 +42,10 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/news/archives/2006_11.shtml">&laquo; November 2006</a> |
+<a href="/news/archives/2006_11.shtml">&laquo; November 2006</a> |
 
-<a href="http://cityreliquary.com/news/">Main</a>
-| <a href="http://cityreliquary.com/news/archives/2007_03.shtml">March 2007 &raquo;</a>
+<a href="/news/">Main</a>
+| <a href="/news/archives/2007_03.shtml">March 2007 &raquo;</a>
 
 </div>
 
@@ -66,7 +66,7 @@ function OpenTrackback (c) {
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000414.shtml">05:13 PM</a>
+	Posted by dave at <a href="/news/archives/000414.shtml">05:13 PM</a>
 	
 	
 </div>

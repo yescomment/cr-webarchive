@@ -16,12 +16,12 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | News | Conflux Festival</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/news//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/000393.shtml" title="The Village Voice" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/000393.shtml" title="The Village Voice" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/000352.shtml" title="Call for Entries - The Annual Tribute to Our City Window Display - Deadline 8/31/6" />
+<link rel="next" href="/news/archives/000352.shtml" title="Call for Entries - The Annual Tribute to Our City Window Display - Deadline 8/31/6" />
 
 
 <script type="text/javascript" language="javascript">
@@ -137,10 +137,10 @@ Calendar
 
 <div id="menu">
 
- <a href="http://cityreliquary.com/news/archives/000347.shtml">PREVIOUS</a> |
+ <a href="/news/archives/000347.shtml">PREVIOUS</a> |
 
-<a href="http://cityreliquary.com/news/archives/cat_calendar.shtml" style="text-transform: uppercase";>Calendar HOME</a>
-| <a href="http://cityreliquary.com/news/archives/000348.shtml">NEXT</a> 
+<a href="/news/archives/cat_calendar.shtml" style="text-transform: uppercase";>Calendar HOME</a>
+| <a href="/news/archives/000348.shtml">NEXT</a> 
 
 
 <br>

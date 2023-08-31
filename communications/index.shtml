@@ -50,7 +50,7 @@ window.onload=startList;
 <!-- //content -->
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
 <div id="bobby"> 
 
 <div class="subhead">
@@ -80,7 +80,7 @@ Put a Stamp on It and Send it Along...
 <br><br>
 </div>
 
-	<span class="extended"><img src="http://cityreliquary.com/pics/arrow2.gif">  <a href="http://cityreliquary.com/communications/archives/000131.shtml#more">Get More Details on Sending Us A Package</a></span><br />
+	<span class="extended"><img src="http://cityreliquary.com/pics/arrow2.gif">  <a href="/communications/archives/000131.shtml#more">Get More Details on Sending Us A Package</a></span><br />
 	
 
 </div>
@@ -93,7 +93,7 @@ Join our mailing list to receive updates concerning upcoming collections and oth
  
 </div>
 
-	<span class="extended"><img src="http://cityreliquary.com/pics/arrow2.gif">  <a href="http://cityreliquary.com/communications/archives/000056.shtml#more">Get More Details on Joining Our Mailing List</a></span><br />
+	<span class="extended"><img src="http://cityreliquary.com/pics/arrow2.gif">  <a href="/communications/archives/000056.shtml#more">Get More Details on Joining Our Mailing List</a></span><br />
 	
 
 </div>
@@ -106,7 +106,7 @@ If would like to propose a Community Collections Project, or would simply like t
 <br><br>
 </div>
 
-	<span class="extended"><img src="http://cityreliquary.com/pics/arrow2.gif">  <a href="http://cityreliquary.com/communications/archives/000055.shtml#more">Get More Details on Sending Us A Message</a></span><br />
+	<span class="extended"><img src="http://cityreliquary.com/pics/arrow2.gif">  <a href="/communications/archives/000055.shtml#more">Get More Details on Sending Us A Message</a></span><br />
 	
 
 </div>
@@ -124,7 +124,7 @@ If would like to propose a Community Collections Project, or would simply like t
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

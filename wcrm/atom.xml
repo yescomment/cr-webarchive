@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>WCRM Radio</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/" />
+  <link rel="alternate" type="text/html" href="/wcrm/" />
   <modified>2006-07-03T03:16:25Z</modified>
   <tagline>Now every first Thursday of the month of FREE 103.</tagline>
   <id>tag:cityreliquary.com,2009:/wcrm//7</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2006, archival</copyright>
   <entry>
     <title>WCRM Podcast</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000345.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000345.shtml" />
     <modified>2006-07-03T03:16:25Z</modified>
     <issued>2006-07-03T04:16:25+00:00</issued>
     <id>tag:cityreliquary.com,2006:/wcrm//7.345</id>
@@ -42,7 +42,7 @@
   </entry>
   <entry>
     <title>Select Streaming Archive : March. aka That Masked Man</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000344.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000344.shtml" />
     <modified>2006-07-03T02:48:21Z</modified>
     <issued>2006-07-03T03:48:21+00:00</issued>
     <id>tag:cityreliquary.com,2006:/wcrm//7.344</id>
@@ -73,7 +73,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
   </entry>
   <entry>
     <title>Select Streaming Archive : December. The Moving Show</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000343.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000343.shtml" />
     <modified>2006-07-03T01:24:05Z</modified>
     <issued>2006-07-03T02:24:05+00:00</issued>
     <id>tag:cityreliquary.com,2006:/wcrm//7.343</id>
@@ -104,7 +104,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
   </entry>
   <entry>
     <title>Select Streaming Archive: November. The Coffee Show</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000281.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000281.shtml" />
     <modified>2005-11-05T02:00:09Z</modified>
     <issued>2005-11-05T02:00:09+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.281</id>
@@ -131,7 +131,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
   </entry>
   <entry>
     <title>Submit Content</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000279.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000279.shtml" />
     <modified>2005-10-30T20:33:13Z</modified>
     <issued>2005-10-30T20:33:13+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.279</id>
@@ -163,7 +163,7 @@ Use our online message center to let us know what you have.<br><img src="http://
   </entry>
   <entry>
     <title>Coffee: November 3. 2005</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000278.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000278.shtml" />
     <modified>2005-10-30T19:08:36Z</modified>
     <issued>2005-10-30T19:08:36+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.278</id>
@@ -192,7 +192,7 @@ This Show is Available for Immediate Listening Via Our Select Streaming Archives
   </entry>
   <entry>
     <title>WCRM 24/7 Broadcast</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000263.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000263.shtml" />
     <modified>2005-10-08T19:11:26Z</modified>
     <issued>2005-10-08T20:11:26+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.263</id>
@@ -237,7 +237,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
   </entry>
   <entry>
     <title>Select Streaming Archive : October. The Live Show</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000262.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000262.shtml" />
     <modified>2005-10-05T21:30:50Z</modified>
     <issued>2005-10-05T22:30:50+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.262</id>
@@ -263,7 +263,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
   </entry>
   <entry>
     <title>Live: October 6. 2005</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000261.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000261.shtml" />
     <modified>2005-10-03T05:23:27Z</modified>
     <issued>2005-10-03T06:23:27+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.261</id>
@@ -289,7 +289,7 @@ This Show is Available for Immediate Listening Via Our Select Streaming Archives
   </entry>
   <entry>
     <title>Brooklyn Barbecue: July 7. 2005</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000137.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000137.shtml" />
     <modified>2005-07-07T06:49:17Z</modified>
     <issued>2005-07-07T07:49:17+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.137</id>
@@ -322,7 +322,7 @@ Brought to you by The City Reliquary, Co-Producers Dave Herman and George Ferran
   </entry>
   <entry>
     <title>Gardening: June 2. 2005</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/wcrm/archives/000129.shtml" />
+    <link rel="alternate" type="text/html" href="/wcrm/archives/000129.shtml" />
     <modified>2005-06-01T02:04:38Z</modified>
     <issued>2005-06-01T03:04:38+00:00</issued>
     <id>tag:cityreliquary.com,2005:/wcrm//7.129</id>

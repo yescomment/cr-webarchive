@@ -16,12 +16,12 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | News | Sat. July 14 7:30 PERFORMANCE</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/news//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/000440.shtml" title="Dancing of the Giglio" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/000440.shtml" title="Dancing of the Giglio" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/000462.shtml" title="Tribute to Our City 2007" />
+<link rel="next" href="/news/archives/000462.shtml" title="Tribute to Our City 2007" />
 
 
 <script type="text/javascript" language="javascript">
@@ -138,7 +138,7 @@ window.onload=startList;
 <div id="menu">
 
 
-<a href="http://cityreliquary.com/news/archives/cat_.shtml" style="text-transform: uppercase";> HOME</a>
+<a href="/news/archives/cat_.shtml" style="text-transform: uppercase";> HOME</a>
 
 
 <br>

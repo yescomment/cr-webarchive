@@ -6,10 +6,10 @@
 
 <title>Communications: October 2006 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/communications/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/communications/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/communications/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/communications/archives/2005_06.shtml" title="June 2005" />
+<link rel="stylesheet" href="/communications/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/communications/index.rdf" />
+<link rel="start" href="/communications/" title="Home" />
+<link rel="prev" href="/communications/archives/2005_06.shtml" title="June 2005" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/communications/" accesskey="1">Communications</a></h1>
+<h1><a href="/communications/" accesskey="1">Communications</a></h1>
 <span class="description">Get in touch with us here at the Reliquary directly or through electronic communication.</span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/communications/archives/2005_06.shtml">&laquo; June 2005</a> |
+<a href="/communications/archives/2005_06.shtml">&laquo; June 2005</a> |
 
-<a href="http://cityreliquary.com/communications/">Main</a>
+<a href="/communications/">Main</a>
 
 </div>
 
@@ -66,7 +66,7 @@ for more information on the City Reliquary Museum & Civic Organization
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/communications/archives/000401.shtml">09:31 PM</a>
+	Posted by dave at <a href="/communications/archives/000401.shtml">09:31 PM</a>
 	
 	
 </div>

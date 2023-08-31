@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/events//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/events//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {
@@ -49,7 +49,7 @@ window.onload=startList;
 <!-- //content -->
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
 
 <div id="jackie">
 <div class="subhead">
@@ -58,82 +58,82 @@ Special Events | Tribute to Our City 2006
 
  <div id="teddy">
 <a name="000387"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000387.shtml#000387">
+<div class="albumthumb"><a href="/events/archives/000387.shtml#000387">
 <img src="http://cityreliquary.com/events/archives/tribute06/tribute06pix_02-thumb.jpg" height="62" alt="025"></a></div>
 <a name="000388"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000388.shtml#000388">
+<div class="albumthumb"><a href="/events/archives/000388.shtml#000388">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_01-thumb.jpg" height="62" alt="026"></a></div>
 <a name="000386"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000386.shtml#000386">
+<div class="albumthumb"><a href="/events/archives/000386.shtml#000386">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_03-thumb.jpg" height="62" alt="024"></a></div>
 <a name="000385"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000385.shtml#000385">
+<div class="albumthumb"><a href="/events/archives/000385.shtml#000385">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_04-thumb.jpg" height="62" alt="023"></a></div>
 <a name="000384"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000384.shtml#000384">
+<div class="albumthumb"><a href="/events/archives/000384.shtml#000384">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_05-thumb.jpg" height="62" alt="022"></a></div>
 <a name="000383"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000383.shtml#000383">
+<div class="albumthumb"><a href="/events/archives/000383.shtml#000383">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_06-thumb.jpg" height="62" alt="021"></a></div>
 <a name="000382"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000382.shtml#000382">
+<div class="albumthumb"><a href="/events/archives/000382.shtml#000382">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_07-thumb.jpg" height="62" alt="020"></a></div>
 <a name="000381"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000381.shtml#000381">
+<div class="albumthumb"><a href="/events/archives/000381.shtml#000381">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_08-thumb.jpg" height="62" alt="019"></a></div>
 <a name="000380"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000380.shtml#000380">
+<div class="albumthumb"><a href="/events/archives/000380.shtml#000380">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_09-thumb.jpg" height="62" alt="018"></a></div>
 <a name="000379"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000379.shtml#000379">
+<div class="albumthumb"><a href="/events/archives/000379.shtml#000379">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_10-thumb.jpg" height="62" alt="017"></a></div>
 <a name="000378"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000378.shtml#000378">
+<div class="albumthumb"><a href="/events/archives/000378.shtml#000378">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_11-thumb.jpg" height="62" alt="016"></a></div>
 <a name="000377"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000377.shtml#000377">
+<div class="albumthumb"><a href="/events/archives/000377.shtml#000377">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_12-thumb.jpg" height="62" alt="015"></a></div>
 <a name="000376"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000376.shtml#000376">
+<div class="albumthumb"><a href="/events/archives/000376.shtml#000376">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_13-thumb.jpg" height="62" alt="014"></a></div>
 <a name="000375"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000375.shtml#000375">
+<div class="albumthumb"><a href="/events/archives/000375.shtml#000375">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_14-thumb.jpg" height="62" alt="013"></a></div>
 <a name="000374"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000374.shtml#000374">
+<div class="albumthumb"><a href="/events/archives/000374.shtml#000374">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_15-thumb.jpg" height="62" alt="012"></a></div>
 <a name="000373"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000373.shtml#000373">
+<div class="albumthumb"><a href="/events/archives/000373.shtml#000373">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_16-thumb.jpg" height="62" alt="011"></a></div>
 <a name="000372"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000372.shtml#000372">
+<div class="albumthumb"><a href="/events/archives/000372.shtml#000372">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_17-thumb.jpg" height="62" alt="010"></a></div>
 <a name="000371"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000371.shtml#000371">
+<div class="albumthumb"><a href="/events/archives/000371.shtml#000371">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_18-thumb.jpg" height="62" alt="009"></a></div>
 <a name="000370"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000370.shtml#000370">
+<div class="albumthumb"><a href="/events/archives/000370.shtml#000370">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_19-thumb.jpg" height="62" alt="008"></a></div>
 <a name="000369"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000369.shtml#000369">
+<div class="albumthumb"><a href="/events/archives/000369.shtml#000369">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_20-thumb.jpg" height="62" alt="007"></a></div>
 <a name="000368"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000368.shtml#000368">
+<div class="albumthumb"><a href="/events/archives/000368.shtml#000368">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_21-thumb.jpg" height="62" alt="006"></a></div>
 <a name="000367"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000367.shtml#000367">
+<div class="albumthumb"><a href="/events/archives/000367.shtml#000367">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_22-thumb.jpg" height="62" alt="005"></a></div>
 <a name="000366"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000366.shtml#000366">
+<div class="albumthumb"><a href="/events/archives/000366.shtml#000366">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_23-thumb.jpg" height="62" alt="004"></a></div>
 <a name="000365"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000365.shtml#000365">
+<div class="albumthumb"><a href="/events/archives/000365.shtml#000365">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_24-thumb.jpg" height="62" alt="003"></a></div>
 <a name="000364"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000364.shtml#000364">
+<div class="albumthumb"><a href="/events/archives/000364.shtml#000364">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_25-thumb.jpg" height="62" alt="002"></a></div>
 <a name="000363"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000363.shtml#000363">
+<div class="albumthumb"><a href="/events/archives/000363.shtml#000363">
 <img src="http://cityreliquary.org/events/archives/tribute06/tribute06pix_26-thumb.jpg" height="62" alt="001"></a></div>
 
 </div></div>
@@ -159,7 +159,7 @@ Every year the City Reliquary organizes a "Tribute to Our City" in honor of the 
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

@@ -6,12 +6,12 @@
 
 <title>News: October 2007 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/news/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/news/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/2007_09.shtml" title="September 2007" />
+<link rel="stylesheet" href="/news/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rdf" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/2007_09.shtml" title="September 2007" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/2008_01.shtml" title="January 2008" />
+<link rel="next" href="/news/archives/2008_01.shtml" title="January 2008" />
 
 
 <script language="javascript" type="text/javascript">
@@ -33,7 +33,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/news/" accesskey="1">News</a></h1>
+<h1><a href="/news/" accesskey="1">News</a></h1>
 <span class="description">Here is what's new at the Reliquary this month...</span>
 </div>
 
@@ -42,10 +42,10 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/news/archives/2007_09.shtml">&laquo; September 2007</a> |
+<a href="/news/archives/2007_09.shtml">&laquo; September 2007</a> |
 
-<a href="http://cityreliquary.com/news/">Main</a>
-| <a href="http://cityreliquary.com/news/archives/2008_01.shtml">January 2008 &raquo;</a>
+<a href="/news/">Main</a>
+| <a href="/news/archives/2008_01.shtml">January 2008 &raquo;</a>
 
 </div>
 
@@ -68,7 +68,7 @@ Sat. November 10th, 2007<br />
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000465.shtml">07:52 PM</a>
+	Posted by dave at <a href="/news/archives/000465.shtml">07:52 PM</a>
 	
 	
 </div>
@@ -99,7 +99,7 @@ Think you know New York? Get out your binoculars, grab your friends, and head ou
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000464.shtml">09:33 PM</a>
+	Posted by dave at <a href="/news/archives/000464.shtml">09:33 PM</a>
 	
 	
 </div>
@@ -131,7 +131,7 @@ Think you know New York? Get out your binoculars, grab your friends, and head ou
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000463.shtml">09:30 PM</a>
+	Posted by dave at <a href="/news/archives/000463.shtml">09:30 PM</a>
 	
 	
 </div>

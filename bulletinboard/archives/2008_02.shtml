@@ -6,10 +6,10 @@
 
 <title>Bulletin Board: February 2008 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/bulletinboard/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/bulletinboard/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/bulletinboard/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/bulletinboard/archives/2007_11.shtml" title="November 2007" />
+<link rel="stylesheet" href="/bulletinboard/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/bulletinboard/index.rdf" />
+<link rel="start" href="/bulletinboard/" title="Home" />
+<link rel="prev" href="/bulletinboard/archives/2007_11.shtml" title="November 2007" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/bulletinboard/" accesskey="1">Bulletin Board</a></h1>
+<h1><a href="/bulletinboard/" accesskey="1">Bulletin Board</a></h1>
 <span class="description"></span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/bulletinboard/archives/2007_11.shtml">&laquo; November 2007</a> |
+<a href="/bulletinboard/archives/2007_11.shtml">&laquo; November 2007</a> |
 
-<a href="http://cityreliquary.com/bulletinboard/">Main</a>
+<a href="/bulletinboard/">Main</a>
 
 </div>
 
@@ -75,8 +75,8 @@ Click on SUPERSTITIONS<br />
 
 
 <div class="posted">
-	Posted by lulu at <a href="http://cityreliquary.com/bulletinboard/archives/000474.shtml">09:39 PM</a>
-		| <a href="http://cityreliquary.com/cgi-bin/mt/mt-comments.cgi?entry_id=474" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	Posted by lulu at <a href="/bulletinboard/archives/000474.shtml">09:39 PM</a>
+		| <a href="/cgi-bin/mt/mt-comments.cgi?entry_id=474" onclick="OpenComments(this.href); return false">Comments (0)</a>
 	
 	
 </div>

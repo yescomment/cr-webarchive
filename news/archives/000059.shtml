@@ -16,11 +16,11 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | News | Time Out NYC</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/news//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
+<link rel="start" href="/news/" title="Home" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/000060.shtml" title="Forgotten NY" />
+<link rel="next" href="/news/archives/000060.shtml" title="Forgotten NY" />
 
 
 <script type="text/javascript" language="javascript">
@@ -136,9 +136,9 @@ Press Coverage
 
 <div id="menu">
 
- <a href="http://cityreliquary.com/news/archives/000060.shtml">PREVIOUS</a> |
+ <a href="/news/archives/000060.shtml">PREVIOUS</a> |
 
-<a href="http://cityreliquary.com/news/archives/cat_press_coverage.shtml" style="text-transform: uppercase";>Press Coverage HOME</a>
+<a href="/news/archives/cat_press_coverage.shtml" style="text-transform: uppercase";>Press Coverage HOME</a>
 
 
 <br>

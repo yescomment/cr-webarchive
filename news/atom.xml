@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>News</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/" />
+  <link rel="alternate" type="text/html" href="/news/" />
   <modified>2009-05-22T18:25:25Z</modified>
   <tagline>Here is what&apos;s new at the Reliquary this month...</tagline>
   <id>tag:cityreliquary.com,2009:/news//2</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2009, dave</copyright>
   <entry>
     <title>Brooklyn Bridge 126th Birthday Bike Ride</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000500.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000500.shtml" />
     <modified>2009-05-22T18:25:25Z</modified>
     <issued>2009-05-22T19:25:25+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.500</id>
@@ -32,7 +32,7 @@ sponsored by the City Reliquary Museum & Civic Organization<br /><br />
   </entry>
   <entry>
     <title>5/16 The Candela Structures: A New York City History Mystery Opens</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000497.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000497.shtml" />
     <modified>2009-04-23T03:10:09Z</modified>
     <issued>2009-04-23T04:10:09+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.497</id>
@@ -57,7 +57,7 @@ The Candela Structures: A New York City History Mystery will remain on view at t
   </entry>
   <entry>
     <title>5/9 5th Annual Bicycle Fetish Day</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000493.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000493.shtml" />
     <modified>2009-04-23T03:09:19Z</modified>
     <issued>2009-04-23T04:09:19+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.493</id>
@@ -79,7 +79,7 @@ It’s a block party for your bicycle! Come and celebrate at our fifth annual Bicy
   </entry>
   <entry>
     <title>Photos from Museum2Museum Bike Ride: From the City Reliquary to the QMA!</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000494.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000494.shtml" />
     <modified>2009-04-23T03:08:05Z</modified>
     <issued>2009-04-23T04:08:05+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.494</id>
@@ -103,7 +103,7 @@ It’s a block party for your bicycle! Come and celebrate at our fifth annual Bicy
   </entry>
   <entry>
     <title>5/16 Dead Horse Bay Bike Ride</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000495.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000495.shtml" />
     <modified>2009-04-23T03:06:58Z</modified>
     <issued>2009-04-23T04:06:58+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.495</id>
@@ -125,7 +125,7 @@ Join the most civic cyclists in town for a fun, free, leisurely and historical b
   </entry>
   <entry>
     <title>6/6 Civic Bike Ride to the LIC Bike Parade Celebrating the 100th Anniversary of the Queensboro Bridge!</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000496.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000496.shtml" />
     <modified>2009-04-23T03:05:45Z</modified>
     <issued>2009-04-23T04:05:45+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.496</id>
@@ -146,7 +146,7 @@ Join the most civic cyclists in town for a celebratory bike ride over the best b
   </entry>
   <entry>
     <title>Over Spilt Milk Ending on May 10th</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000491.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000491.shtml" />
     <modified>2009-03-09T15:04:18Z</modified>
     <issued>2009-03-09T16:04:18+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.491</id>
@@ -165,7 +165,7 @@ Join the most civic cyclists in town for a celebratory bike ride over the best b
   </entry>
   <entry>
     <title>2/27 BROTHER CAN YOU SPARE SOME RENT?</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000489.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000489.shtml" />
     <modified>2009-02-20T15:19:37Z</modified>
     <issued>2009-02-20T15:19:37+00:00</issued>
     <id>tag:cityreliquary.com,2009:/news//2.489</id>
@@ -185,7 +185,7 @@ Friday February 27th 7-11pm<br><br>Times are tough all around – rollercoaster st
   </entry>
   <entry>
     <title>7/31 First Ever Summer Benefit Party</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000486.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000486.shtml" />
     <modified>2008-07-13T14:57:00Z</modified>
     <issued>2008-07-13T15:57:00+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.486</id>
@@ -221,7 +221,7 @@ BOX 110948, Brooklyn, NY 11211 or by cash or check night-of the party.</p>
   </entry>
   <entry>
     <title>Harbor Tours of the Brooklyn Bridge</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000483.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000483.shtml" />
     <modified>2008-05-19T20:40:16Z</modified>
     <issued>2008-05-19T21:40:16+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.483</id>
@@ -252,7 +252,7 @@ or call 877 NYC LUNY (877 692 5869)<br />
   </entry>
   <entry>
     <title>5/24 Brooklyn Bridge Birthday Bike Ride</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000482.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000482.shtml" />
     <modified>2008-05-19T20:38:57Z</modified>
     <issued>2008-05-19T21:38:57+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.482</id>
@@ -280,7 +280,7 @@ The bicycle ride will depart from the Museum and culminate on the Brooklyn ancho
   </entry>
   <entry>
     <title>5/23 Brooklyn Bridge Art Show Reception</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000481.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000481.shtml" />
     <modified>2008-05-19T20:35:55Z</modified>
     <issued>2008-05-19T21:35:55+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.481</id>
@@ -307,7 +307,7 @@ or weekdays by appointment or chance. Admission: "Pay what you wish."</p>]]>
   </entry>
   <entry>
     <title>Bicycle Fetish Day 2008</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000479.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000479.shtml" />
     <modified>2008-05-07T03:01:30Z</modified>
     <issued>2008-05-07T04:01:30+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.479</id>
@@ -347,7 +347,7 @@ L train to Lorimer St.; G train to Metropolitan Ave.; J, M, Z train to Marcy Ave
   </entry>
   <entry>
     <title>76 Kisses</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000473.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000473.shtml" />
     <modified>2008-02-06T23:31:10Z</modified>
     <issued>2008-02-06T23:31:10+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.473</id>
@@ -404,7 +404,7 @@ Open Sat / Sun 12 – 6 pm<br />
   </entry>
   <entry>
     <title>76 Kisses Opening Reception</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/news/archives/000472.shtml" />
+    <link rel="alternate" type="text/html" href="/news/archives/000472.shtml" />
     <modified>2008-01-29T00:07:10Z</modified>
     <issued>2008-01-29T00:07:10+00:00</issued>
     <id>tag:cityreliquary.com,2008:/news//2.472</id>

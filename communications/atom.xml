@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>Communications</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/" />
+  <link rel="alternate" type="text/html" href="/communications/" />
   <modified>2006-10-26T20:31:43Z</modified>
   <tagline>Get in touch with us here at the Reliquary directly or through electronic communication.</tagline>
   <id>tag:cityreliquary.com,2009:/communications/3</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2006, dave</copyright>
   <entry>
     <title>CR Museum Telephone Hotline</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000401.shtml" />
+    <link rel="alternate" type="text/html" href="/communications/archives/000401.shtml" />
     <modified>2006-10-26T20:31:43Z</modified>
     <issued>2006-10-26T21:31:43+00:00</issued>
     <id>tag:cityreliquary.com,2006:/communications/3.401</id>
@@ -30,7 +30,7 @@ for more information on the City Reliquary Museum & Civic Organization]]>
   </entry>
   <entry>
     <title>Sending Us A Package</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000131.shtml" />
+    <link rel="alternate" type="text/html" href="/communications/archives/000131.shtml" />
     <modified>2005-06-07T00:11:52Z</modified>
     <issued>2005-06-07T01:11:52+00:00</issued>
     <id>tag:cityreliquary.com,2005:/communications/3.131</id>
@@ -54,7 +54,7 @@ Brooklyn NY 11211<br>
   </entry>
   <entry>
     <title>Joining Our Mailing List</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000056.shtml" />
+    <link rel="alternate" type="text/html" href="/communications/archives/000056.shtml" />
     <modified>2005-04-03T00:20:21Z</modified>
     <issued>2005-04-03T00:20:21+00:00</issued>
     <id>tag:cityreliquary.com,2005:/communications/3.56</id>
@@ -85,7 +85,7 @@ Email: <br>
   </entry>
   <entry>
     <title>Sending Us A Message</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000055.shtml" />
+    <link rel="alternate" type="text/html" href="/communications/archives/000055.shtml" />
     <modified>2005-04-02T23:59:11Z</modified>
     <issued>2005-04-02T23:59:11+00:00</issued>
     <id>tag:cityreliquary.com,2005:/communications/3.55</id>
@@ -120,7 +120,7 @@ Comments: <br>
   </entry>
   <entry>
     <title>Message Received</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000058.shtml" />
+    <link rel="alternate" type="text/html" href="/communications/archives/000058.shtml" />
     <modified>2001-04-02T23:34:30Z</modified>
     <issued>2001-04-03T00:34:30+00:00</issued>
     <id>tag:cityreliquary.com,2001:/communications/3.58</id>
@@ -139,7 +139,7 @@ Comments: <br>
   </entry>
   <entry>
     <title>Mailing List Success</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communications/archives/000057.shtml" />
+    <link rel="alternate" type="text/html" href="/communications/archives/000057.shtml" />
     <modified>2001-04-02T23:33:46Z</modified>
     <issued>2001-04-03T00:33:46+00:00</issued>
     <id>tag:cityreliquary.com,2001:/communications/3.57</id>

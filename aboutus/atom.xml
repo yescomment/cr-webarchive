@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>About Us</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/aboutus/" />
+  <link rel="alternate" type="text/html" href="/aboutus/" />
   <modified>2007-07-03T21:52:24Z</modified>
   <tagline>Learn more about the City Reliquary; our history and our goals.</tagline>
   <id>tag:cityreliquary.com,2009:/aboutus/4</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2007, dave</copyright>
   <entry>
     <title>2007-2008 Board of Directors</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/aboutus/archives/000439.shtml" />
+    <link rel="alternate" type="text/html" href="/aboutus/archives/000439.shtml" />
     <modified>2007-07-03T21:52:24Z</modified>
     <issued>2007-07-03T22:52:24+00:00</issued>
     <id>tag:cityreliquary.com,2007:/aboutus/4.439</id>
@@ -101,7 +101,7 @@ Hi'ilei is also new to the City Reliquary--and New York.  She serves on the Even
   </entry>
   <entry>
     <title>Visit the Museum</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/aboutus/archives/000409.shtml" />
+    <link rel="alternate" type="text/html" href="/aboutus/archives/000409.shtml" />
     <modified>2006-11-01T00:59:58Z</modified>
     <issued>2006-11-01T00:59:58+00:00</issued>
     <id>tag:cityreliquary.com,2006:/aboutus/4.409</id>
@@ -133,7 +133,7 @@ Brooklyn, NY 11211<br>
   </entry>
   <entry>
     <title>The City Reliquary</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/aboutus/archives/000062.shtml" />
+    <link rel="alternate" type="text/html" href="/aboutus/archives/000062.shtml" />
     <modified>2005-04-09T23:03:25Z</modified>
     <issued>2005-04-10T00:03:25+00:00</issued>
     <id>tag:cityreliquary.com,2005:/aboutus/4.62</id>
@@ -165,7 +165,7 @@ Our original location on the corner of Havemeyer &amp; Grand Sts. in beautiful W
   </entry>
   <entry>
     <title>A Brief Synopsis of the City Reliquary&apos;s Original Location</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/aboutus/archives/000061.shtml" />
+    <link rel="alternate" type="text/html" href="/aboutus/archives/000061.shtml" />
     <modified>2005-04-09T22:24:18Z</modified>
     <issued>2005-04-09T23:24:18+00:00</issued>
     <id>tag:cityreliquary.com,2005:/aboutus/4.61</id>
@@ -200,7 +200,7 @@ neighborhood-related political information, and in general act as "the water coo
   </entry>
   <entry>
     <title>2005-2006 Board of Directors</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/aboutus/archives/000132.shtml" />
+    <link rel="alternate" type="text/html" href="/aboutus/archives/000132.shtml" />
     <modified>2004-06-07T00:31:54Z</modified>
     <issued>2004-06-07T01:31:54+00:00</issued>
     <id>tag:cityreliquary.com,2004:/aboutus/4.132</id>

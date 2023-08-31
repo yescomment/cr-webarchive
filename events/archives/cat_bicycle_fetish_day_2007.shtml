@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/events//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/events//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {
@@ -49,7 +49,7 @@ window.onload=startList;
 <!-- //content -->
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
 
 <div id="jackie">
 <div class="subhead">
@@ -58,37 +58,37 @@ Special Events | Bicycle Fetish Day 2007
 
  <div id="teddy">
 <a name="000460"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000460.shtml#000460">
+<div class="albumthumb"><a href="/events/archives/000460.shtml#000460">
 <img src="http://cityreliquary.com/events/archives/bikefetish07/bf02-thumb.jpg" height="62" alt="10"></a></div>
 <a name="000459"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000459.shtml#000459">
+<div class="albumthumb"><a href="/events/archives/000459.shtml#000459">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize6-thumb.jpg" height="62" alt="11"></a></div>
 <a name="000457"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000457.shtml#000457">
+<div class="albumthumb"><a href="/events/archives/000457.shtml#000457">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize8-thumb.jpg" height="62" alt="09"></a></div>
 <a name="000456"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000456.shtml#000456">
+<div class="albumthumb"><a href="/events/archives/000456.shtml#000456">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize1-thumb.jpg" height="62" alt="08"></a></div>
 <a name="000455"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000455.shtml#000455">
+<div class="albumthumb"><a href="/events/archives/000455.shtml#000455">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize5-thumb.jpg" height="62" alt="07"></a></div>
 <a name="000454"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000454.shtml#000454">
+<div class="albumthumb"><a href="/events/archives/000454.shtml#000454">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize4-thumb.jpg" height="62" alt="06"></a></div>
 <a name="000453"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000453.shtml#000453">
+<div class="albumthumb"><a href="/events/archives/000453.shtml#000453">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize3-thumb.jpg" height="62" alt="05"></a></div>
 <a name="000452"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000452.shtml#000452">
+<div class="albumthumb"><a href="/events/archives/000452.shtml#000452">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize2-thumb.jpg" height="62" alt="04"></a></div>
 <a name="000446"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000446.shtml#000446">
+<div class="albumthumb"><a href="/events/archives/000446.shtml#000446">
 <img src="http://cityreliquary.org/events/archives/bikefetish07/prize9-thumb.jpg" height="62" alt="03"></a></div>
 <a name="000445"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000445.shtml#000445">
+<div class="albumthumb"><a href="/events/archives/000445.shtml#000445">
 <img src="http://cityreliquary.org/events/archives/nikburgerflip-thumb.jpg" height="62" alt="02"></a></div>
 <a name="000443"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000443.shtml#000443">
+<div class="albumthumb"><a href="/events/archives/000443.shtml#000443">
 <img src="http://cityreliquary.org/events/archives/bc_wheel1-thumb.jpg" height="62" alt="01"></a></div>
 
 </div></div>
@@ -114,7 +114,7 @@ Special Events | Bicycle Fetish Day 2007
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

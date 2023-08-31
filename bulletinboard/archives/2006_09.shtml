@@ -6,12 +6,12 @@
 
 <title>Bulletin Board: September 2006 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/bulletinboard/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/bulletinboard/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/bulletinboard/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/bulletinboard/archives/2006_08.shtml" title="August 2006" />
+<link rel="stylesheet" href="/bulletinboard/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/bulletinboard/index.rdf" />
+<link rel="start" href="/bulletinboard/" title="Home" />
+<link rel="prev" href="/bulletinboard/archives/2006_08.shtml" title="August 2006" />
 
-<link rel="next" href="http://cityreliquary.com/bulletinboard/archives/2006_10.shtml" title="October 2006" />
+<link rel="next" href="/bulletinboard/archives/2006_10.shtml" title="October 2006" />
 
 
 <script language="javascript" type="text/javascript">
@@ -33,7 +33,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/bulletinboard/" accesskey="1">Bulletin Board</a></h1>
+<h1><a href="/bulletinboard/" accesskey="1">Bulletin Board</a></h1>
 <span class="description"></span>
 </div>
 
@@ -42,10 +42,10 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/bulletinboard/archives/2006_08.shtml">&laquo; August 2006</a> |
+<a href="/bulletinboard/archives/2006_08.shtml">&laquo; August 2006</a> |
 
-<a href="http://cityreliquary.com/bulletinboard/">Main</a>
-| <a href="http://cityreliquary.com/bulletinboard/archives/2006_10.shtml">October 2006 &raquo;</a>
+<a href="/bulletinboard/">Main</a>
+| <a href="/bulletinboard/archives/2006_10.shtml">October 2006 &raquo;</a>
 
 </div>
 
@@ -69,8 +69,8 @@ If you are a MySpace'r too, invite us to become your "friend" and you won't be s
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/bulletinboard/archives/000362.shtml">07:31 AM</a>
-		| <a href="http://cityreliquary.com/cgi-bin/mt/mt-comments.cgi?entry_id=362" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	Posted by dave at <a href="/bulletinboard/archives/000362.shtml">07:31 AM</a>
+		| <a href="/cgi-bin/mt/mt-comments.cgi?entry_id=362" onclick="OpenComments(this.href); return false">Comments (0)</a>
 	
 	
 </div>
@@ -99,8 +99,8 @@ and again at 1323 hrs on August 28th, 2006 for our fallen brothers,<br />
 
 
 <div class="posted">
-	Posted by silvermonk at <a href="http://cityreliquary.com/bulletinboard/archives/000359.shtml">02:05 AM</a>
-		| <a href="http://cityreliquary.com/cgi-bin/mt/mt-comments.cgi?entry_id=359" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	Posted by silvermonk at <a href="/bulletinboard/archives/000359.shtml">02:05 AM</a>
+		| <a href="/cgi-bin/mt/mt-comments.cgi?entry_id=359" onclick="OpenComments(this.href); return false">Comments (0)</a>
 	
 	
 </div>

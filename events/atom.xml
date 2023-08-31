@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>Special Events</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/" />
+  <link rel="alternate" type="text/html" href="/events/" />
   <modified>2008-01-29T00:05:07Z</modified>
   <tagline></tagline>
   <id>tag:cityreliquary.com,2009:/events//1</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2008, dave</copyright>
   <entry>
     <title>76 Kisses Opening Reception</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000471.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000471.shtml" />
     <modified>2008-01-29T00:05:07Z</modified>
     <issued>2008-01-29T00:05:07+00:00</issued>
     <id>tag:cityreliquary.com,2008:/events//1.471</id>
@@ -32,7 +32,7 @@ The City Reliquary is open Saturdays and Sundays from 12 pm to 6 pm and by appoi
   </entry>
   <entry>
     <title>Tribute to Our City 2007</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000461.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000461.shtml" />
     <modified>2007-09-01T19:14:42Z</modified>
     <issued>2007-09-01T20:14:42+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.461</id>
@@ -53,7 +53,7 @@ The fourth annual
   </entry>
   <entry>
     <title>10</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000460.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000460.shtml" />
     <modified>2007-07-16T01:45:56Z</modified>
     <issued>2007-07-16T02:45:56+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.460</id>
@@ -72,7 +72,7 @@ The fourth annual
   </entry>
   <entry>
     <title>11</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000459.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000459.shtml" />
     <modified>2007-07-16T01:44:21Z</modified>
     <issued>2007-07-16T02:44:21+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.459</id>
@@ -91,7 +91,7 @@ The fourth annual
   </entry>
   <entry>
     <title>09</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000457.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000457.shtml" />
     <modified>2007-07-16T01:40:11Z</modified>
     <issued>2007-07-16T02:40:11+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.457</id>
@@ -110,7 +110,7 @@ The fourth annual
   </entry>
   <entry>
     <title>08</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000456.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000456.shtml" />
     <modified>2007-07-16T01:38:27Z</modified>
     <issued>2007-07-16T02:38:27+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.456</id>
@@ -129,7 +129,7 @@ The fourth annual
   </entry>
   <entry>
     <title>07</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000455.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000455.shtml" />
     <modified>2007-07-16T01:37:08Z</modified>
     <issued>2007-07-16T02:37:08+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.455</id>
@@ -148,7 +148,7 @@ The fourth annual
   </entry>
   <entry>
     <title>06</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000454.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000454.shtml" />
     <modified>2007-07-16T01:35:56Z</modified>
     <issued>2007-07-16T02:35:56+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.454</id>
@@ -167,7 +167,7 @@ The fourth annual
   </entry>
   <entry>
     <title>05</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000453.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000453.shtml" />
     <modified>2007-07-16T01:33:35Z</modified>
     <issued>2007-07-16T02:33:35+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.453</id>
@@ -186,7 +186,7 @@ The fourth annual
   </entry>
   <entry>
     <title>04</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000452.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000452.shtml" />
     <modified>2007-07-16T01:32:07Z</modified>
     <issued>2007-07-16T02:32:07+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.452</id>
@@ -205,7 +205,7 @@ The fourth annual
   </entry>
   <entry>
     <title>03</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000446.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000446.shtml" />
     <modified>2007-07-16T01:09:42Z</modified>
     <issued>2007-07-16T02:09:42+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.446</id>
@@ -224,7 +224,7 @@ The fourth annual
   </entry>
   <entry>
     <title>02</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000445.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000445.shtml" />
     <modified>2007-07-12T21:01:24Z</modified>
     <issued>2007-07-12T22:01:24+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.445</id>
@@ -243,7 +243,7 @@ The fourth annual
   </entry>
   <entry>
     <title>05</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000444.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000444.shtml" />
     <modified>2007-07-12T20:53:20Z</modified>
     <issued>2007-07-12T21:53:20+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.444</id>
@@ -262,7 +262,7 @@ The fourth annual
   </entry>
   <entry>
     <title>01</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000443.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000443.shtml" />
     <modified>2007-07-12T20:38:29Z</modified>
     <issued>2007-07-12T21:38:29+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.443</id>
@@ -281,7 +281,7 @@ The fourth annual
   </entry>
   <entry>
     <title>04</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/events/archives/000438.shtml" />
+    <link rel="alternate" type="text/html" href="/events/archives/000438.shtml" />
     <modified>2007-07-03T21:42:16Z</modified>
     <issued>2007-07-03T22:42:16+00:00</issued>
     <id>tag:cityreliquary.com,2007:/events//1.438</id>

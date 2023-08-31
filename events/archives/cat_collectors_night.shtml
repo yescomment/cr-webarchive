@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/events//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/events//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {
@@ -49,7 +49,7 @@ window.onload=startList;
 <!-- //content -->
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.org/pics/home_butt.gif" /></a></div>
 
 <div id="jackie">
 <div class="subhead">
@@ -58,79 +58,79 @@ Special Events | Collectors Night
 
  <div id="teddy">
 <a name="000027"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000027.shtml#000027">
+<div class="albumthumb"><a href="/events/archives/000027.shtml#000027">
 <img src="http://cityreliquary.com/events/archives/collector/collector_012-thumb.jpg" height="62" alt="Collector Portrait 003"></a></div>
 <a name="000051"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000051.shtml#000051">
+<div class="albumthumb"><a href="/events/archives/000051.shtml#000051">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_011-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000050"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000050.shtml#000050">
+<div class="albumthumb"><a href="/events/archives/000050.shtml#000050">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_010-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000049"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000049.shtml#000049">
+<div class="albumthumb"><a href="/events/archives/000049.shtml#000049">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_009-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000048"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000048.shtml#000048">
+<div class="albumthumb"><a href="/events/archives/000048.shtml#000048">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_008-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000047"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000047.shtml#000047">
+<div class="albumthumb"><a href="/events/archives/000047.shtml#000047">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_007-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000046"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000046.shtml#000046">
+<div class="albumthumb"><a href="/events/archives/000046.shtml#000046">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_005-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000045"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000045.shtml#000045">
+<div class="albumthumb"><a href="/events/archives/000045.shtml#000045">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_004-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000044"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000044.shtml#000044">
+<div class="albumthumb"><a href="/events/archives/000044.shtml#000044">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_003-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000042"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000042.shtml#000042">
+<div class="albumthumb"><a href="/events/archives/000042.shtml#000042">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_002-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000041"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000041.shtml#000041">
+<div class="albumthumb"><a href="/events/archives/000041.shtml#000041">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_001-thumb.jpg" height="62" alt="Collectors Night"></a></div>
 <a name="000043"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000043.shtml#000043">
+<div class="albumthumb"><a href="/events/archives/000043.shtml#000043">
 <img src="http://cityreliquary.org/events/archives/collectors/cnight_012-thumb.jpg" height="62" alt="Collector Portrait 015"></a></div>
 <a name="000039"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000039.shtml#000039">
+<div class="albumthumb"><a href="/events/archives/000039.shtml#000039">
 <img src="http://cityreliquary.org/events/archives/collector/collector_001-thumb.jpg" height="62" alt="Collector Portrait 014"></a></div>
 <a name="000038"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000038.shtml#000038">
+<div class="albumthumb"><a href="/events/archives/000038.shtml#000038">
 <img src="http://cityreliquary.org/events/archives/collector/collector_002-thumb.jpg" height="62" alt="Collector Portrait 013"></a></div>
 <a name="000037"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000037.shtml#000037">
+<div class="albumthumb"><a href="/events/archives/000037.shtml#000037">
 <img src="http://cityreliquary.org/events/archives/collector/collector_003-thumb.jpg" height="62" alt="Collector Portrait 012"></a></div>
 <a name="000036"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000036.shtml#000036">
+<div class="albumthumb"><a href="/events/archives/000036.shtml#000036">
 <img src="http://cityreliquary.org/events/archives/collector/collector_004-thumb.jpg" height="62" alt="Collector Portrait 011"></a></div>
 <a name="000035"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000035.shtml#000035">
+<div class="albumthumb"><a href="/events/archives/000035.shtml#000035">
 <img src="http://cityreliquary.org/events/archives/collector/collector_005-thumb.jpg" height="62" alt="Collector Portrait 010"></a></div>
 <a name="000034"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000034.shtml#000034">
+<div class="albumthumb"><a href="/events/archives/000034.shtml#000034">
 <img src="http://cityreliquary.org/events/archives/collector/collector_006-thumb.jpg" height="62" alt="Collector Portrait 009"></a></div>
 <a name="000032"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000032.shtml#000032">
+<div class="albumthumb"><a href="/events/archives/000032.shtml#000032">
 <img src="http://cityreliquary.org/events/archives/collector/collector_007-thumb.jpg" height="62" alt="Collector Portrait 008"></a></div>
 <a name="000031"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000031.shtml#000031">
+<div class="albumthumb"><a href="/events/archives/000031.shtml#000031">
 <img src="http://cityreliquary.org/events/archives/collector/collector_008-thumb.jpg" height="62" alt="Collector Portrait 007"></a></div>
 <a name="000030"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000030.shtml#000030">
+<div class="albumthumb"><a href="/events/archives/000030.shtml#000030">
 <img src="http://cityreliquary.org/events/archives/collector/collector_009-thumb.jpg" height="62" alt="Collector Portrait 006"></a></div>
 <a name="000029"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000029.shtml#000029">
+<div class="albumthumb"><a href="/events/archives/000029.shtml#000029">
 <img src="http://cityreliquary.org/events/archives/collector/collector_010-thumb.jpg" height="62" alt="Collector Portrait 005"></a></div>
 <a name="000028"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000028.shtml#000028">
+<div class="albumthumb"><a href="/events/archives/000028.shtml#000028">
 <img src="http://cityreliquary.org/events/archives/collector/collector_011-thumb.jpg" height="62" alt="Collector Portrait 004"></a></div>
 <a name="000026"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000026.shtml#000026">
+<div class="albumthumb"><a href="/events/archives/000026.shtml#000026">
 <img src="http://cityreliquary.org/events/archives/collector/collector_013-thumb.jpg" height="62" alt="Collector Portrait 002"></a></div>
 <a name="000025"></a>
-<div class="albumthumb"><a href="http://cityreliquary.com/events/archives/000025.shtml#000025">
+<div class="albumthumb"><a href="/events/archives/000025.shtml#000025">
 <img src="http://cityreliquary.org/events/archives/collectors/collector_014-thumb.jpg" height="62" alt="Collector Portrait 001"></a></div>
 
 </div></div>
@@ -158,7 +158,7 @@ See images from this event that include portraits of each collector on display.<
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

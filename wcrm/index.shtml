@@ -17,7 +17,7 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/wcrm//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/wcrm//styles-nav.css" />
 <script type="text/javascript">
 startList = function() {
 	if (document.all&&document.getElementById) {
@@ -50,7 +50,7 @@ window.onload=startList;
 <!-- //content -->
  
 <div id="bann"><img src="http://cityreliquary.com/pics/head_back.gif" /></div>
-<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="http://cityreliquary.com"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
+<div id="home-butt" style="position:absolute; left:0px; top:0px;"><a href="/"><img src="http://cityreliquary.com/pics/home_butt.gif" /></a></div>
 
 <div id="bobby"> 
 <div class="subhead">
@@ -58,10 +58,10 @@ WCRM Radio
 </div>
 
 <div id="bobby3"> 
-<a href="http://www.cityreliquary.com/wcrm/archives/cat_broadcast.shtml"><img src="http://cityreliquary.com/pics/nav_list.gif" /></a>
-<a href="http://cityreliquary.com/wcrm/schedule/"><img src="http://cityreliquary.com/pics/nav_sched.gif" /></a>
-<a href="http://www.cityreliquary.com/wcrm/archives/cat_archive.shtml"><img src="http://cityreliquary.com/pics/nav_downs.gif" /></a>
-<a href="http://www.cityreliquary.com/wcrm/archives/cat_submissions.shtml"><img src="http://cityreliquary.com/pics/nav_shows.gif" /></a>
+<a href="/wcrm/archives/cat_broadcast.shtml"><img src="http://cityreliquary.com/pics/nav_list.gif" /></a>
+<a href="/wcrm/schedule/"><img src="http://cityreliquary.com/pics/nav_sched.gif" /></a>
+<a href="/wcrm/archives/cat_archive.shtml"><img src="http://cityreliquary.com/pics/nav_downs.gif" /></a>
+<a href="/wcrm/archives/cat_submissions.shtml"><img src="http://cityreliquary.com/pics/nav_shows.gif" /></a>
 </div>
 
 <br>
@@ -354,7 +354,7 @@ The musical guest for the evening will be The Miami Ice Machine, featuring NYC P
 <div id="danzig2">
 <div id="bobby2">
 <div class="foott">
-<a href="http://cityreliquary.com">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
+<a href="/">RETURN HOME</a>  &nbsp;&nbsp;  |   &nbsp;&nbsp; The City Reliquary © Copyright 2005. All Rights Reserved.  &nbsp;&nbsp;   | &nbsp;&nbsp;    Site Design by 
 <a href="http://www.mistermachine.com" target"_blank">Mister Machine Design Co.</a>
 </div>
 </div>

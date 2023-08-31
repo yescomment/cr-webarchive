@@ -6,12 +6,12 @@
 
 <title>About Us: April 2005 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/aboutus/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/aboutus/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/aboutus/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/aboutus/archives/2004_06.shtml" title="June 2004" />
+<link rel="stylesheet" href="/aboutus/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/aboutus/index.rdf" />
+<link rel="start" href="/aboutus/" title="Home" />
+<link rel="prev" href="/aboutus/archives/2004_06.shtml" title="June 2004" />
 
-<link rel="next" href="http://cityreliquary.com/aboutus/archives/2006_11.shtml" title="November 2006" />
+<link rel="next" href="/aboutus/archives/2006_11.shtml" title="November 2006" />
 
 
 <script language="javascript" type="text/javascript">
@@ -33,7 +33,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/aboutus/" accesskey="1">About Us</a></h1>
+<h1><a href="/aboutus/" accesskey="1">About Us</a></h1>
 <span class="description">Learn more about the City Reliquary; our history and our goals.</span>
 </div>
 
@@ -42,10 +42,10 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/aboutus/archives/2004_06.shtml">&laquo; June 2004</a> |
+<a href="/aboutus/archives/2004_06.shtml">&laquo; June 2004</a> |
 
-<a href="http://cityreliquary.com/aboutus/">Main</a>
-| <a href="http://cityreliquary.com/aboutus/archives/2006_11.shtml">November 2006 &raquo;</a>
+<a href="/aboutus/">Main</a>
+| <a href="/aboutus/archives/2006_11.shtml">November 2006 &raquo;</a>
 
 </div>
 
@@ -76,7 +76,7 @@ function OpenTrackback (c) {
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/aboutus/archives/000062.shtml">12:03 AM</a>
+	Posted by dave at <a href="/aboutus/archives/000062.shtml">12:03 AM</a>
 	
 	
 </div>
@@ -110,7 +110,7 @@ neighborhood-related political information, and in general act as "the water coo
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/aboutus/archives/000061.shtml">11:24 PM</a>
+	Posted by dave at <a href="/aboutus/archives/000061.shtml">11:24 PM</a>
 	
 	
 </div>

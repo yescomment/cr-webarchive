@@ -16,11 +16,11 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | Civic Riders | The Bronx is Up and the Battery's Down</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/civicriders//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/civicriders//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/civicriders/" title="Home" />
+<link rel="start" href="/civicriders/" title="Home" />
 
-<link rel="next" href="http://cityreliquary.com/civicriders/archives/000068.shtml" title="Brooklyn Bridge Birthday Bike Ride" />
+<link rel="next" href="/civicriders/archives/000068.shtml" title="Brooklyn Bridge Birthday Bike Ride" />
 
 
 <script type="text/javascript" language="javascript">
@@ -166,8 +166,8 @@ window.onload=startList;
 
 <div class="subhead">
 Events | 
-  <a href="http://cityreliquary.com/civicriders/">HOME</a>
-    | <a href="http://cityreliquary.com/civicriders/archives/000068.shtml">NEXT</a>
+  <a href="/civicriders/">HOME</a>
+    | <a href="/civicriders/archives/000068.shtml">NEXT</a>
    | </div> 
 
 

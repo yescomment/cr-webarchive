@@ -64,7 +64,7 @@
 <item rdf:about="http://cityreliquary.com/aboutus/archives/000409.shtml">
 <title>Visit the Museum</title>
 <link>http://cityreliquary.com/aboutus/archives/000409.shtml</link>
-<description><![CDATA[<a href="http://cityreliquary.com/aboutus/archives/bvisit/reliquary2.shtml" onclick="window.open('http://cityreliquary.com/aboutus/archives/bvisit/reliquary2.shtml','popup','width=400,height=300,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/bvisit/reliquary2-thumb.jpg" width="180" height="135" border="0" /></a>
+<description><![CDATA[<a href="/aboutus/archives/bvisit/reliquary2.shtml" onclick="window.open('http://cityreliquary.com/aboutus/archives/bvisit/reliquary2.shtml','popup','width=400,height=300,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/bvisit/reliquary2-thumb.jpg" width="180" height="135" border="0" /></a>
 <br>A Sidewalk View of The Reliquary]]></description>
 <dc:subject>Visit</dc:subject>
 <dc:creator>archival</dc:creator>
@@ -74,7 +74,7 @@
 <title>The City Reliquary</title>
 <link>http://cityreliquary.com/aboutus/archives/000062.shtml</link>
 <description><![CDATA[click to enlarge<br><br>
-<a href="http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street.html" onclick="window.open('http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street.html','popup','width=520,height=343,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street-thumb.jpg" width="185" border="0" /></a>
+<a href="/aboutus/archives/cr_view_aboutus/garden street.html" onclick="window.open('http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street.html','popup','width=520,height=343,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/cr_view_aboutus/garden street-thumb.jpg" width="185" border="0" /></a>
 <br><br>
 <h4>Our original location on the corner of Havemeyer & Grand Sts. in beautiful Williamsburgh, Brooklyn N.Y.C.</h4><br>]]></description>
 <dc:subject>Overview</dc:subject>
@@ -84,7 +84,7 @@
 <item rdf:about="http://cityreliquary.com/aboutus/archives/000061.shtml">
 <title>A Brief Synopsis of the City Reliquary&apos;s Original Location</title>
 <link>http://cityreliquary.com/aboutus/archives/000061.shtml</link>
-<description><![CDATA[<a href="http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis.html" onclick="window.open('http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis.html','popup','width=520,height=343,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis-thumb.jpg" width="185" border="0" /></a>
+<description><![CDATA[<a href="/aboutus/archives/about_us/geo_synopsis.html" onclick="window.open('http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis.html','popup','width=520,height=343,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://cityreliquary.com/aboutus/archives/about_us/geo_synopsis-thumb.jpg" width="185" border="0" /></a>
 <br><br>
 <h4>VP of Operations George Ferrandi with her Pez Collection.
 <br> Write her a letter to george@cityreliquary.com</h4>]]></description>

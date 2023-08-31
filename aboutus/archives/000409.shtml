@@ -16,12 +16,12 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | About Us | Visit the Museum</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/aboutus//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/aboutus//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/aboutus/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/aboutus/archives/000062.shtml" title="The City Reliquary" />
+<link rel="start" href="/aboutus/" title="Home" />
+<link rel="prev" href="/aboutus/archives/000062.shtml" title="The City Reliquary" />
 
-<link rel="next" href="http://cityreliquary.com/aboutus/archives/000439.shtml" title="2007-2008 Board of Directors" />
+<link rel="next" href="/aboutus/archives/000439.shtml" title="2007-2008 Board of Directors" />
 
 
 <script type="text/javascript" language="javascript">
@@ -166,10 +166,10 @@ window.onload=startList;
 
 
 <h2>
-Visit |   <a href="http://cityreliquary.com/aboutus/archives/000062.shtml">PREVIOUS</a> | 
+Visit |   <a href="/aboutus/archives/000062.shtml">PREVIOUS</a> | 
   
-  <a href="http://cityreliquary.com/aboutus/">HOME</a>
-    | <a href="http://cityreliquary.com/aboutus/archives/000439.shtml">NEXT</a>
+  <a href="/aboutus/">HOME</a>
+    | <a href="/aboutus/archives/000439.shtml">NEXT</a>
    | </h2> 
 
 

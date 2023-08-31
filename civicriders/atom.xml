@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>Civic Riders</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/" />
+  <link rel="alternate" type="text/html" href="/civicriders/" />
   <modified>2006-06-26T01:38:50Z</modified>
   <tagline>Home to all news about the Civic Riders Bicycle Club operating out of the City Reliquary.</tagline>
   <id>tag:cityreliquary.com,2009:/civicriders/9</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2006, dave</copyright>
   <entry>
     <title>Bicyle Fetish Day, July 1st 2006</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000300.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000300.shtml" />
     <modified>2006-06-26T01:38:50Z</modified>
     <issued>2006-06-26T02:38:50+00:00</issued>
     <id>tag:cityreliquary.com,2006:/civicriders/9.300</id>
@@ -37,7 +37,7 @@ An INCREDIBLE DAY AND NIGHT for you and YOUR BIKE!!! ]]>
   </entry>
   <entry>
     <title>Contact Us... CIVICRIDERS@cityreliquary.org</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000071.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000071.shtml" />
     <modified>2005-04-21T02:24:25Z</modified>
     <issued>2005-04-21T03:24:25+00:00</issued>
     <id>tag:cityreliquary.com,2005:/civicriders/9.71</id>
@@ -56,7 +56,7 @@ An INCREDIBLE DAY AND NIGHT for you and YOUR BIKE!!! ]]>
   </entry>
   <entry>
     <title>Bicycle Fetish Day - July 1, 2006</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000066.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000066.shtml" />
     <modified>2005-04-20T02:59:40Z</modified>
     <issued>2005-04-20T03:59:40+00:00</issued>
     <id>tag:cityreliquary.com,2005:/civicriders/9.66</id>
@@ -69,7 +69,7 @@ An INCREDIBLE DAY AND NIGHT for you and YOUR BIKE!!! ]]>
     </author>
     <dc:subject>Events</dc:subject>
     <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://cityreliquary.com/civicriders/">
-      <![CDATA[This year we will be hosting the second annual New York City  Bicycle Fetish Day will be held July 1, 2006  at the new City Reliquary!  This event is open to everyone who wants to come show off their ride. Local vendors will also set up booths offering bicycle repair, massages, food, contests and prizes. Check out the <a href="http://cityreliquary.com/events/archives/cat_bicycle_fetish_day.html">photos from last year</a> to get inspired.
+      <![CDATA[This year we will be hosting the second annual New York City  Bicycle Fetish Day will be held July 1, 2006  at the new City Reliquary!  This event is open to everyone who wants to come show off their ride. Local vendors will also set up booths offering bicycle repair, massages, food, contests and prizes. Check out the <a href="/events/archives/cat_bicycle_fetish_day.html">photos from last year</a> to get inspired.
 
 Start shining your hub!
 <blockquote>
@@ -82,7 +82,7 @@ Havemeyer between Grand & Metropolitan</blockquote>]]>
   </entry>
   <entry>
     <title>Bicycle Fetish Day 2006 Vendors&apos; Form</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000070.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000070.shtml" />
     <modified>2005-04-20T01:52:15Z</modified>
     <issued>2005-04-20T02:52:15+00:00</issued>
     <id>tag:cityreliquary.com,2005:/civicriders/9.70</id>
@@ -106,7 +106,7 @@ We are looking for you to participate in Bicycle Fetish Day 2006.  For more info
   </entry>
   <entry>
     <title>GET WELL SOON NOAH!!  WE MISS YOU!!</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000064.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000064.shtml" />
     <modified>2005-04-19T02:38:53Z</modified>
     <issued>2005-04-19T03:38:53+00:00</issued>
     <id>tag:cityreliquary.com,2005:/civicriders/9.64</id>
@@ -132,7 +132,7 @@ http://www.nytimes.com/2005/04/10/nyregion/thecity/10noah.html
   </entry>
   <entry>
     <title>Brooklyn Bridge Birthday Bike Ride</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000068.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000068.shtml" />
     <modified>2005-04-18T03:14:44Z</modified>
     <issued>2005-04-18T04:14:44+00:00</issued>
     <id>tag:cityreliquary.com,2005:/civicriders/9.68</id>
@@ -157,7 +157,7 @@ http://www.nytimes.com/2005/04/10/nyregion/thecity/10noah.html
   </entry>
   <entry>
     <title>The Bronx is Up and the Battery&apos;s Down</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/civicriders/archives/000069.shtml" />
+    <link rel="alternate" type="text/html" href="/civicriders/archives/000069.shtml" />
     <modified>2005-04-17T03:27:28Z</modified>
     <issued>2005-04-17T04:27:28+00:00</issued>
     <id>tag:cityreliquary.com,2005:/civicriders/9.69</id>

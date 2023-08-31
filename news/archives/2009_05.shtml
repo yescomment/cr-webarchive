@@ -6,10 +6,10 @@
 
 <title>News: May 2009 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/news/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/news/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/2009_04.shtml" title="April 2009" />
+<link rel="stylesheet" href="/news/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rdf" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/2009_04.shtml" title="April 2009" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/news/" accesskey="1">News</a></h1>
+<h1><a href="/news/" accesskey="1">News</a></h1>
 <span class="description">Here is what's new at the Reliquary this month...</span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/news/archives/2009_04.shtml">&laquo; April 2009</a> |
+<a href="/news/archives/2009_04.shtml">&laquo; April 2009</a> |
 
-<a href="http://cityreliquary.com/news/">Main</a>
+<a href="/news/">Main</a>
 
 </div>
 
@@ -68,7 +68,7 @@ sponsored by the City Reliquary Museum & Civic Organization<br /><br />
 
 
 <div class="posted">
-	Posted by dave at <a href="http://cityreliquary.com/news/archives/000500.shtml">07:25 PM</a>
+	Posted by dave at <a href="/news/archives/000500.shtml">07:25 PM</a>
 	
 	
 </div>

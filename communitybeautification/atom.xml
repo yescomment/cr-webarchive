@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>Community Beautification</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/communitybeautification/" />
+  <link rel="alternate" type="text/html" href="/communitybeautification/" />
   <modified>2006-05-18T13:23:04Z</modified>
   <tagline>Find out information on projects relating to Community Beutification.</tagline>
   <id>tag:cityreliquary.com,2009:/communitybeautification/8</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2006, abee</copyright>
   <entry>
     <title>Our Community Beautification Work</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/communitybeautification/archives/000295.html" />
+    <link rel="alternate" type="text/html" href="/communitybeautification/archives/000295.html" />
     <modified>2006-05-18T13:23:04Z</modified>
     <issued>2006-05-18T14:23:04+00:00</issued>
     <id>tag:cityreliquary.com,2006:/communitybeautification/8.295</id>

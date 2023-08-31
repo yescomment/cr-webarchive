@@ -16,12 +16,12 @@
 	<meta name="robots" content="noimageindex" />
 	<meta name="robots" content="nocache,noarchive" />
 <title>The City Reliquary | News | NY1</title>
-<link rel="stylesheet" type="text/css" href="http://cityreliquary.com/news//styles-nav.css" />
+<link rel="stylesheet" type="text/css" href="/news//styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/news/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/news/archives/000348.shtml" title="Open House New York: October 7, 8" />
+<link rel="start" href="/news/" title="Home" />
+<link rel="prev" href="/news/archives/000348.shtml" title="Open House New York: October 7, 8" />
 
-<link rel="next" href="http://cityreliquary.com/news/archives/000395.shtml" title="New York Sun" />
+<link rel="next" href="/news/archives/000395.shtml" title="New York Sun" />
 
 
 <script type="text/javascript" language="javascript">
@@ -137,10 +137,10 @@ Press Coverage
 
 <div id="menu">
 
- <a href="http://cityreliquary.com/news/archives/000395.shtml">PREVIOUS</a> |
+ <a href="/news/archives/000395.shtml">PREVIOUS</a> |
 
-<a href="http://cityreliquary.com/news/archives/cat_press_coverage.shtml" style="text-transform: uppercase";>Press Coverage HOME</a>
-| <a href="http://cityreliquary.com/news/archives/000397.shtml">NEXT</a> 
+<a href="/news/archives/cat_press_coverage.shtml" style="text-transform: uppercase";>Press Coverage HOME</a>
+| <a href="/news/archives/000397.shtml">NEXT</a> 
 
 
 <br>

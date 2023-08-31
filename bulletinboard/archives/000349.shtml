@@ -18,9 +18,9 @@
 <title>The City Reliquary | Bulletin Board | Welcome to the Bulletin Board</title>
 <link rel="stylesheet" type="text/css" href="http://cityreliquary.org/news/styles-nav.css" />
 
-<link rel="start" href="http://cityreliquary.com/bulletinboard/" title="Home" />
+<link rel="start" href="/bulletinboard/" title="Home" />
 
-<link rel="next" href="http://cityreliquary.com/bulletinboard/archives/000350.shtml" title="Tribes Gallery Opening" />
+<link rel="next" href="/bulletinboard/archives/000350.shtml" title="Tribes Gallery Opening" />
 
 
 <script type="text/javascript" language="javascript">
@@ -137,7 +137,7 @@ Bulletin Board
 <div id="menu">
 
 
-<a href="http://cityreliquary.com/bulletinboard/archives/cat_.shtml">NEWS HOME</a>
+<a href="/bulletinboard/archives/cat_.shtml">NEWS HOME</a>
 
 
 <br>

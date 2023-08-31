@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>Friends</title>
-  <link rel="alternate" type="text/html" href="http://cityreliquary.com/friends/" />
+  <link rel="alternate" type="text/html" href="/friends/" />
   <modified>2006-06-07T02:23:20Z</modified>
   <tagline>Links to some our neighbors and friends of the reliquary. To become a Friend of the Reliquary contact us today.</tagline>
   <id>tag:cityreliquary.com,2009:/friends/6</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2006, archival</copyright>
   <entry>
     <title>Links from the Neighborhood</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/friends/archives/000133.shtml" />
+    <link rel="alternate" type="text/html" href="/friends/archives/000133.shtml" />
     <modified>2006-06-07T02:23:20Z</modified>
     <issued>2006-06-07T03:23:20+00:00</issued>
     <id>tag:cityreliquary.com,2006:/friends/6.133</id>
@@ -57,7 +57,7 @@ http://www.brooklynsaints.info<br> And you can see samples of her work as a fine
   </entry>
   <entry>
     <title>Thanks for Your Membership</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/friends/archives/000408.shtml" />
+    <link rel="alternate" type="text/html" href="/friends/archives/000408.shtml" />
     <modified>2005-10-31T22:57:14Z</modified>
     <issued>2005-10-31T22:57:14+00:00</issued>
     <id>tag:cityreliquary.com,2005:/friends/6.408</id>
@@ -88,7 +88,7 @@ http://www.brooklynsaints.info<br> And you can see samples of her work as a fine
   </entry>
   <entry>
     <title>Become A Member</title>
-    <link rel="alternate" type="text/html" href="http://cityreliquary.com/friends/archives/000407.shtml" />
+    <link rel="alternate" type="text/html" href="/friends/archives/000407.shtml" />
     <modified>2005-10-31T17:24:15Z</modified>
     <issued>2005-10-31T17:24:15+00:00</issued>
     <id>tag:cityreliquary.com,2005:/friends/6.407</id>

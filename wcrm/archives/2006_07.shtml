@@ -6,10 +6,10 @@
 
 <title>WCRM Radio: July 2006 Archives</title>
 
-<link rel="stylesheet" href="http://cityreliquary.com/wcrm/styles-site.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cityreliquary.com/wcrm/index.rdf" />
-<link rel="start" href="http://cityreliquary.com/wcrm/" title="Home" />
-<link rel="prev" href="http://cityreliquary.com/wcrm/archives/2005_11.shtml" title="November 2005" />
+<link rel="stylesheet" href="/wcrm/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/wcrm/index.rdf" />
+<link rel="start" href="/wcrm/" title="Home" />
+<link rel="prev" href="/wcrm/archives/2005_11.shtml" title="November 2005" />
 
 
 
@@ -32,7 +32,7 @@ function OpenTrackback (c) {
 <body>	
 
 <div id="banner">
-<h1><a href="http://cityreliquary.com/wcrm/" accesskey="1">WCRM Radio</a></h1>
+<h1><a href="/wcrm/" accesskey="1">WCRM Radio</a></h1>
 <span class="description">Now every first Thursday of the month of FREE 103.</span>
 </div>
 
@@ -41,9 +41,9 @@ function OpenTrackback (c) {
 <div class="blog">
 
 <div id="menu">
-<a href="http://cityreliquary.com/wcrm/archives/2005_11.shtml">&laquo; November 2005</a> |
+<a href="/wcrm/archives/2005_11.shtml">&laquo; November 2005</a> |
 
-<a href="http://cityreliquary.com/wcrm/">Main</a>
+<a href="/wcrm/">Main</a>
 
 </div>
 
@@ -78,7 +78,7 @@ Want to take WCRM on the road, or listen as you pass the time on that morning co
 
 
 <div class="posted">
-	Posted by archival at <a href="http://cityreliquary.com/wcrm/archives/000345.shtml">04:16 AM</a>
+	Posted by archival at <a href="/wcrm/archives/000345.shtml">04:16 AM</a>
 	
 	
 </div>
@@ -110,7 +110,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
 
 
 <div class="posted">
-	Posted by archival at <a href="http://cityreliquary.com/wcrm/archives/000344.shtml">03:48 AM</a>
+	Posted by archival at <a href="/wcrm/archives/000344.shtml">03:48 AM</a>
 	
 	
 </div>
@@ -142,7 +142,7 @@ Contact: <a href="mailto:wcrm@cityreliquary.org">wcrm@cityreliquary.org</a>
 
 
 <div class="posted">
-	Posted by archival at <a href="http://cityreliquary.com/wcrm/archives/000343.shtml">02:24 AM</a>
+	Posted by archival at <a href="/wcrm/archives/000343.shtml">02:24 AM</a>
 	
 	
 </div>
